@@ -13,13 +13,13 @@ curl -s https://raw.githubusercontent.com/umpirsky/tld-list/master/data/en/tld.t
 Get the middle segment (part before the TLD) of all entries, excluding ddns.net, spit it out as *.string
 
 ```
-awk -F= '{print $2}' data/identified.txt|grep -v ddns|awk -F. '{print "*."$(NF-1)}'|sort -u > middle_segments.txt
+awk -F= '{print $2}' data/identified.txt|grep -v ddns|awk -F. '{print $(NF-1)}'|sort -u > middle_segments.txt
 ```
 
-For all TLDs in tld.txt, try *.string.tld
+For all TLDs in tld.txt, try *.string.tld (try also: no subdomain, `play.`, `mc.`, etc)
 
 ```
-for tld in $(cat tld.txt); do cat middle_segments.txt|awk '{print $1".'$tld'"}';  done|pv -l |xargs node try_url.js
+for tld in $(cat tld.txt); do cat middle_segments.txt|awk '{print $1".'$tld'"}';  done|pv -l |xargs -P3 node try_url.js
 ```
 
 Get a list of hashes which have not yet been identified

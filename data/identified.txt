@@ -350,6 +350,7 @@
 295d82f4125ad15331c4e348431a909f34f4968d=0716adeb65725d9a.ddns.net
 296173039a8da2a6826e651f9a76539bc79c92d1=f43651f64531f6534f.ddns.net
 29a2208fbbb8b4cc8cb694057fb8ef3add7608ee=23d0f823d932id2dop2i3d.ddns.net
+29d51a8ec74e5f59d75ffd324f9384e483eef8fb=*.svmc.com
 2a347b53a8e2d86ac7ab1506ce2b7a1b1cc6fe86=gtamc8.ddns.net
 2a5103a898a7264bf9db74c68915d79717d4234f=bjwf4cutqsv5wm7j.ddns.net
 2a5d776a9d8dd8ef7b5de2bb67eee31476a9066f=*.skyblock.xyz
@@ -1356,6 +1357,7 @@ a3a1f30e7991a5c6144dc4cda874163cf59f8a4b=ba991d63f9b7fa13.ddns.net
 a3a39989da248ec343bacb6f55458803acc704ca=ricegotroasted.ddns.net
 a3b60b2783606be80a056a3522f33c258155e2dc=analsexnohomo2.ddns.net
 a3c987dd8566f35f3d5552bc5569ba47409382f0=manacube.ddns.net
+a3ebb8140c64f616756deadb2502c43420a525d1=*.venturemc.org
 a3eda75bbf06f56c9c4a6ba8b6af2a9050e59b1f=ufr42d5mdt.ddns.net
 a3f4147c3f13cf142e1330304177c2a9464a6bad=2lodpgmketruimonvcw5xzpnd.ddns.net
 a426cb01ba59c2007fce97d9d7f8c0a02c6bc644=allahakbargovb.mc-srv.com
