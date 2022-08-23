@@ -366,6 +366,7 @@
 2c3f2674550b668d7728d7a562e848a986288a22=prwfx3zl0ltqdp9g.ddns.net
 2c52c9c7db3d58ede08e02978e5a01ca90ee064e=6c76401a66d32fb9.ddns.net
 2c62c41e94dadb6f4385be154552eab1e221217b=*.pixelspark.org
+2c63f5dfb662c49f7f2dfb75e909d34022552204=*.youre-literally-broke-microsoft-slaves-lol.site
 2c9cecaeca076c170b57935b83c4ed820506b0db=sb-hub17.ddns.net
 2ca0c2d11b0656774acd3a69e3fc5e3edfa59d73=fckeula28.ddns.net
 2cad314d36eedcf76408cd7d938fdabf0d477023=45db3cb0fe45a836.ddns.net
@@ -399,6 +400,7 @@
 300bfbb90ab5b9f718bc108688d0cffbbe43cc91=e980035a5cbcedf5.ddns.net
 3021599cb58252a1e58b7247d0fa60e5ef16c936=mywifequitherjob.ddns.net
 3038801ddda75de45ca3bd063f3c592a56defe4c=ecocitycraft100.ddns.net
+304eb04aba3be5f08db249750e4d0c4c55fc33bf=*.youre-literally-broke-microsoft-slaves-lol.bid
 3069100b05e4750b44f4f541cd09604df811f4b9=h7mc.ddns.net
 3069fe5a93790d8f87303b88b8c99230c3b94bc6=yougetpissedlikemcdonaldstoilets.ddns.net
 307ccb420faa89ac5530a7e2c727a6cf9b64ad1d=isleptwithelonmusk.ddns.net
@@ -493,6 +495,7 @@
 3aaf6c5294b3ce7a38491670a7096fb310a01a1e=1manaproxy-311.ddns.net
 3ac042d1d705bef27ee3dd4788181715cdfdfe18=*.blockgamemoney.pw
 3ac905b3a7f5219648653b90b469726142f879be=analsexnohomo3.ddns.net
+3adeaec02627b3e25aa2b05b0381175c16678e54=*.youre-literally-broke-microsoft-slaves-lol.club
 3ae6fd8908d4ef3c34ed73059c7e577dc66016a3=41554e064261a78a.ddns.net
 3aeaeeec10a90846f4f16250b2a11445ead7fa36=2z2wvgrcwx.ddns.net
 3af51386e46b636fcec7380ca2308c05759ca58e=*.luckyprisons20.club
@@ -625,6 +628,7 @@
 4a36c232a4be563a75f497143b96c1b8a81c3063=b2c499c885c3e931.ddns.net
 4a4a35627f4a15be9493a35ddc1132b9eac2048f=*.hillsrforkids.tech
 4a5069d1235ee4af78922d62bd917428e163d6e5=minerazedns1.ddns.net
+4ab905ee7ba72714189c8c5a6fbd73e5266957a8=*.youre-literally-broke-microsoft-slaves-lol.space
 4ad6a8b078b53941a2a1ed6e74305d8bfb11d5a0=2odq52j6xgat45zr3tmqr32pa.ddns.net
 4b18caf8fbed7ccb95bb9952a6b7af567f4de819=jik1b1ft15x2.ddns.net
 4b1f885456ddc8c9132e06fc05cdcc9df6b096e8=rmc12.allowed.org
@@ -1135,6 +1139,7 @@
 8a47c3c2eb5eb92b5570f10486165d22775fbcc0=ivsbgcqpyk1whkcp.ignorelist.com
 8a561ed2d9686a0bacffa6223a102098dfe611b1=mt-sbzobuk31y.ddns.net
 8a5bd94d3b2bd493e06f826f08a6959dd62e889f=bc5xbpluh5q4a6ped.87qwmtvp.ignorelist.com
+8a753d1cc6fa23e016b6e60726edffbe85360efe=*.youre-literally-broke-microsoft-slaves-lol.top
 8a8c11017d9095fecb54240933586acc26985f0a=*.odercraft.net
 8a958b6fa7ad33230a1f8d16bb807c1b3d34ad21=lol7jan96.ddns.net
 8aa0136e9e96ff0bb1dca8323ae8e3dce7016acb=*.negativeoptions1.club
@@ -1241,6 +1246,7 @@
 97d11139c2707bcec9ac903c8f9252ea5de44c3e=fckeula19.ddns.net
 97fbe8ca2132f66415c2e18421a32e96941df0b0=sad612aws6d482397r923r.ddns.net
 980c6def470c67151163d6a80cbeb7e00e969b38=22dcf325b47120b8.ddns.net
+981a318d7d17145986cf669bb82bd372e31b8a60=*.youre-literally-broke-microsoft-slaves-lol.website
 983db95f749ad05846203e6d7ac6cf4473f01e66=sillygoose.ddnsking.com
 985492d70344fd3fbb334353463731573c55f371=*.meepcraft.online
 986204c70d368d50ffead9031e86f2b9e70bb6d0=*.playmc.mx
@@ -2030,6 +2036,7 @@ fe1351ffae45ede421215d4c39bbadcb2187749c=cg2p7gt6o89w00y8341m1xpqi.ddns.net
 fe1b0f94caf9f85746b1fabf3d07aa4f7be5f37a=jm99o4qxq4ng5tr8.ddns.net
 fe3bb62da45c33dc41314323726d8da277c0bd5a=*.meeplabs.loan
 fe52fe13b1636c9245ae6567bcad184b802456ff=iwouldstillweararolexasablindperson.ddns.net
+fe60efca9bcdf4600befd06c603a6f0b11f03755=*.cosmicpvp.me
 fe6342b43c7486a026b6ac4fab83a95db5e4edfb=opmines3.ddns.net
 fe9df8594372903711381456ff0a464b0915d1be=ecocitycraft99.ddns.net
 fed290ca588b8063dda3abbddb8c744a7c0f0b7e=lolmojangsosalty4.ddns.net
