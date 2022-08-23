@@ -120,6 +120,7 @@
 0df592bdd8ae5332241c262a4ad3b4b3b6dd8c0f=4ddde3fda41fdce2.ddns.net
 0e48382d5bcd321a2815b1f028cdedc964f30d91=*.meepcraft.info
 0e6dc4297984b6ff99d30f5d0fce702cb4d776eb=3f243b4952fe0124.ddns.net
+0ec1ad2bf80aaa8b8b64f897613a65318d1d69d8=*.mineland.net
 0ed6d3d79e3892ac57bcbbba652db11cfb3717ea=b685df57b2104b88.ddns.net
 0edede002d4b4314973a86b9707ed1f6519a1fdc=bekeneinejjqqq.ddns.net
 0ee45b64de764aea096dd98d918d774cba5996d6=o09o039303j30e113.ddns.net
@@ -172,6 +173,7 @@
 14942ccd4ac28e68a9041c213a4cff8365d59c12=*.meepcraft.me
 14d2564bec060e216ffa874a764ed05133f2ea98=a82f71c5b57d148a.ddns.net
 14e7263068c9f3454514b55edf736bafc7b60137=rmc1.allowed.org
+152dd99eaf18bc49769b2744ee330f5499edd87a=*.dragon-survival.eu
 15327898f92524912c4a1b1310437b7fa32292f4=*.meeplabs.site
 155ad37ee1e8fa5a601a05ed8d3f7cb988881165=*.himojangsup.top
 156fdb34d492aced1eef55ade0fd278bfaba7a7b=balancer333.ddns.net
@@ -409,6 +411,7 @@
 30a19bee9004077846b94fd23ee4e3611405ffe5=743633fb8ba85a9a.ddns.net
 30a4693d96150854105ba37733995949fd83ce9a=keemislitty.ddns.net
 3105c2cf26a2e953ba06e30a52e5aef8a17cf068=froheweihnachtenmojang.ddns.net
+310ed9d1cc202b37113fcd1f62bb6f935c22f5e5=*.flamesurvival.com
 31217726bdf2371c71f46e07635d5b5707308fbf=txyhkmvg.ddns.net
 3142784b02ac5f5fa830e672d8cf423d901d5063=buybitcoincash.ddns.net
 31c85f04b11acd7f36f03b080356eaa17c203d58=*.craftofclans.net
@@ -483,6 +486,7 @@
 38cf70dc01f397c045549c0605e76c8e7d820d4a=*.youre-literally-broke-microsoft-slaves-lol.tech
 38fa5c8f80024bf12f7336f219fdef9728ba9748=8acd2b454cd64e04.ddns.net
 3932b775bc29ece2ace6bdc6e8df5aa58e1df6ea=canigetmyvisa.ddns.net
+3940cef3e4dae827cae6f06dfa2755d639d705de=*.8v-thatfacewhenyoubustbutbrandonstillsuckin.xyz
 39434a8f6cae2fcda9bfb67484a5e52d364379b3=u7qih0wxc382mo.ddns.net
 39527d0bb13abb92a4b1bbe7f8270e45f6eb6927=asd23r23r23r.3utilities.com
 3971659c6a7020003b8b689a50d74c48121fbcf9=tsh12.ddns.net
@@ -493,6 +497,7 @@
 3a4d510f342439c4229909155532830a576878ca=9ksrcj7mhg2mxxl.ddns.net
 3a55001a13ee06d1ce9d10545e8f1f316bb35bbb=rmc15.allowed.org
 3a650d0fc206a13d7c0f2abac6088e535b8daea5=almostdied.ddns.net
+3a85e83f2676c1cb74440aafc56bc15c7078413f=southpvp.minehut.gg
 3a9d27fd9625faef7ddddbe1b579d07ef2dd7ea2=neverdonebefo.ddns.net
 3aaf6c5294b3ce7a38491670a7096fb310a01a1e=1manaproxy-311.ddns.net
 3ac042d1d705bef27ee3dd4788181715cdfdfe18=*.blockgamemoney.pw
@@ -515,6 +520,7 @@
 3c902552546a124b39b8c01ba9a25fba3d0dc90f=analsexnohomo4.ddns.net
 3cbbde02584dadd46b342a76e151d44b810b80d3=*.negativeoptions699.club
 3cda765eea22fe7e9075813fa3fabf9806520203=mustwatch.ddns.net
+3d04ac23904860cbd9562d66550683f5dc314432=*.jasmc.net
 3d131e0a84dc5de862a3d3aabefb01b3e3a825b5=45b38642b8af97b2.ddns.net
 3d36f898dd71bbffd58f950f772c5ae023e7f0d2=24234234234asdd.redirectme.net
 3d3c7f889b435bb970f9664d104d219386432da4=sbhub22.ddns.net
@@ -601,6 +607,7 @@
 47972b2d4274fad80fd478fd1cfdcf63d35beac7=*.evermine.it
 479b718a139a40f44cde730349b2f541e58690f1=shadowsb16.ddns.net
 47aaa18d2fcf9fb750c369b4d2c10a8392da8359=har1dar4tm.ddns.net
+47b9625be0cc2657be606bdde1ba8aaba4595a86=yourownkingdom.craft.gg
 47f35f2106f6f9c57ab03774d439e2a788ef6e94=testing7
 47f6f304ab0ec0f5e86b1ad9af4066b540c3efd2=minecraftdicks.ddnsking.com
 47fbfe430e98cb4875e3d352a96b8784d84027f2=8599cf0a582dc1c4.ddns.net
@@ -884,6 +891,7 @@
 67ef8d62572247e3dea0d42860bbb8b4606d3658=dr766tf7dr64d6e5de.ddns.net
 67f3f18a3add1ed441b84ec866f5f27eb51d34f1=*.blockgamemoney.online
 6834d84805a4496ec5f24f4e1ec6de28418ebe05=miniii.3utilities.com
+6852df4704aa29edb88aacbf15bab6eacbb0beba=*.sexyleben.net
 68570c0a21c55bd725aa560affda458d9857d35d=4c2a2dd80c406613.ddns.net
 68628bc7f7136df7e088e2c589c22997ac85659d=sa5d894as9d49834d.ddns.net
 68754afff50fff78c72f875751e7b3d649e43388=df395312df982349d82348d.ddns.net
@@ -906,11 +914,13 @@
 6a450b30ce600b5b7094cc51e19e3ffe9b857fe2=ns3029576.ip-149-202-223.eu
 6a88f64b36ed3140a12aad773fe93ccc3689d048=chocowhite16.ddns.net
 6ac04d090467ba760f6d41d579033b0cfb75b0ea=*.meeplife.stream
+6ac69234e18873978affc95fc4851b3290f769a4=*.risencloud.com
 6ae9ab9eeedc51b860ae067d3f9ff2e4dbf49ec7=224a77819b326f3c.ddns.net
 6b00994df83a5efd12d74440c553654929516b32=isleptwithbrandonswife.ddns.net
 6b1536b591b4cc530d1b40a5ea82f307d6086940=shadowsb14.ddns.net
 6b36613af5a3b50f65c0f48b62a40d0f11b61bdd=gtamc12.ddns.net
 6b3c2f3549a259b883768d0e7287c127d55f3560=p9ok2st2wq.ddns.net
+6b43e1a4b5f7999320cf94699890130db78f024e=*.minefox.pl
 6b450948b59cff340e7feba401eac6770b1c8890=x8g9bn8phjt2yg.ddns.net
 6b8812cf930543579fd88714e182e566dd6506ce=*.playminecraftworld.nl
 6bb34bd7395ac27acee66230a3c075ac61b7f8f3=56e2ctrfg4a4v27t84dvy750h.ddns.net
@@ -920,6 +930,7 @@
 6c39bc433dd9767f1cd6e7c33427a30aaa750dba=*.pixelsss.pw
 6c50fe5d71cc264710f916e1fa84319740469950=sb-hub4.ddns.net
 6c68c50e4c8a5e30f182943fe80ae8bc97a7b146=e28498e5c98c2d69.ddns.net
+6c71eb8e079edde25e2cac52f0e5091ad3301033=*.sb-central.com
 6c939fbb268bbbeaa7d3618016d8588b7cf0c532=gotpvpnet.freedynamicdns.org
 6ca511e675ab81fb272c9e88b1cba1369a04a336=bfbd7e73f3d9de61.ddns.net
 6cae9de92462f613d922974828839ecf987733de=fe9258b19b43bcbe.ddns.net
@@ -948,6 +959,7 @@
 6f8b2abc8f7b5439f516cb78fb83764824de25c2=himynameis.ddns.net
 6f970e147d3805af8b6fb96eae981919f6628ea1=swswswswswswwwswsw3.ddns.net
 6fa5097dbc3da97f99609ce4fd40d740b454dd21=keemstarplayshere.ddns.net
+6fd3aeb972bcfd63ee70fba66c49b6360f7821d5=mojangsuckscock.ddns.net
 6feedcd7bf9c1aa8a0e8fd8ce9066c35670af849=0e8e9sx61z5w.serveminecraft.net
 701a630797007604ad2a92b20f7e2bc57579addd=f9466a1e7fe69e8e.ddns.net
 7055a99ffe2b1dbbbb38b610eee9632714a96332=0y00o5x.ddns.net
@@ -1055,6 +1067,7 @@
 7e1ef4e91d8ae53c0e7f1a777d3044df2e95edee=50b6b5814c497e62.ddns.net
 7e2629322191c0bbca46e8c6bea99fd7713f54ef=b1cquhr9.ddns.net
 7e296ab4b863bf67d68af6bf09bc36d598790a5c=mineplexhypixel.hopto.org
+7e3a6e645c6f4d49129cc7a548fdc5c230d4a4a9=*.coolax-gaming.com
 7e79982a80e0d70af685ea98aea0014c27f6cffd=h15mc.ddns.net
 7ea6a38533fbd3c53ec8277fde34900498d5d070=c75f46428343dcc2.ddns.net
 7ea72de5f8e70a2ac45f1aa17d43f0ca3cddeedd=*.trollingbrandon.club
@@ -1183,6 +1196,7 @@
 8e27886cdea73034eb09ce4b4f5b737eb6ce2660=kemplex.ddns.net
 8e2cf2147458d23eb582d65cc0218c0516627ff1=analsexnohomo1.ddns.net
 8e359400e91e7d16efe64cb713b2fa9a16f6f5f1=*.cosmicsky.com
+8e75e62c2e5d70e635029313e8f27d3531576dd2=*.loth.us
 8e87a29da8760dc2ea1347b6dfb237ccd29d5819=*.ilikesmellingmyownfarts.club
 8e89b366a5d03f990d108cb25b66c4405ff0a5a5=on3nl0gbmg.ddns.net
 8ea275decdbbd9a0b469ae7a24fa7750951924e5=rmc17.allowed.org
@@ -1409,6 +1423,7 @@ ac0ab21141a7215b8ef24bfa95383f5287c96c24=ar85xkb.ddns.net
 ac51fcc862b4ca215fc15d288e1c025b8f468240=3f94f5ffe13fbae1.ddns.net
 ac79554c8640b1e4201476504a6274c19decf490=DNS03
 ac7e715494da3b381bd37e87419c44e7d506f01b=fadedsb16.ddns.net
+acb689fb926dfe7379959ebe35583830ed76c8ea=*.kwadratowamasakra.pl
 accc4ad31828b7a2ae866538a13068bbb64b612c=*.mojangblows.tech
 aceb52cb0ac1f83d2821763146ee83e45d061155=odqpahpn.ddns.net
 ad22888def498092829b06ff6183b075de48d829=1mmxy6cf.ddns.net
@@ -1821,6 +1836,7 @@ e172033b44d21a941860fab0440c0e3752bb36a7=*.negativeoptions3.club
 e177b3b369c1994e5d5cbd739e3bc04922f57392=baj2zzzc24c1yuy5.ddns.net
 e18f715e52ae31c8656b2604cf545ce40de76baa=*.koru.rip
 e1a86b414bb5d46fc5763a4fc7c361a30d246356=823ue91hd13d134.ddns.net
+e1e9aae168b1954551718be3c762a914bf2861d3=*.vcprison.com
 e20fbd263104be6298d635c9d6d77a5ac36c9c20=37pw0bd3pn8wh5z.t5iqoovs.strangled.net
 e21ccdb6db7ad238f70ae015cc200ee6140e3d97=34a1ba09ee83b4f1.ddns.net
 e22b9aef191b379f267dfee1ab5aeddb167cd6ac=42qwsrz2pg.ddns.net
