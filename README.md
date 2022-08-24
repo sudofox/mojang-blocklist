@@ -27,3 +27,17 @@ Get a list of hashes which have not yet been identified
 ```
 comm -23 <(sort -u data/current.txt) <(awk -F= '{print $1}' data/identified.txt |sort -u) > todo.txt
 ```
+
+# for big lists of minecraft server urls:
+
+remove first subdomain. replace with *.<domain>. this also strips port numbers and normalizes casing
+
+```
+cat minecraftservers_org_scrape.txt| grep -Po ".+?(?=:)" | grep -Po ".+?(?=\.)\K.*" | tr '[[:upper:]]' '[[:lower:]]'|awk '{print "*"$1}'|xargs node try_url.js
+```
+
+Given a list of raw `dig` output for many srv lookups, filter for domains only and strip the trailing dot:
+
+```
+tr ' ' '\n'|egrep [[:alpha:]]|sort -u|grep -Po ".+?(?=\.$)"
+```
