@@ -7,7 +7,7 @@ I figured I'd try to get a more comprehensive list of the domains blocked by Moj
 Get a list of TLDs (idk if this is super up to date)
 
 ```
-curl -s https://raw.githubusercontent.com/umpirsky/tld-list/master/data/en/tld.txt|awk '{print $1}' > tld.txt
+curl -s https://raw.githubusercontent.com/umpirsky/tld-list/master/data/en/tld.txt|grep -Po "\(\K.+?(?=\))" > tld.txt
 ```
 
 Get the middle segment (part before the TLD) of all entries, excluding ddns.net, spit it out as *.string
