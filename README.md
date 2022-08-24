@@ -36,8 +36,20 @@ remove first subdomain. replace with *.<domain>. this also strips port numbers a
 cat minecraftservers_org_scrape.txt| grep -Po ".+?(?=:)" | grep -Po ".+?(?=\.)\K.*" | tr '[[:upper:]]' '[[:lower:]]'|awk '{print "*"$1}'|xargs node try_url.js
 ```
 
+Do srv lookups for a list of domains
+
+```
+cat domains.txt| grep -Po ".+?(?=:)" | tr '[[:upper:]]' '[[:lower:]]'|grep [[:alpha:]]| xargs -I{} -P10 timeout 5 dig srv _minecraft._tcp.{} +short | tee -a domains_srv_resolved.txt 
+```
+
 Given a list of raw `dig` output for many srv lookups, filter for domains only and strip the trailing dot:
 
 ```
 tr ' ' '\n'|egrep [[:alpha:]]|sort -u|grep -Po ".+?(?=\.$)"
+```
+
+try *.mc or *.play subdomains for existing
+
+```
+awk -F= '{print $NF}' data/identified.txt |grep [[:alpha:]]|grep -Po "\*\.\K.*"|awk '{print "*.mc."$1}'|xargs node try_url.js
 ```
