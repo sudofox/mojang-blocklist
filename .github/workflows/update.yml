@@ -18,6 +18,9 @@ jobs:
     - name: Generate todo.txt
       run: |-
         comm -23 <(sort -u data/current.txt) <(awk -F= '{print $1}' data/identified.txt |sort -u) | sort -u > data/todo.txt
+    - name: Generate merged.txt
+      run: |-
+        node update_merged.js
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
