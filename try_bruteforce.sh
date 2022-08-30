@@ -16,6 +16,6 @@ for tld in $(cat tld.txt); do cat middle_segments.txt|awk '{print $1".'$tld'"}';
 echo "Deduping..."
 sort -u domains_to_try.txt -o domains_to_try.txt
 
-DOMAIN_COUNT=$(wc -l domains_to_try.txt|awk '{print $1}')
+DOMAIN_COUNT=$(wc -w domains_to_try.txt|awk '{print $1}')
 echo "Checking against $DOMAIN_COUNT possible strings..."
 cat domains_to_try.txt | pv -l | xargs -P3 node try_url.js

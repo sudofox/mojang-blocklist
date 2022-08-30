@@ -12,7 +12,7 @@ var current_file = fs.readFileSync(current_path, 'utf8');
 var current_hash_count = current_file.split('\n').length;
 
 // fetch the blacklisted servers from https://sessionserver.mojang.com/blockedservers
-http.get('https://sessionserver.mojang.com/blockedservers', function(res) {
+http.get('https://sessionserver.mojang.com/blockedservers?' + Math.floor(Math.random() * 999999), function(res) {
     var body = '';
     res.on('data', function(chunk) {
         body += chunk;
