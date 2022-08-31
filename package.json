@@ -1,7 +1,7 @@
 {
-  "name": "mojang-blacklist",
+  "name": "mojang-blocklist",
   "version": "1.0.0",
-  "description": "tracking and identifying blacklisted minecraft servers",
+  "description": "tracking and identifying blocklisted minecraft servers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

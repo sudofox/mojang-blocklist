@@ -1,4 +1,4 @@
-# sudofox/mojang-blacklist
+# sudofox/mojang-blocklist
 
 I figured I'd try to get a more comprehensive list of the domains blocked by Mojang, so this is my stab at it.
 

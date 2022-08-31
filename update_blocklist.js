@@ -1,4 +1,4 @@
-// fetch the blacklisted servers from https://sessionserver.mojang.com/blockedservers and stick it in data/current.txt
+// fetch the blocklisted servers from https://sessionserver.mojang.com/blockedservers and stick it in data/current.txt
 
 // import http, path, and fs
 var http = require('https');
@@ -11,7 +11,7 @@ var current_path = path.join(__dirname, 'data', 'current.txt');
 var current_file = fs.readFileSync(current_path, 'utf8');
 var current_hash_count = current_file.split('\n').length;
 
-// fetch the blacklisted servers from https://sessionserver.mojang.com/blockedservers
+// fetch the blocklisted servers from https://sessionserver.mojang.com/blockedservers
 http.get('https://sessionserver.mojang.com/blockedservers?' + Math.floor(Math.random() * 999999), function(res) {
     var body = '';
     res.on('data', function(chunk) {
@@ -30,7 +30,7 @@ http.get('https://sessionserver.mojang.com/blockedservers?' + Math.floor(Math.ra
 
         console.log("Writing " + new_hash_count + " hashes (old count: " + current_hash_count + ")");
 
-        // write the blacklisted servers to data/current.txt
+        // write the blocklisted servers to data/current.txt
         fs.writeFile(current_path, body, function(err) {
             if (err) {
                 console.log(err);
