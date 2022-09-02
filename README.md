@@ -53,3 +53,14 @@ try *.mc or *.play subdomains for existing
 ```
 awk -F= '{print $NF}' data/identified.txt |grep [[:alpha:]]|grep -Po "\*\.\K.*"|awk '{print "*.mc."$1}'|xargs node try_url.js
 ```
+
+Finding bypassers via SRV...
+
+
+```
+awk -F= '{print $2}' data/identified.txt |sed 's/*.//'|awk '{print "_minecraft._tcp."$1}'|xargs -L1 -P10 dig +short srv |tee srv_re_resolve.txt
+cat srv_re_resolve.txt |awk '{print $NF}'|sed 's/\.$//'|xargs node try_url.js
+cat srv_re_resolve.txt |awk '{print $NF}'|sed 's/\.$//'|awk '{print "*."$1}'|xargs node try_url.js
+cat srv_re_resolve.txt |awk '{print $NF}'|sed 's/\.$//'|awk '{print "*.mc."$1}'|xargs node try_url.js
+cat srv_re_resolve.txt |awk '{print $NF}'|sed 's/\.$//'|awk '{print "*.play."$1}'|xargs node try_url.js
+```

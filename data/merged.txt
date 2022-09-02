@@ -883,7 +883,7 @@ c013aca77a3ceec702700ee38aece22dfc64c8c1=*.mojanglikespp.tech
 3f0868a86c356706cc25857e4b466010897c8241=*.moredotsmoredots.club
 8789800277882d1989d384e7941b6ad3dadab430=*.moredotsmoredots.xyz
 986204c70d368d50ffead9031e86f2b9e70bb6d0=*.playmc.mx
-6d804784427cdc233986d0ae3c3a635f852bb7a6
+6d804784427cdc233986d0ae3c3a635f852bb7a6=*.t5iqoovs.strangled.net
 87dca2d59bbb223c2be3e2660d122079b040939a=*.youcantstopme.press
 802b4bdc0bf50ebf97f3db9c805a0e5792217365=*.youcantstopme.site
 c23d416b65e6afeacedc2c3ca5538d8a678be0cb=*.youcantstopme.space
