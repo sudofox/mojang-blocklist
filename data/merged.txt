@@ -396,7 +396,7 @@ e13243c88ac11681f3523235914153708326867b=spyfmdge.ddns.net
 18d97388786ddacad99cdee6af0e696f6baeb750=t0sa101c.ddns.net
 8235a59f93865d4e09d5ed9d3971ea970acea22d=tfnkhlhf.ddns.net
 eb714fe72ccdfc4b6dd554f119dc4cdf705a5181=wc4qfg69.ddns.net
-04f48bcd793bb4bdb1c67614ff11a09a0ad7e29b
+04f48bcd793bb4bdb1c67614ff11a09a0ad7e29b=*.play.beanblockz.com
 ebb1b29e7380f5769096fef6e61263b6e43eb75e=*.sexyserver.net
 d0f53796f3480d8dab0d62a3ac40b5749e405662=*.play.lastcraft.net
 d725b8deb1f2878f5991f62f49bd6508f7d38c18
