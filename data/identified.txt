@@ -292,6 +292,7 @@
 220883aafb5e6eecc06f39a421a11be265f487ef=8374659284.ddns.net
 220c22b84160a4db39473bafebcbd70a3e704ffa=mycollarstaypoppin.ddns.net
 220ea286ded620bc1ed647187b3bd13a3489a8e7=node02.cunnycraft.moe
+2217be83651e7ab6ede628cb8772ae2e133dfe1d=*.play.reevenetwork.com
 222ab8a2602e498651e42d750f89416f6cf3fd11=kbucw0khr5.ddns.net
 227d18c2d31450ced40234b04a24820e1c880aa2=*.invasionz.fr
 22b7defba3532c4d70dd895e96fe648842fe2b36=gtamc5.ddns.net
@@ -1567,6 +1568,7 @@ bc51cb5e4d78877cd9421244198c4b1898852bc0=mvmvvmvmv3.ddns.net
 bc8643c831b337c2f30059f81c4ccdfde8e7366b=d8660c4a5a9db105.ddns.net
 bc887dea67dd7b5ab3e240cc94a04c07ea8c0a7e=0485726485.ddns.net
 bc95835da78f0eecc2dd08ec431c4fbd27f4901b=lolmojangsosalty5.ddns.net
+bca23f2cf84216c36adee56c264f73ac77a45903=*.play.jurassicmines.com
 bca25882fdde8698c207dd1c49e9f14ec08e376c=48304b938b7cd6dd.ddns.net
 bceb0b41330ff7c0d6aa45e516dfb16b62924be8=mc.serveirc.com
 bcf40197521f31cd0b7ccdb978a0794fafe0ff65=therapistfinder.ddns.net

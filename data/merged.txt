@@ -643,7 +643,7 @@ dc3b35ea9004ef1e0c01e33c77b2c7597bb0dd43=*.vibez.host
 b216cb229d67e5462b559cf24912e2c6cba3dd07=*.vibez.space
 9d6ffa5c28a4c5397dece9e644a436cbd33c4330=*.vibez.top
 f728c2892b407ad03feb3672f77ecf2963d89562=*.vibez.website
-bca23f2cf84216c36adee56c264f73ac77a45903
+bca23f2cf84216c36adee56c264f73ac77a45903=*.play.jurassicmines.com
 6852df4704aa29edb88aacbf15bab6eacbb0beba=*.sexyleben.net
 9db54077721d39d8fd1acf757e5d2271b8af1ab0
 d954410fb824f6362b5922a604698bdce43f4172
@@ -1371,7 +1371,7 @@ f2fa0d8e5c2e4935b1c61e594d741fbe33e5e739
 3a85e83f2676c1cb74440aafc56bc15c7078413f=southpvp.minehut.gg
 a0bceb640c3eebcd512a894c20f696bbbbe86a9b=*.velocity-mc.com
 0895088704d654a0fc6b2ac0382b72b434e85258=*.emenbee.net
-2217be83651e7ab6ede628cb8772ae2e133dfe1d
+2217be83651e7ab6ede628cb8772ae2e133dfe1d=*.play.reevenetwork.com
 6c939fbb268bbbeaa7d3618016d8588b7cf0c532=gotpvpnet.freedynamicdns.org
 619c6492edebe0486dda55adcdf8d1fed1c37265=ipmanager.blogsyte.com
 e3592f6392631301b0d45345eec22dc96afb389b
