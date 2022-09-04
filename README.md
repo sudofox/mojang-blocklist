@@ -64,3 +64,12 @@ cat srv_re_resolve.txt |awk '{print $NF}'|sed 's/\.$//'|awk '{print "*."$1}'|xar
 cat srv_re_resolve.txt |awk '{print $NF}'|sed 's/\.$//'|awk '{print "*.mc."$1}'|xargs node try_url.js
 cat srv_re_resolve.txt |awk '{print $NF}'|sed 's/\.$//'|awk '{print "*.play."$1}'|xargs node try_url.js
 ```
+
+## hashcat stuff
+
+```sh
+# start things
+hashcat -m 100 -w3 --session commonsuffix -o cracked.txt -a3 data/todo.txt commonsuffix.hcmask 
+# resume checkpointed session
+hashcat --session commonsuffix --restore
+```
