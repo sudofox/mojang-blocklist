@@ -48,6 +48,12 @@ Given a list of raw `dig` output for many srv lookups, filter for domains only a
 tr ' ' '\n'|egrep [[:alpha:]]|sort -u|grep -Po ".+?(?=\.$)"
 ```
 
+another thingy similar
+
+```
+cat minecraftservers_org_scrape_resolved_srv.txt | tr ' ' '\n'|egrep [[:alpha:]]|grep -Po ".+?(?=\.$)"|tr [:upper:] [:lower:]| sort -u| awk '{print $1" *."$1" play."$1}' | xargs node try_url.js
+```
+
 try *.mc or *.play subdomains for existing
 
 ```
