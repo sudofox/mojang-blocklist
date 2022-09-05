@@ -4,12 +4,13 @@
   "description": "tracking and identifying blocklisted minecraft servers",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update-blocklist": "node update_blocklist.js",
+    "update-merged": "node update_merged.js",
+    "update-todo": "comm -23 <(sort -u data/current.txt) <(awk -F= '{print $1}' data/identified.txt |sort -u) | sort -u > data/todo.txt"
   },
   "author": "sudofox",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^3.2.10",
     "sha1": "^1.1.1"
   }
 }
