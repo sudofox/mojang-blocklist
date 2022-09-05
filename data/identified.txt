@@ -1548,6 +1548,7 @@ b94934960915980af113a77e51b16ac2084f15e7=00ffopm.ddns.net
 b96aaf4c558ef8829cf6ca9c37040aa4df65b83a=8fubo4tjj8.ddns.net
 b9917e8563fcddfc2abaae344458a3640d6fbddd=62cef65f121b2072.ddns.net
 b9aefcd76fd4a3271b68d207f4339356caab5fb9=*.icarya.fr
+ba2a959810ed42b040fe6aa3874b7f01b99b71b1=TripleKMAF.minehut.gg
 ba36792ce229cbbacab021ef6c7ad5edec827cc0=*.opjails.com
 ba3d1c7778781a6691ee8821e70db7b1c8ae3ad4=344526b4y.ddns.net
 ba9d5a0539dd6fe3ac743cc5c138894ee4029229=1d1af854fa727c41.ddns.net
