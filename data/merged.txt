@@ -375,7 +375,7 @@ dde2f19a11a1da6820c954c240fcea36f6379ea6=*.skycalypso.de
 5d64ecee1e2494299dba4f5835e9e49254a3f6b4
 d54db115d781524c35508c1bbbea9fef38a05cd8=*.sarmacraft.info
 aff4ca9b99b2b8776d4fc2e6f61d060c39829733=*.fajnycraft.pl
-070e0b321a6622287328cc06c4e79bf1f9fc1d26
+070e0b321a6622287328cc06c4e79bf1f9fc1d26=*.jugar.dragonballcreativemc.com
 50144eb71cb472738e1265ec32db5ca1232ea3ef=*.cloud-craft.online
 a972e7e1d31af2e3b717b9fc4aa8761c54b3b723=0akdhgoq.ddns.net
 f3d914ddac14acdf2932a84de714277f4af7f6fa=0go4381t.ddns.net

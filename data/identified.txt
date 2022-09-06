@@ -54,6 +54,7 @@
 06cb2fc7bbe767095e828fdc3d1a6be9d4d21189=plsreallystop.ddns.net
 06dec13602bdde16023bbce99a5d487fdfeacb44=i022vsuug07glb.ddns.net
 06eb72217b1f7083f0c84d9e17cead8c7c40cf6c=900c236ac9eec7d8.ddns.net
+070e0b321a6622287328cc06c4e79bf1f9fc1d26=*.jugar.dragonballcreativemc.com
 0723e6f5dc9aecc9a07e7c6b38202afa47b175be=mojangisworsethanbilderberg.ddns.net
 073ca448ef3d311218d7bd32d6307243ce22e7d0=*.diacraft.org
 074171724d5ae4bf9cbea749e9537c31c9751853=jjy3o81ove3aa6.ddns.net
