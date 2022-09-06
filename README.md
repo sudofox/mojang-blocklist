@@ -10,6 +10,15 @@ Get a list of TLDs (idk if this is super up to date)
 curl -s https://raw.githubusercontent.com/umpirsky/tld-list/master/data/en/tld.txt|grep -Po "\(\K.+?(?=\))" > tld.txt
 ```
 
+Expand from mc-server-list-scraper
+
+To strip the first subdomain (will make the other subdomains more likely to work), throw this in the mix: `grep -Po "\.\K.*"`
+
+```
+awk -F/ '{print $NF}' ../mc-server-list-scraper/results/* |awk -F: '{print $1}' | awk '{print $1" *."$1" *.play."$1" *.mc."$1" play."$1" mc."$1" hub."$1" *.hub."$1" *.minecraft."$1" minecraft."$1" *.jugar."$1" jugar."$1}'|s2n| sort -u | pv -l | xargs -P2 node try_url.js
+```
+
+
 Get the middle segment (part before the TLD) of all entries, excluding ddns.net, spit it out as *.string
 
 ```
@@ -79,3 +88,5 @@ hashcat -m 100 -w3 --session commonsuffix -o cracked.txt -a3 data/todo.txt commo
 # resume checkpointed session
 hashcat --session commonsuffix --restore
 ```
+
+
