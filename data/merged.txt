@@ -1899,7 +1899,7 @@ f558f964b32a7f982c1a9583a43ef4cb506827d0=fckeula5.ddns.net
 4baa00ae5250cc8d2635a729a15ccbbafc2e25c8=fckeula7.ddns.net
 c07039e0b281156a7f79c265afcf5f8d76f6c253=fckeula8.ddns.net
 9a3a8ae8f5bf9e9dd0d2a336cd1c4b03d4f5c7f2=fckeula9.ddns.net
-b0a0277c4b9b143a4471cab5dd2d25797e21fd00
+b0a0277c4b9b143a4471cab5dd2d25797e21fd00=*.wintergenz.minehut.gg
 89dca572ae2421216eef9bbc93f6480c7964778e=*.playuncharted.com
 4ce8bfaa2eab20cad88653b8afa1de5e785bfc9c=onlinesince2011.ddns.net
 a8f1714e5a36d824df8b3ed4b38af3681cdf6a60=*.candycraft.org
@@ -1989,7 +1989,7 @@ a73e4c8055bf3558333b59d4a2a5d45de3b40997
 c23529b103ecaabf278e99aaf37f91b0f0fe1de4=*.play.sagapvp.org
 cfd97f9fc037e68e8cae9b1ef665d59990054ef8=*.baldymc.com
 44111e193e7ce41650877802725dcb7494218a5c
-77b7dd70b595577d5524a1448a998b9f0527f125
+77b7dd70b595577d5524a1448a998b9f0527f125=*.Redestone.com
 f5fa045c64bb45a660a25fa515850232928d8734=*.lemoncraft.net
 aad62449215ceb6a3baacbfa75c9b4619b2cc371=amiuyzchzdnpmvxpdmx.ddns.net
 d4d52cc46c6b25e868fd9a6d6a932aba751f71b4=bajacantina.ddns.net
@@ -2013,7 +2013,7 @@ b7a8206b3566ad8c13d05e6691cd42af2f1503b4=xabmvoehhfbegmvpiir.ddns.net
 76747541ae146c84328a5e9ab0d118be97bd8a62=begwnk.myftp.biz
 7d9d3fbddc30d76de81a80b1e72d0c79496b5533
 e4c7f5153c9b241dc9b6061611c601502752942c=*.savage.games
-36b5bc7b143813e73e8b7c8de20efbd7ba0f2ab3
+36b5bc7b143813e73e8b7c8de20efbd7ba0f2ab3=*.mc.pvpheroes.gg
 936dbace9de52d7ba779b754a734e690c713bd49=*.cosmicpvp.com
 11cc489fcfebad1c38891298be4c75df258c6c68=0d897pv4k9ylpc.ddns.net
 ad22888def498092829b06ff6183b075de48d829=1mmxy6cf.ddns.net
@@ -2159,7 +2159,7 @@ f56238355bf8aa9f00b53bdc0989cc5f9aab0884=*.minecraft-romania.ro
 fab898fb32a1b3eeee6767cde84b92c78125ceaa=*.kastia.org
 b72ef96961fd1cb52a4d98b790a82ef27f12f4e3=*.bedcraft.eu
 2c62c41e94dadb6f4385be154552eab1e221217b=*.pixelspark.org
-d203486f3dd2c613776a00a82760d2cac5b9414a
+d203486f3dd2c613776a00a82760d2cac5b9414a=*.Ascalter.de
 ba2a959810ed42b040fe6aa3874b7f01b99b71b1=TripleKMAF.minehut.gg
 8a8c11017d9095fecb54240933586acc26985f0a=*.odercraft.net
 87374110aaf888ba666cfb0021c84cf7514fcc7f=mc.odercraft.net
