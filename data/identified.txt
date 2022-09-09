@@ -655,6 +655,7 @@
 4a5069d1235ee4af78922d62bd917428e163d6e5=minerazedns1.ddns.net
 4ab905ee7ba72714189c8c5a6fbd73e5266957a8=*.youre-literally-broke-microsoft-slaves-lol.space
 4ad6a8b078b53941a2a1ed6e74305d8bfb11d5a0=2odq52j6xgat45zr3tmqr32pa.ddns.net
+4ae5d8e3281ea83fe4d59d5a83698f69950583b6=_minecraft._tcp.oder.us.to
 4b18caf8fbed7ccb95bb9952a6b7af567f4de819=jik1b1ft15x2.ddns.net
 4b1f885456ddc8c9132e06fc05cdcc9df6b096e8=rmc12.allowed.org
 4b444e7079d2942de2e03af00deeaa37fc5993d3=wq9d8418aw9d98a4d98as.ddns.net
@@ -914,6 +915,7 @@
 67ef8d62572247e3dea0d42860bbb8b4606d3658=dr766tf7dr64d6e5de.ddns.net
 67f3f18a3add1ed441b84ec866f5f27eb51d34f1=*.blockgamemoney.online
 6834d84805a4496ec5f24f4e1ec6de28418ebe05=miniii.3utilities.com
+68458aadf1b8eff76e2bd8253020500604ae7d11=_minecraft._tcp.deathlysad.online
 6852df4704aa29edb88aacbf15bab6eacbb0beba=*.sexyleben.net
 68570c0a21c55bd725aa560affda458d9857d35d=4c2a2dd80c406613.ddns.net
 68628bc7f7136df7e088e2c589c22997ac85659d=sa5d894as9d49834d.ddns.net
@@ -1085,6 +1087,7 @@
 7c6aa0eb2e1d181b482cc6525a3b254be270b9cd=xll9v8uizqarwjv.ddns.net
 7c8533fa5c1a5d4ee10e87711a0ff273f2a5088b=*.kitpvp.us
 7ca93fe2ccc734266ecf692fe101db956a3d55af=34120d21f19dd396.ddns.net
+7cf50077ae99ebacf5c6073fd1b08b722fe04d41=odcraft.us.to
 7d01ddb568ea2b274a2a6cb072a27b174840e1f9=mined.ddns.net
 7d63f027844bd06e8582faeacc42ef8ffe1472fa=misterx.hopto.org
 7d7194b9806ac072727e77c45f4a5d055913b9d0=*.muxcraftgold.win
@@ -1382,6 +1385,7 @@ a1167cac15752ada91a33428bff8a99210c879c8=fuckeula.zanity.net
 a1c0fdd514310c885f75787a8f7dc4c7bd280c90=1manaproxy-993.ddns.net
 a25a8acfa40d13dd3c9118d07ffc94c1ed9d0c8d=516sd56f7vf1vxs3ds2f428de.ddns.net
 a2801091a39cb47aa6c76bef6499741b61f63e31=7ec44683cd480551.ddns.net
+a2992ffa1396643d28f8e28627c7d1553b3365a0=oder.uk.to
 a2abe3e22bac908636b7a87b29a1ff296fbb9ce1=e680033fc14ae6a5.ddns.net
 a2caa84c6367627e561247a5704e98b419c29377=v2ilmcuh91c38v.ddns.net
 a2d8f8dfc1d6d233b91ac23e18cc1f375ae540bf=tsh10.ddns.net
