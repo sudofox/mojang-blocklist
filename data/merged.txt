@@ -1794,7 +1794,7 @@ e7edc79a0da9e1dd85c46d7aee2ba8961bd5106f=nalapenfncusyqp.ddns.net
 4e182263f49f84dac94140fe4ebef857829e9413=*.brandonstopplease.club
 3c082f71883374c57896c92c34b7b9cd7807532d=*.eldergrim.com
 026d6a568bb57627ac64b6627d6a84622d5ed3ad=*.firstorangepresident.info
-46d6776173911688f43de78f2d7244e19612ab1a
+46d6776173911688f43de78f2d7244e19612ab1a=*.freetrialbilling.club
 a52b95ad5d4493e54e1b69cc08db9b0367f0a84e=*.luckybrawl.com
 4dfe45dbe092a2dd8b425d3915e011cd2f26298c=*.luckyclub1.club
 2e1174b5ddb24760be576ecf083599b9060dac83=*.luckyprison.club
@@ -2267,6 +2267,7 @@ c1b5fe526ff87c3161db9310bf8aef82ca17a5a8=node01.cunnycraft.moe
 b0f04bff12a2442e135ba5aef38e3caaf5dc9dab=odercraft.strangled.net
 542a4fca65bfd6b8e164ab25e94b10e8b5501ba6=odercraft.uk.ms
 861413af9c93d4a9fa26e88ea24dc22167740d78=oder.farted.net
+a32bca7fffeeda47f274c8f499ceb69087616087=oder.soon.it
 a47d957b4ace8d7187a0bf733f8156ed18af1c13=chronos.clmc.com.br
 be829bacbe6388c39370b6bbd0d4baf17eb2db91=replay.clmc.com.br
 26483db3b6d9470ba6c538aa182b085b1a6e0418=legacy.clmc.com.br
