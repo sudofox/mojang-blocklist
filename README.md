@@ -2,7 +2,11 @@
 
 I figured I'd try to get a more comprehensive list of the domains blocked by Mojang, so this is my stab at it.
 
-## useful bash snippets
+## Background Information
+
+(TODO)
+
+## Useful bash snippets
 
 Get a list of TLDs (idk if this is super up to date)
 
@@ -37,7 +41,7 @@ Get a list of hashes which have not yet been identified
 comm -23 <(sort -u data/current.txt) <(awk -F= '{print $1}' data/identified.txt |sort -u) > todo.txt
 ```
 
-# for big lists of minecraft server urls:
+### for big lists of minecraft server urls:
 
 remove first subdomain. replace with *.<domain>. this also strips port numbers and normalizes casing
 
@@ -80,11 +84,11 @@ cat srv_re_resolve.txt |awk '{print $NF}'|sed 's/\.$//'|awk '{print "*.mc."$1}'|
 cat srv_re_resolve.txt |awk '{print $NF}'|sed 's/\.$//'|awk '{print "*.play."$1}'|xargs node try_url.js
 ```
 
-## hashcat stuff
+### hashcat stuff
 
 ```sh
 # start things
-hashcat -m 100 -w3 --session commonsuffix -o cracked.txt -a3 data/todo.txt commonsuffix.hcmask 
+hashcat -m 100 -w3 --session commonsuffix -o cracked.txt -a3 data/todo.txt commonsuffix.hcmask
 # resume checkpointed session
 hashcat --session commonsuffix --restore
 ```
