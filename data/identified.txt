@@ -120,6 +120,7 @@
 0d56ce969235bafc8e5cc332dbe252029652d32c=*.plsleavemealone.club
 0da994f1c9d83c298bf40e4b4a44de5592dba80e=*.iloveexpellinggas.webcam
 0dc513a8ea2bd98c6cc8bdd0e096065a53733adf=litbit.ddns.net
+0de8f9d15861c7ec853d23620723ace59c854944=_minecraft._tcp.oder.epicgamer.org
 0df592bdd8ae5332241c262a4ad3b4b3b6dd8c0f=4ddde3fda41fdce2.ddns.net
 0e48382d5bcd321a2815b1f028cdedc964f30d91=*.meepcraft.info
 0e6dc4297984b6ff99d30f5d0fce702cb4d776eb=3f243b4952fe0124.ddns.net
@@ -1611,6 +1612,7 @@ bd431b3794eeea3164be9c3e459fd0b0879c2c18=sqizwpd6gudp2a2v.ddns.net
 bd5e1467d54037729d6a03593ae3e37ff17243a7=d27e9bb9cba338af.ddns.net
 bd81e3cddbe6a4cb43ad57208387e7e28d7bf1c5=eulacompliantokpls.ddns.net
 bd9be37ead3b58a1ebe552cac7e11346b9c57f83=planetsb23.ddns.net
+bd9d419ecdd8d5b6acd8cb9b9449e53602c4be25=oder.epicgamer.org
 bdb3d452eb34e01dad342b2329dd70f455f26f72=8f95de05489d7a4a.ddns.net
 bdca69fbf79b5bfad72240f90920b05f8c7f6bc8=*.imperialmc.net
 bdcafe7a0062a2317def55058f78b57c71f0ff10=jqwu89wx.ddns.net
