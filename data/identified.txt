@@ -1168,6 +1168,7 @@
 86ee37f15d3e546f7ce3ec5f39a9bf4b9304e6a7=oai7xbe6em.ddns.net
 8719ad936835ed80955539ded28cea9c94ac7dbd=*.worldpvpcraft.com.br
 871e2aa18bad1ee1b14d71d851e98ace214d815e=fad2783a02cb9d6e.ddns.net
+872fcdf8f02d09c86f8a0e091f51beec8a6cd03c=oder.bot.nu
 87374110aaf888ba666cfb0021c84cf7514fcc7f=mc.odercraft.net
 875c8c99a451f1b83b8d042a2705fe2ff539297e=fckeula6.ddns.net
 876925756e0d26da46774b66712b1cafa4a400a1=phan005.ddns.net

@@ -2288,3 +2288,4 @@ e73daadec4ab5a529690991ae7a089aa59872576=odercraft.ignorelist.com
 1715df70738e280cd06255168b2de9e308fa004b=odercraft.mine.bz
 3e8c45dd18fbe7bac89f5a7082d59bfc6607da88=odercraft.info.gf
 c34b9af6b47edbecdd6dc0ee190731fa75ad0aa6
+872fcdf8f02d09c86f8a0e091f51beec8a6cd03c=oder.bot.nu
