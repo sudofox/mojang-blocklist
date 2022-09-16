@@ -1335,6 +1335,7 @@
 9a0d29af9bcd8c9dc874bdd1124455ed80acf8a1=0e3ce5cba09ffaa4.ddns.net
 9a1b429a840cdbcc252dbd0d37c84e2280f21133=inmylifestuff.ddns.net
 9a3a8ae8f5bf9e9dd0d2a336cd1c4b03d4f5c7f2=fckeula9.ddns.net
+9a583c4d054b9da8cbc8bd783f1d92eb9470deca=*.newwindserver.com
 9a98d8906ef4441954a1a87adb97abc6263a78a6=sb-hub2.ddns.net
 9a9ae8e9d0b6f3bf54c266dcd1e4ec034e13f714=brandonwatchesporn.onthewifi.com
 9a9f3666d84a0767838c61b389e3a39d539be9dd=rmc23.allowed.org
