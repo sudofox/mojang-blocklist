@@ -2291,4 +2291,3 @@ c34b9af6b47edbecdd6dc0ee190731fa75ad0aa6=12345667
 872fcdf8f02d09c86f8a0e091f51beec8a6cd03c=oder.bot.nu
 bd9d419ecdd8d5b6acd8cb9b9449e53602c4be25=oder.epicgamer.org
 0de8f9d15861c7ec853d23620723ace59c854944=_minecraft._tcp.oder.epicgamer.org
-9a583c4d054b9da8cbc8bd783f1d92eb9470deca=*.newwindserver.com
