@@ -1,96 +1,45 @@
 # sudofox/mojang-blocklist
 
-I figured I'd try to get a more comprehensive list of the domains blocked by Mojang, so this is my stab at it.
+In September of 2022 I decided to try to identify the strings for all of th entries in Mojang's server blocklist. Through many different methods and approaches, including:
 
-## Background Information
+- bruteforcing
+- pulling domains from server lists
+- contextual analysis
+- interviews with former server owners
+- historical research
+- relying on the work of people who've come before me
+- assistance from various cool people
 
-(TODO)
+I was able to identify many new strings in the list.
 
-## Useful bash snippets
+There's some GitHub automation in place to automatically update everything every couple of hours.
 
-Get a list of TLDs (idk if this is super up to date)
+## How to use this stuff
 
-```
-curl -s https://raw.githubusercontent.com/umpirsky/tld-list/master/data/en/tld.txt|grep -Po "\(\K.+?(?=\))" > tld.txt
-```
+- data/current.txt contains the current blocklist, as fetched from https://sessionserver.mojang.com/blockedservers
+- data/identified.txt contains all strings which I've identified since starting the project, in the format `hash=string`. It also includes ones that have been since removed from the blocklist.
+- data/merged.txt contains the current blocklist but with identified strings merged in. This is the most useful file to use for contextual analysis.
 
-Expand from mc-server-list-scraper
+## Adding new stuff
 
-To strip the first subdomain (will make the other subdomains more likely to work), throw this in the mix: `grep -Po "\.\K.*"`
-
-```
-awk -F/ '{print $NF}' ../mc-server-list-scraper/results/* |awk -F: '{print $1}' | awk '{print $1" *."$1" *.play."$1" *.mc."$1" play."$1" mc."$1" hub."$1" *.hub."$1" *.minecraft."$1" minecraft."$1" *.jugar."$1" jugar."$1}'|s2n| sort -u | pv -l | xargs -P2 node try_url.js
-```
-
-
-Get the middle segment (part before the TLD) of all entries, excluding ddns.net, spit it out as *.string
-
-```
-awk -F= '{print $2}' data/identified.txt|grep -v ddns|awk -F. '{print $(NF-1)}'|sort -u > middle_segments.txt
-```
-
-For all TLDs in tld.txt, try *.string.tld (try also: no subdomain, `play.`, `mc.`, etc)
+Throw whatever you want at `node try_url.js`. See scratchwork.md for various examples of usage. If you find something new, run this stuff:
 
 ```
-for tld in $(cat tld.txt); do cat middle_segments.txt|awk '{print $1".'$tld'"}';  done|pv -l |xargs -P3 node try_url.js
+npm run update-blocklist ; npm run update-merged; npm run update-todo
 ```
 
-Get a list of hashes which have not yet been identified
+For some reason, `update-todo` sometimes fails on certain systems, no clue why, but you can just manually run the `comm` command in package.json instead.
 
-```
-comm -23 <(sort -u data/current.txt) <(awk -F= '{print $1}' data/identified.txt |sort -u) > todo.txt
-```
+Don't prune identified strings that have been removed from identified.txt -- I'm keeping them in there for historical purposes. I might end up adding a separate file for removed strings at some point which would include verified former blocklist entries.
 
-### for big lists of minecraft server urls:
+## Background information on the blocklist
 
-remove first subdomain. replace with *.<domain>. this also strips port numbers and normalizes casing
+This section intentionally left blank.
 
-```
-cat minecraftservers_org_scrape.txt| grep -Po ".+?(?=:)" | grep -Po ".+?(?=\.)\K.*" | tr '[[:upper:]]' '[[:lower:]]'|awk '{print "*"$1}'|xargs node try_url.js
-```
+## Thanks
 
-Do srv lookups for a list of domains
+Special thanks to:
 
-```
-cat domains.txt| grep -Po ".+?(?=:)" | tr '[[:upper:]]' '[[:lower:]]'|grep [[:alpha:]]| xargs -I{} -P10 timeout 5 dig srv _minecraft._tcp.{} +short | tee -a domains_srv_resolved.txt 
-```
-
-Given a list of raw `dig` output for many srv lookups, filter for domains only and strip the trailing dot:
-
-```
-tr ' ' '\n'|egrep [[:alpha:]]|sort -u|grep -Po ".+?(?=\.$)"
-```
-
-another thingy similar
-
-```
-cat minecraftservers_org_scrape_resolved_srv.txt | tr ' ' '\n'|egrep [[:alpha:]]|grep -Po ".+?(?=\.$)"|tr [:upper:] [:lower:]| sort -u| awk '{print $1" *."$1" play."$1}' | xargs node try_url.js
-```
-
-try *.mc or *.play subdomains for existing
-
-```
-awk -F= '{print $NF}' data/identified.txt |grep [[:alpha:]]|grep -Po "\*\.\K.*"|awk '{print "*.mc."$1}'|xargs node try_url.js
-```
-
-Finding bypassers via SRV...
-
-
-```
-awk -F= '{print $2}' data/identified.txt |sed 's/*.//'|awk '{print "_minecraft._tcp."$1}'|xargs -L1 -P10 dig +short srv |tee srv_re_resolve.txt
-cat srv_re_resolve.txt |awk '{print $NF}'|sed 's/\.$//'|xargs node try_url.js
-cat srv_re_resolve.txt |awk '{print $NF}'|sed 's/\.$//'|awk '{print "*."$1}'|xargs node try_url.js
-cat srv_re_resolve.txt |awk '{print $NF}'|sed 's/\.$//'|awk '{print "*.mc."$1}'|xargs node try_url.js
-cat srv_re_resolve.txt |awk '{print $NF}'|sed 's/\.$//'|awk '{print "*.play."$1}'|xargs node try_url.js
-```
-
-### hashcat stuff
-
-```sh
-# start things
-hashcat -m 100 -w3 --session commonsuffix -o cracked.txt -a3 data/todo.txt commonsuffix.hcmask
-# resume checkpointed session
-hashcat --session commonsuffix --restore
-```
-
-
+- @roycewilliams - who has provided a lot of help with identifying various strings.
+- All the people who have put in work to identify hashes in the past
+- Various people who have let me look at their data (even if it didn't identify (m)any new hashes) like @Yive and some server list owners
