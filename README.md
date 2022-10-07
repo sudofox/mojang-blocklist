@@ -34,7 +34,37 @@ Don't prune identified strings that have been removed from identified.txt -- I'm
 
 ## Background information on the blocklist
 
-This section intentionally left blank.
+For a server to reach some level of popularity and discoverability, it must either have 
+a persistent hostname, or have its IP known. 
+
+Large lists of Minecraft servers are generally unpublished, to reduce risk
+of random 'griefing' (DoSing or otherwise harassing servers). Perhaps these
+servers can still be used in other ways, even when blocked by Mojang.
+Mojang apparently started using this blocklist method on May 1, 2016.
+
+There appear to be three classes of entries:
+
+### Hostnames
+
+This including wildcards, typos, '?' appended, mixed case, and other anomalies.
+Minecraft servers don't need to know their own hostname to 
+function, so many simple setups have no detectable distinct hostname at the
+Minecraft level - so scanning the Internet for servers is not very useful.
+But looking for lists of servers that allow cheating, or known to have weak
+anti-cheating measures, is effective.
+
+### IPs
+
+This includes RFC1918 IPs. May also include naive classful wildcards, (192.168, etc.).
+This set of hashcat masks for all valid IP addresses can be run after every new hash is added:
+
+https://github.com/johnjohnsp1/hexhosts/blob/master/ipv4.hcmask
+
+### Test entries
+
+These are not valid DNS FQDNs, or even hostnames (some have spaces, underscores, etc)
+These often have "dns" and/or "test" in them, with various combinations of 
+separators (including space), case, and appended digits.
 
 ## Thanks
 
