@@ -391,6 +391,7 @@
 2cf6ea8733eed1a2fff346d8159f9d21e060b43b=aa497fdaf98b0531.ddns.net
 2d014cd6c150b07f393d15f6c51e370e8173b84b=2b2640a36cd67d20.ddns.net
 2d0b6b12390d5c8eaec810c6bb6ac2c5de3897b1=mvmvmvmvmvmvmvvvv.ddns.net
+2d4c387f57cbffa99b8d4a0f0cd4736f6b3a7682=*.mittenmc.net
 2d603234a0ded961ce2ead44cbab6c30d63a8586=wdq56d16qwadqwd.ddns.net
 2d81d46d3b21a3bf7d51100c4050f3c8490efa1a=phan014.ddns.net
 2d8222c07f4eaa8a721dc548c650fb26c178eeb5=*.meep.website
