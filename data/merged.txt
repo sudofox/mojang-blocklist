@@ -2281,5 +2281,6 @@ bd9d419ecdd8d5b6acd8cb9b9449e53602c4be25=oder.epicgamer.org
 9b87caa6b974932e73edd7df0b32cdeaf083f470=*.kalicorp.fr
 4ac4d5b19d0f5ff047e41a101cf3ede06c3c4e15=joinserver.kalicorp.fr
 fa712b97c3464cd454d2581b6be5cd7e25890eea=*.kushpvp.net
+62cc3d573dcafd317c2fd06708df8c81804025c2=*.minewager.com
 2d4c387f57cbffa99b8d4a0f0cd4736f6b3a7682=*.mittenmc.net
 c251f6b3e8583aad412e555245d090d67cffb360=*.theboismc.ml
