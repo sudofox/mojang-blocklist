@@ -588,6 +588,7 @@
 41f747ddbdbbe6c969c62dad4690a6f0eaeb9294=rmc9.allowed.org
 4215059bacd102cce993a9b8ed26a0c736a9858c=*.minecraft2018.com
 424ffd793c40153a9fe123a12898a7c4a1e914d0=icarya4.ddns.net
+4264beff3de52d729bda7c0f41bcae38e037c63d=Mc.VoxCraft.us
 42aff92bd9d984c004f7d0f962792705a6ed3ead=8310c2f4d146b04e.ddns.net
 42b4a22a1ea901f25239d956c06221a4f8000b7a=*.opanarchy.com
 42c372fefbfb088e545e279aa605c95a71cdbe38=jfnfidndndknaa.ddns.net
@@ -737,6 +738,7 @@
 53775186bdc0501519ad217b09f46cb3e0eb4e91=planetsb11.ddns.net
 53811c7c51db18a8363721c46df838ab238b806d=ecocitycraft39.ddns.net
 53845b76a4e0dae140930aafca40392dd89b6f32=*.mineparty.me
+53882946fd80fa01af7ff56c1809042fd8b64d13=*.Mc.VoxCraft.us
 53a39bb77a17ed10c4746c594355ab928446beeb=iwe0af74cqe94n2o.ddns.net
 53a82f297244ffaa5b3fc24e0321b58b22a50350=ompt5ll7ay9x299yr8ui3vw4x.ddns.net
 53b0b8b12a3ae384b43d33a478af308905bfd0a2=*.meeplife.racing
@@ -1651,6 +1653,7 @@ c0cbbeafc38c7b7acc5ff58f372e1296e54eebb5=testing2456
 c0cdc88fa70bb0d689048e01664f8f6b7e0d5c20=4682f04d9a38a16a.ddns.net
 c0d687407b7756e26cfe10125a8cdb877995d632=ecocitycraft95.ddns.net
 c0f516cdf0a42b9d19c402babad2b5f9e6a2f41d=swswswswwswswswwswwwsw.ddns.net
+c1004edda9143aad3ed5b0bef9b9eb710928d589=*.mc.iSkyify.net
 c118b1ecfc4099d63e7b022ea9698db9c3052022=shadowsb23.ddns.net
 c123fbb959924904c56f0553b87b4a329b706b7b=analsexnohomo5.ddns.net
 c1256e23956b19750b6c58dda900a3ff6d06deba=*.cunnycraft.net
