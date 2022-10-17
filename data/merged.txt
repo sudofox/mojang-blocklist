@@ -2282,4 +2282,6 @@ bd9d419ecdd8d5b6acd8cb9b9449e53602c4be25=oder.epicgamer.org
 4ac4d5b19d0f5ff047e41a101cf3ede06c3c4e15=joinserver.kalicorp.fr
 fa712b97c3464cd454d2581b6be5cd7e25890eea=*.kushpvp.net
 62cc3d573dcafd317c2fd06708df8c81804025c2=*.minewager.com
+d2a3e9e9bc20d6e3e77d2580d4b1373f43f9c3c7=testdns1
 c251f6b3e8583aad412e555245d090d67cffb360=*.theboismc.ml
+a33efaafbc532710ba05f10278c333d6a8304a3c=testdns11
