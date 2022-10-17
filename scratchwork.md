@@ -11,6 +11,24 @@ expandmc () {
 s2n () {
   tr ' ' '\n'
 }
+
+# input: abc
+# output: Abc, aBc, abC
+function upperall() {
+  input=$1
+  echo $input
+  for (( i=0; i<${#input}; i++ )); do
+    changed_char=${input:$i:1}
+    echo ${input:0:$i}${changed_char^^}${input:$i+1}
+  done
+}
+
+# same as above but for each line of piped input
+function upperall_piped() {
+  while read line; do
+    upperall $line
+  done
+}
 ```
 
 ```sh
