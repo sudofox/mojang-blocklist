@@ -516,6 +516,7 @@
 3a4d510f342439c4229909155532830a576878ca=9ksrcj7mhg2mxxl.ddns.net
 3a55001a13ee06d1ce9d10545e8f1f316bb35bbb=rmc15.allowed.org
 3a650d0fc206a13d7c0f2abac6088e535b8daea5=almostdied.ddns.net
+3a782b126711ccdd9b3aa8a3498062e49762d0a3=*.alonefield.xyz
 3a85e83f2676c1cb74440aafc56bc15c7078413f=southpvp.minehut.gg
 3a9d27fd9625faef7ddddbe1b579d07ef2dd7ea2=neverdonebefo.ddns.net
 3aaf6c5294b3ce7a38491670a7096fb310a01a1e=1manaproxy-311.ddns.net
