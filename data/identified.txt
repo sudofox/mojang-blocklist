@@ -410,6 +410,7 @@
 2e4ba872557dc21136bb734d284a7bad694d3c3a=*.crymc.com
 2e693abefc2c7f5571119d3e7ed46c88e9af5332=icarya5.ddns.net
 2e88b44844788034c0ace93fc7f527af46887d1c=radical.freedynamicdns.net
+2ec55514ed97d0ce6dd0b277a6ec2611153ad634=*.ragnarockmc.in
 2eeb6a2e2f6306e2721120510be19c6ccada3aa7=*.himynameisbrandonandihatemyjob.host
 2ef00d89b70eb69bbca5ebbaefb43e571ebf8c12=9abdcfa1bbaf8259.ddns.net
 2efc0d0d7fcf6e336532d62a34e050c2b336c022=283hd134d142d7h2.ddns.net

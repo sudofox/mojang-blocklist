@@ -51,6 +51,7 @@ cdf5108556c00e6e0c42e1a52516d1b4317bbc1c=*.planetsb.net
 3e872ab34ff9b7b1f922c8cd160cfd1473c02af0=*.play.galaxiesmc.net
 dcc63fadc759ee712cdd5b7bade3bb3eff804637
 96ea6aaf66aea5881b38ebbf66df686e8613f1db
+2ec55514ed97d0ce6dd0b277a6ec2611153ad634=*.ragnarockmc.in
 bdd70eee5fc367f831a4c442c46dd7c5607cd23c=sb-hub15.ddns.net
 18bc40c236efa87d30d788b390820311a3b3960d=sb-hub16.ddns.net
 2c9cecaeca076c170b57935b83c4ed820506b0db=sb-hub17.ddns.net
