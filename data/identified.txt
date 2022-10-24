@@ -31,6 +31,7 @@
 0492438eedca6ade45142de1b4e9843fa29c168e=1opm.ddns.net
 049782062d6a4633522b58b5a184a1a9cd5e8ebb=*.freeminecraftclient.com
 04a0aa9b08b910e14fe9d8fbd014d4ba673cdd7b=nevvu6cmn8gsh5yn.ddns.net
+04acba221448112531e3b89204fd9db23c38fbd4=*.minesaga.net
 04d93f6a732249453943940cb4936870b5147307=*.meep.pro
 04db69520206442298ab65f3a4832b7abca8b818=*.fartssmellnice.trade
 04de8dc7885c12320170c9133123df332d91e63b=11ccopm.ddns.net
@@ -547,6 +548,7 @@
 3d3c7f889b435bb970f9664d104d219386432da4=sbhub22.ddns.net
 3d45a4ce29c79bf07266d99a4be8acd6545b9342=0ga4981kfj.ddns.net
 3d5682137d82c6de1448f8980965655fe03a562e=i1kotwtlii.ddns.net
+3d75125000c5bb844640091ab78437ddfb9fd00e=*.mc-speed.com
 3d94915d9111f8772b4121ba2b9a79d499172fa0=nje3b5hofad1981s.ddns.net
 3d98bf0ca6eafc49dced534c8905efa229898f64=zfbbvu6z68.ddns.net
 3dc2e95821908960656c94bb288b27cd8f2ef2eb=ergszyk3g5xa5fgd.ddns.net
@@ -1005,6 +1007,7 @@
 6feedcd7bf9c1aa8a0e8fd8ce9066c35670af849=0e8e9sx61z5w.serveminecraft.net
 701a630797007604ad2a92b20f7e2bc57579addd=f9466a1e7fe69e8e.ddns.net
 7055a99ffe2b1dbbbb38b610eee9632714a96332=0y00o5x.ddns.net
+707e6c71f34c54aba08ff8611c9db741e5458073=*.mineland.me
 708288cf4b0cb9c082e87ffced0436654e579d65=eaa389b7e5e7cb0a.ddns.net
 708df0eb7e29193431bbc2124a3322a8ab8904a8=imcx8qlqiztk6exg.gtm-prox1.ddns.net
 70b79fc3437590e36b7f2e439882efffcf752ab6=*.suchtwiese.de
@@ -1371,6 +1374,7 @@
 9c58242cdcc3a2ef33b6a962aa42cb5e20d7e5f8=*.mineserwer.pl
 9c5da28e6d8fe70d8c507ad32379257193de76ff=lolmojangsosalty2.ddns.net
 9ce77f8e9b0e63bd239da8afa5ac21872c2d9f99=510110c35366cff0.ddns.net
+9cff34fb85abc4efc0f8323806fba741d6fb8f02=*.icarya.net
 9d4b729ea6bac1ac92341872ec53594b67c81f1f=34f256efw561f89fsd894d5fas5.ddns.net
 9d6ffa5c28a4c5397dece9e644a436cbd33c4330=*.vibez.top
 9d7bc23f369f9d25c9358f67d7be4d5dfde1d2c2=dcxyz2.ddns.net
@@ -1510,6 +1514,7 @@ aeb8ee745a2ca9c84124d12a0ede672105b564db=*.luckyprisons7.club
 af3382bab7ef8ce5be524691718c2cb7fe1f77e0=analsexnohomo8.ddns.net
 af4dc4c650af76116eab48b26d6618537c69acee=fadedsb7.ddns.net
 aff4ca9b99b2b8776d4fc2e6f61d060c39829733=*.fajnycraft.pl
+afff443d0e2eac135e1e2f9f74b022af0f9824b2=*.join-ml.com
 b00482539b2b9409e77eb8977d73d02ea55e9fd7=there-are-only-two-genders2.ddns.net
 b03807832ae35d01a442c5bd8fac6117bf21e59a=09855yyyyyttrre.ddns.net
 b0614d2232efbfd38ab3dded06523a9b57b83ad6=rmc20.allowed.org
