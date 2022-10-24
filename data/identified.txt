@@ -1180,6 +1180,7 @@
 86abd5cae6a543f4629b61d8df66dea93c11f7de=playmcc.ddns.net
 86afb0b6e586f633c6a5fae31e2c5a6a1aabdc06=yisdisblokderr.ddns.net
 86ee37f15d3e546f7ce3ec5f39a9bf4b9304e6a7=oai7xbe6em.ddns.net
+86fbf8529fa1caa4377e787ea31f813652636f58=*.play-ml.ru
 8719ad936835ed80955539ded28cea9c94ac7dbd=*.worldpvpcraft.com.br
 871e2aa18bad1ee1b14d71d851e98ace214d815e=fad2783a02cb9d6e.ddns.net
 872fcdf8f02d09c86f8a0e091f51beec8a6cd03c=oder.bot.nu
@@ -1326,6 +1327,7 @@
 9628751744cdb9f833b1e58b51dbdfca0a0dd722=*.test0211
 96fb629f301b279ae9fd30ec0d519d24f508b3ca=dontblockthis.ddns.net
 973382ccd46e34c951f4634139a89f8fadb7996f=temj1a9l1vfn.serveminecraft.net
+97ae543fa1c40855cfe9f9192a541698f7e3e120=*.munchymc.com
 97d11139c2707bcec9ac903c8f9252ea5de44c3e=fckeula19.ddns.net
 97fbe8ca2132f66415c2e18421a32e96941df0b0=sad612aws6d482397r923r.ddns.net
 980c6def470c67151163d6a80cbeb7e00e969b38=22dcf325b47120b8.ddns.net
@@ -1768,6 +1770,7 @@ ca2a81c9df0c8d32068d5300a92d85ae8351fb86=f3cb5c4dbbed0bb7.ddns.net
 ca2d9b0106660a4d1e80837c301ebbf66f7ec319=eeeeeeeeeeeeee.ddns.net
 caa86fc5da80bea167590f8c55aaf828b02609d7=*.miguelguerrero.net
 cac691395ba9fb2c65b00022f92ecabf02bf571a=mc8.ddns.net
+cad4fdfb2eff829a6fc0b56f042bfcd279668ea5=*.coldnetwork.net
 cae9b256a855ef06b5f7a52db52977d73d464dbd=rmc18.allowed.org
 cb01c0a34221f05062a8de1d9bb89c752546d534=new_server
 cb1820a28cbee205cec0a9e763ab4d9f867f5cd6=2fe690bf546d4f4e.ddns.net
