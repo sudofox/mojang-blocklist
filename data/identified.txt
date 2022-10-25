@@ -1610,6 +1610,7 @@ bad74a9d8bd48a6ed0328e2a6cee3ca8487cd2b2=fuckeula.epicgamer.org
 bad7d3e43be866ae2d332f78abf69720a5a5a754=opafuckyoub.ddns.net
 bada774bbc3eeedf314f5b777bbd69c4a9295242=what-happened-to-the-modding-api-you-promised.ignorelist.com
 bae22ff45e16378ea5f989f17e05d064233d2fc2=pedxwgkcig.ddns.net
+bb2473743ac8831e6ff77da449f56bd9a6c545bc=193.70.80.221
 bb305fc63bec160f41bbfd449adf3808c8b3f76d=*.rebirthcraft.net
 bb6eb022fab5385506a54ccdcfa2cd55d963328c=34479a3f3f84b5d6.ddns.net
 bb83aeeac53cf42a16efaa89766be48aa3e6654c=lunamc-bypass-mojang1.securitytactics.com
