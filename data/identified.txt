@@ -2013,6 +2013,7 @@ e70b4e267462f24e10933423d8384256b4c3d5e3=*.gtamc.co
 e71be7c750e75174a8b2f0bbe9b1678100242de0=mv42mjghopoffmadikm80v.ddns.net
 e73daadec4ab5a529690991ae7a089aa59872576=odercraft.ignorelist.com
 e74a31195df58ed85a119b040aa5f5eba61c6fec=gc.babypos.hk
+e7642b3c86f33372698b043c4e1ebdc60de50890=*.mineland.pro
 e76c26308f082e10d9a7dd516d93a38b7074fc8a=leavegermansalone.ddns.net
 e78ee136692c9c91bf608c5e10b37c0f8b3ccdc8=ecocitycraft75.ddns.net
 e795bd5755eb965a95d9486d095bb524d5986e4a=fuckeula.24-7.ro
