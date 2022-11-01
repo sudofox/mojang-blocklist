@@ -2158,6 +2158,7 @@ f8ada4703e099e609b07e4d0a029f5ad3b3d7f22=ecocitycraft90.ddns.net
 f8b7e52cc838077d33755bdea3d2830cb4a5a395=jenalanencucndnsus.ddns.net
 f8c4ac5a881c9ca276c2069084b1a9dfd784146f=047076ff9e808fec.ddns.net
 f8d481fad7bc92a5fccb9e8f44779ee94d2f0f50=phan004.ddns.net
+f8f35ddc384f242a793eccf303bd95f9e4be17d2=*.batyacraft.ru
 f912307a0d86704844b447f1140300ba9be05756=*.pitforge.com
 f922ddcdf55f70462e1ea74e502643402cfd024c=rguuoqgm.ddns.net
 f92dd4abac0b6da1530b47def22f729f3c321adb=moddingapi.strangled.net
