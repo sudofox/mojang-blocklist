@@ -732,8 +732,6 @@ b52998ee0129930fcdff0a547f784f6c0e456b7a=dj90a3809wdiwa9.bounceme.net
 7f67510021c4236a7b36a17436fcb6ce37743310
 c7ed741633fdc0a1e10ec696610a2e8264e77ba0=*.skymetro.net
 cbd77f330c2f364a9751ea30303877dcf78c493e=xehixif31artvyb.ddns.net
-708df0eb7e29193431bbc2124a3322a8ab8904a8=imcx8qlqiztk6exg.gtm-prox1.ddns.net
-51341e9e12367c28c7fc1be5f9df8587aa5c34ad=ksfxbcwlr1ywgyof.gtm-prox2.ddns.net
 38900bcd81c2d49bb0dfb398b5826fadda9a7990=mt-8epbnzxlrs-1.ddns.net
 2bff0d4cb966668f4846e6fba21e4be5108d737c=mt-hv6femij9z-1.ddns.net
 735d5dab4ec84d30c097c54acf2d2184d465b852=mt-ozk4fw6lkl-1.ddns.net
