@@ -1957,6 +1957,7 @@ e172033b44d21a941860fab0440c0e3752bb36a7=*.negativeoptions3.club
 e177b3b369c1994e5d5cbd739e3bc04922f57392=baj2zzzc24c1yuy5.ddns.net
 e18f715e52ae31c8656b2604cf545ce40de76baa=*.koru.rip
 e1a86b414bb5d46fc5763a4fc7c361a30d246356=823ue91hd13d134.ddns.net
+e1e4fa01fd821ce8e4ffb02f2e82a7efec9a53e5=*.mineland.space
 e1e9aae168b1954551718be3c762a914bf2861d3=*.vcprison.com
 e20fbd263104be6298d635c9d6d77a5ac36c9c20=37pw0bd3pn8wh5z.t5iqoovs.strangled.net
 e21ccdb6db7ad238f70ae015cc200ee6140e3d97=34a1ba09ee83b4f1.ddns.net
