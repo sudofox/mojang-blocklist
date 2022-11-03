@@ -690,6 +690,7 @@
 4d4d104dc1faeb66eb80f4e5550779c9785973d6=planetsb50.ddns.net
 4d51e0c955e18c98f68c152a163ed460cf6b9fee=*.meeplabs.party
 4d534950c73d75ec541c6dbc1c8dfeadb7da12b9=a8901cef1bf187b8.ddns.net
+4d8e8733906cb84e58350ef4f9f8ee23c607f50b=stealgens.minehut.gg
 4d9cee11e45b483351b845baa7630811748d44a1=*.iloveflatulence.win
 4da16c71bc880c7503efef266a01eff86a2c6d4a=fadedsb9.ddns.net
 4de63721d0f8714c65f0a97cfd6c0418f5b5b64e=*.cunnycraft.online
@@ -1344,6 +1345,7 @@
 987f0138282d4ab366d24fb792aceefec99571ca=*.mojangfucksdogson.webcam
 98897e61a9a269633d2dd04d3ec50f8160c9afa0=manacube2.ddns.net
 988cf385d2e61e0ef0323e25be4fdbc7a7ca18c3=g6j9qacrdfh6mhnn.ddns.net
+989b8ac8c75aefbf3e2c81db63dabfae84dd67d9=*.stealgens.com
 98adb1571eb129cd90c4e9da3c2c4acf064d3c49=*.zakiworld.1337srv.com
 98bc5f74581fc2ffe626f9e15505a9cd751be953=a62ccb941ebe4409.ddns.net
 98d93e67db43a7ed659e3cab005a6d37fa2846ed=186iredx1e25ljf.ddns.net
