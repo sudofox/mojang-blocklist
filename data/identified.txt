@@ -708,6 +708,7 @@
 4ee5c312a4df5b9e0693705540321d564d820eb1=loadbalancer1234133.ddns.net
 4f3c24fa3f9d7c09c10d6da86a126f765b1efcab=opa2.ddns.net
 4f3e2d06f408929a408e97e39a2a072d6d51d9b5=*.factions.xxx
+4f42d2ed1d994f0966e5249f756fd0a7d5ae9c74=*.MythicMiner.info
 4f4a5b26baf0d0e9ed3b2752d8d6e76d2291ec7d=ee6dwntcfasc4ci.ddns.net
 4f636deaefbca31ece37c873922ab9298362a27a=mynameisnickcrompton.ddns.net
 4f66b92190f030c1dc0d8e07e43e0cf35dbb1061=8k14cnfnuor3m7px.ddns.net
@@ -1432,6 +1433,7 @@ a33efaafbc532710ba05f10278c333d6a8304a3c=testdns11
 a33fae1cf24e952eab84964dc976591cf9907eb6=7fb13a45ed0e6e0c.ddns.net
 a342f22cd849d48e06938afa0fe32906a52040cb=dh05ytvi.ddns.net
 a38e58072b9a37c23d9e0fdce7b0f3222402e1f8=*.luckyprisons5.info
+a391873436d9fab966c8084fab81ca13a871547a=*.crubix.ru
 a395fe72d98bfa41c199a8b8744fbc7f464f18d9=*.eulasucks.host
 a3a1f30e7991a5c6144dc4cda874163cf59f8a4b=ba991d63f9b7fa13.ddns.net
 a3a39989da248ec343bacb6f55458803acc704ca=ricegotroasted.ddns.net
