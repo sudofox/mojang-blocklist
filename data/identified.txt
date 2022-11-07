@@ -1865,6 +1865,7 @@ d42339c120bc10a393a0b1d2c6a2e0ed4dbdd61b=*.herowars.org
 d433718117894db3456e9bc7b00fd5cb0897db04=dq97h32d2ied2390.ddns.net
 d4494910ebe84cb0f1318765b4b559ccbac0d200=*.mojangnooo.info
 d47362b19676bda4004c808de9ae1b07b8c36771=*.evilswords.net
+d4b815dce18e05edc4181e7ba340b471752125d9=99.55.99.99
 d4c4241561591f0bd011ac3c322e63fb0bd2b3b3=*.cbr6ysvu2nkm7nlnhw2ajyymfr6famxf4usmjhak.xyz
 d4d52cc46c6b25e868fd9a6d6a932aba751f71b4=bajacantina.ddns.net
 d4da8213eea3c69bca1c109a000af275394d2b4f=d23098hdf9823hd.ddns.net
