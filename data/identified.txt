@@ -2212,6 +2212,7 @@ fa712b97c3464cd454d2581b6be5cd7e25890eea=*.kushpvp.net
 fab898fb32a1b3eeee6767cde84b92c78125ceaa=*.kastia.org
 fafb1169cdf3946223844161d8fd77abaa31e19d=h18mc.ddns.net
 fb294136540a60b3a8e7d5d2b05338211c68cd72=3c087cb2938bb8a5.ddns.net
+fb4fdb54190ff8f92ae4f484059f9bfa4ac37d88=*.ml-play.online
 fb724e5ffe6f3b134de4391ff7474dc43201468f=*.eulasucks.download
 fb8edbb81ee4b40071edd805c66a847aaeff5308=mc.access.ly
 fb9e0cb588102d0e92180257f281373d78989bfc=xicm3jic69wrl4s85zewmipvg4gzfnn2v6e4v2ns1p9sk76vdah5zd65ndusq80.ignorelist.com
