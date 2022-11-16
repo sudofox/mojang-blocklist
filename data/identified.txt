@@ -146,6 +146,7 @@
 1087dde8f44270e7e5d021de3c1f2ee15a13f266=00ddopm.ddns.net
 10cf0c83e70939209ccfdfeeace971a43c575cad=rmc10.allowed.org
 110acc8755c2e0e5a47e822a5af343097802e648=h4mc.ddns.net
+1118c61e3371281fa3a4d20492ffe69ac76f9916=*.cosmicpe.me
 1118ff734bef705fff137691f3a1bb79ede01ea2=d3298h239dh23d.ddns.net
 111da44b2fff5faa75880344898a19313287924c=pa5gnzmmtymiggjc.ddns.net
 113ee8df2ad7a36dedeee894d634bb125ad5c962=dontbanthis.ddns.net
@@ -673,6 +674,7 @@
 4a5069d1235ee4af78922d62bd917428e163d6e5=minerazedns1.ddns.net
 4ab905ee7ba72714189c8c5a6fbd73e5266957a8=*.youre-literally-broke-microsoft-slaves-lol.space
 4ac4d5b19d0f5ff047e41a101cf3ede06c3c4e15=joinserver.kalicorp.fr
+4accb854e335ba6787d1e304825d7a2c065621e3=*.yottacraft.ru
 4ad6a8b078b53941a2a1ed6e74305d8bfb11d5a0=2odq52j6xgat45zr3tmqr32pa.ddns.net
 4ae5d8e3281ea83fe4d59d5a83698f69950583b6=_minecraft._tcp.oder.us.to
 4b18caf8fbed7ccb95bb9952a6b7af567f4de819=jik1b1ft15x2.ddns.net
