@@ -437,6 +437,7 @@
 3105c2cf26a2e953ba06e30a52e5aef8a17cf068=froheweihnachtenmojang.ddns.net
 310ed9d1cc202b37113fcd1f62bb6f935c22f5e5=*.flamesurvival.com
 31217726bdf2371c71f46e07635d5b5707308fbf=txyhkmvg.ddns.net
+313b3bd48654aad899960c841b86b4a0fc9fb69e=*.foxmc.net
 3142784b02ac5f5fa830e672d8cf423d901d5063=buybitcoincash.ddns.net
 31c85f04b11acd7f36f03b080356eaa17c203d58=*.craftofclans.net
 31cfdcf016f9841246aba58009a6355d7547b3fc=sbxyzdontban10.ddns.net
