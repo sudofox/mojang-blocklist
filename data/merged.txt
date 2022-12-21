@@ -2303,3 +2303,4 @@ b7539a66b9e9262461309056e5da10cef0ced2a9=sentouki.net
 07e96130b816c8e8fcef48e4d7dcb057bd29645a=*.sageprison.net
 5fa339bbbb1eeaced3b52e54f44576aaf0d77d96
 99bf27feaadc6844fc49fac8d24fd70fa87b2260=*.riftmc.net
+48a5b58998f19eb72c56c3c2eb76351b45dcefbd=*.mineraze.net

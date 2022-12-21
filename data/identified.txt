@@ -656,6 +656,7 @@
 486c5862a98d6b47c952dde7c11029e3abd9743b=*.golicraft.no
 48828dc7d4e23c01795aae34b3e92a3da6dec439=playcandycraft.ddns.net
 48897baee5f812b857eadd5abaeb3ac913c396aa=myserverrox.ddns.net
+48a5b58998f19eb72c56c3c2eb76351b45dcefbd=*.mineraze.net
 48d33174b85cb0592ebd2feddbeab42fd51a6a0f=c3832cf81f277c80.ddns.net
 48e1002548ab4cccbc3538493bfd22fda8766555=*.minebrawl.net
 48f04e89d20b15de115503f22fedfe2cb2d1ab12=brandonisan.unusualperson.com
