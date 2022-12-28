@@ -111,6 +111,7 @@
 0b8c1241bbaa546c77f61604277331257a3c4134=uberminecraftnetwork.serveirc.com
 0b96fbbf2fc7b8234d3a2b0ea07aa8b54915374c=opmine.ddns.net
 0b9d0be1cdf29dff0785d62ebe3105e76e6739d0=u2nl2r8g9ftefo.ddns.net
+0ba33c29ac07cd624620953ad7bd5c3fdbc9d772=*.dragonsurvival.eu
 0ba67e6a1b31a095dd7df7a7a14ddce56076979a=*.cunnycraft.xyz
 0bb9ba046423e1fe4584f233e37ece4c217bd086=*.mc-wars.org
 0bca680b13ae8db23e5bb286b021bd2d50c3c42a=dfffpwpmv8.ddns.net
