@@ -2296,7 +2296,6 @@ d4c820663b6f0b513cb1ef3fc89ef3a5d2de55c3=*.hyneocraft.ru
 89ddad2a65a887d7c45d476cf2f28f4e367abb46=foxmc.network
 c23529b103ecaabf278e99aaf37f91b0f0fe1de4=*.play.sagapvp.org
 fa4c3fd359ed5e660f400ebbb163675e23322c46=*.sageprison.com
-8a42eace4e2071df86c80fdde779251d1d8be7ce=*.sharkmc.se
 07e96130b816c8e8fcef48e4d7dcb057bd29645a=*.sageprison.net
 5fa339bbbb1eeaced3b52e54f44576aaf0d77d96=asdfghjkl
 736a440f9d1e23d3a531a3de6addb4e37430a62a
