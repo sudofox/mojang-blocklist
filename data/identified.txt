@@ -384,6 +384,7 @@
 2b3c129a24cf1dad3297640deab98130a8cccd5b=*.hydeme.site
 2b6eb7fdbb21c259706e1a31253f7b9ad58975da=*.meeplabs.date
 2b7eab58040f72981c430d0053e51b65e668d4f5=7394857264.ddns.net
+2bc6a6db0cbf94acaf87c6410d5ef6766a5c4639=play.eternalcraft.net
 2bd274b1fec026eb099147bdcd2ffccbb7f8dec1=hivemc.ddns.net
 2be24f4bd571cd6d227b60de0bf710f7923f3b81=millionairelifestyle.ddns.net
 2bf20662ab35694e851822ca7f866d9b857c582d=b259a7ca36cdc410.ddns.net
