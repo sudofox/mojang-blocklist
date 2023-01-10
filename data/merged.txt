@@ -2309,4 +2309,4 @@ fa712b97c3464cd454d2581b6be5cd7e25890eea=*.kushpvp.net
 655de43d9ccda0bac0c9bb9cd32635fccd9fb5d2
 52cf8d8fbabe4af5e2db3e5551d11d114ce8c98d=*.thugpvp.com
 62baf92dcb7428ca294620a68575091ac756c833=*.mcwars.co
-8d39633803ec8c2503d1ebeafa6beb4b30dd425d
+8d39633803ec8c2503d1ebeafa6beb4b30dd425d=*.ventedmc.com

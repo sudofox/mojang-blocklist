@@ -1278,6 +1278,7 @@
 8d23b652fc367ca85188a4cbb86861c9aa8b9c3d=*.mojangisbrokecantaffordtosueus.xyz
 8d288de08935ab609c2cfccfdb93a98fb491b982=188ae5735b88708e.ddns.net
 8d2e5e1f0cfc08f8e3f2ec13ceeccfa4f975a61e=mojang-please-stop2.ddns.net
+8d39633803ec8c2503d1ebeafa6beb4b30dd425d=*.ventedmc.com
 8dd536661da77f364919e32aaf6cadc8d91ff784=219b98a7b2defdce.ddns.net
 8dea6af2e14d86b18a087622258d46a94ab7763b=*.pynetime.bid
 8deb6a735dc78da680d21d7e7f9842cb5fd079e1=DNS04
