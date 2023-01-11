@@ -122,4 +122,10 @@ hashcat -m 100 -w3 --session commonsuffix -o cracked.txt -a3 data/todo.txt commo
 hashcat --session commonsuffix --restore
 ```
 
+various things
 
+```
+../mc-server-list-scraper/scripts/list_all.sh | tr [:upper:] [:lower:] | sort -u | expandmc | tr -d "'" | pv -l | xargs -P5 node try_url.js
+../mc-server-list-scraper/scripts/list_all.sh | tr [:upper:] [:lower:] | sort -u | awk -F. '{print $(NF-1)"."$NF}' | expandmc | tr -d "'" | pv -l | xargs -P5 node try_url.js
+cat ../wordlists/words_alpha.txt |awk '{print $1"mc",$1"pvp",$1"craft",$1"prison"}'| tr ' ' '\n'| awk '{print $1".com",$1".net",$1".org",$1".co"}'|tr ' ' '\n'| awk '{print "*."$1}'| pv -l | xargs -P6 node try_url.js
+```
