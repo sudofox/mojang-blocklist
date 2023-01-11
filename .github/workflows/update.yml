@@ -12,6 +12,9 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
+    - name: Install needed node modules
+      run: |-
+        npm i
     - name: Fetch latest data
       run: |-
         npm run update-blocklist
