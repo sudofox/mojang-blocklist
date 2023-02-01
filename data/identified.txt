@@ -178,6 +178,7 @@
 13a5bb3bf798e034ee30b637479acb4bebc270d5=*.negativeoptionbilling2.club
 13b0a2a28972d4d8b491405784973ac070344257=97u3y20zh8w15kl.ddns.net
 13cc2eb8d5de5ac3b171f5617383045c27389ba2=vd12hb2s2b3s.ddns.net
+13f5242d0a7d5fa9821cc19c35325cb9caf7de0e=*.holypvp.net
 140640f9a4f12e8557df1cebfbc8cd2e8f178f04=fckeula25.ddns.net
 140dfc2096790c371d386c2091d6124aede4bac3=ecocitycraft70.ddns.net
 14205020c636bc83def59aeff74c1ff0d24a8dfa=1635273263.ddns.net
@@ -199,6 +200,7 @@
 163fb282be3bd913dc1dc3bbad1136ecf95476e0=*.bigfartsmella.date
 1671d94df7609cd19123730547f2f21d7236a0e5=*.originmc.org
 16a46bfae4d7d6402f40a1c77e817de70d267930=dj8r6jo6zc3w2x2kw955t1znp.ddns.net
+16a85a07572cdfc4cb5caff542f952d2a9ed9038=*.juicecube.ru
 16c159d96ab950048770ce9894416e6c22874bfa=f4083ea21b34f089.ddns.net
 16c244aab71e3f113a8c16cd43d6fc5f3db85086=*.build-hive.net
 1715df70738e280cd06255168b2de9e308fa004b=odercraft.mine.bz
@@ -695,6 +697,7 @@
 4bd3fa26056e24a44ea26b7fd0b925aebe5b001f=dns-test-12
 4bd6c3fc8630f4252210d49cb257db744f21aa24=*.voidflame.com
 4c188c5476232b78a7b71db1d496224ff9598878=*.fvug7y6yyrkgdc9qec8tj7jyexybzrxcesycpyfctmjdzkj39d.xyz
+4c18c41b1c073017d7dd60d7bd440cc3a00ea220=*.medievalpvp.net
 4c2a8d9f3a5e6d7f180c79d85077ef20a3e0940f=*.opjails.org
 4c3a92b7c86082635b1b94e314d06f246317294f=98sd4as948das.ddns.net
 4c598f5ff68af742b0493c38f02a28a4fe601faf=opm6128.ddns.net
@@ -889,6 +892,7 @@
 60894b942c84bd7ed8f24379c9d17b07e66d2181=tzlcun4yt0jlho3y.ddns.net
 608bfe61fa51abd33e411f4fbdbae0a4ee6c8df8=keemplayz.ddns.net
 60a542e01104ddd6f7b4b91dc1e94b1f9fd6c678=eqx2y9wwei.ddns.net
+60adb7d501c365981e6b2025b6fba84a577b6e9d=*.hcserver.com
 60b797ff6c8eb0bed85696d32473a0284abc728c=6605ee638068bbfe.ddns.net
 60c167b71097be36447d579aee03026bf10e7a8b=*.meeplife.review
 60ca10b13649fe5c8a5225323521c869fae19b5f=avemariayoufckers.ddns.net
@@ -1275,6 +1279,7 @@
 8c29464854d6f652c705967285dd9c8218819ea5=sb-hub8.ddns.net
 8c2fc3e6a85cfc4bdd006e6193bcdd834f475bee=gtaip4.ddns.net
 8c2ff39bc9a6bd86b00ca5ccdfdd0a473a1512dd=yoh3fd5f1rqytr55.ddns.net
+8c331ef98a156751dd1a6d8f9175d8e4d4cbacc1=*.sarmacraft.com
 8c50291877066444db891d5a50f6ecb1a3ad313e=glhmxu5u.ddns.net
 8c9c8a8159945620fdd4fb639f36b6bc71fbd3da=ecocitycraft55.ddns.net
 8cbf8be4342cbee49bd275f36ab45d1589305e07=f3c468d0988b3c40.ddns.net
@@ -1325,6 +1330,7 @@
 913947ff3e7b05b10a6deffa8a70cb3be246ce1e=gc.tecnova.com.br
 9141c7c5281b872f81196bd085efa2ff6e5eba39=copscalled.ddns.net
 9145da8c36e0d5288e27e8c63ae8335a8095e80f=*.meep.press
+91885b1282869eb88bb06f1e43f98457f38eb2ca=*.eternalcraft.net
 91abecae3133b8f73669615e9ac04d51d84a1d40=test33.com
 91c6caa70860d687fa3d8db06bb17ce30172e7f3=fadedsb20.ddns.net
 91e0962a3f713c431d3d9feecf6606458c4f5222=ui2br324r34r12i4r.ddns.net
@@ -1955,6 +1961,7 @@ d9ff162431c79caa61895927f3721942f55a3435=hotsquidslowlyundressing.ddns.net
 d9ff4ee143a2fbc34e8dec333b5b9dea940467b2=abchaotic2.ddns.net
 da2fabd3898eb6f8dbd5c515b33e227769d654f9=visitmceuladotcom-jlzx.hosthorde.net
 da51dcc01dd32c9a94a0d486b706514b318f0c5e=survivalsb13.ddns.net
+da6eb0424b500b57d23f716f3d916ed440dae1b9=*.minecub.net
 da9bd24f1fd41c6d65f43a796f591f7c00e8b681=597201d636578f63.ddns.net
 da9e239d7e0f2940494e266de69cab206ad837f8=testing1213
 dacfeab0c42cf69579bd655aef840ef723949208=mc-gtm.net
@@ -2002,6 +2009,7 @@ def6cd8d1539e98b5fbd2647163de063541004f9=tfwcvnb8xae9ord1wssg3ieck.ddns.net
 df3c0911f9cda5ec9eec16f38f8ded1147960d89=r32vrfqwerfv.ddns.net
 df5dc0a6e440d41dfae4a1d453a01a2242c94f76=d991ee13b29c8d5e.ddns.net
 df6d53b583492c4ea6409df74baf8e1013272d6d=*.luckyprisons.info
+dfc87123c9c9ddd1e2eb179a2ab82afef5f945a4=198.244.148.169
 e057d482d33223e9cb48aed3e2d51396a19dbd26=testing26
 e06f82e37100bc8c07ab4ff5cea5ab755b3d26d1=jufpgs5361.ddns.net
 e094f313db114c05640e20d42236b04e6405da68=fckeula23.ddns.net
