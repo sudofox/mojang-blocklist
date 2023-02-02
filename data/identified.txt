@@ -244,6 +244,7 @@
 1a50b65e9aead8a13d7efdd9de18d8242638bd88=swcom420.ddns.net
 1a5f060274ffda57f6345480a14b41302e5ed16c=*.thugscrib.com
 1a8aff4ca757d80b2ac541d68972f88f382dc2d2=eca13d8504293703.ddns.net
+1a8d34ad064ff65a6719e042ae5dcf808d0ae22b=*.minearcade.org
 1a930a05dff5488b45d371d419e7d2c1be9577c0=lenslaotnfncjsow.ddns.net
 1a94cf702027180a20c61c36a1dd5a5b680af08e=214f4na7ridh.serveminecraft.net
 1aa2589da3da931a8332a4fdae35538d3a12f555=88e84881faf24498.ddns.net
@@ -1139,6 +1140,7 @@
 7bb25d87c7496c92c30eceb028b0bbe918f9c0ce=681bc3bbb90c3c2a.ddns.net
 7bbe513dcc8d07e35a74f470dc3a99b0a9b7703e=zzsadfasdfeaaq.ddns.net
 7c118c948c8c8a09f06274392634111c00effc84=pasdasdas222.ddns.net
+7c12601d231f71922a968bbc04b3e9da19322e84=*.originrealms.com
 7c18fd441af13cb11f620f822da536e3fcf3f62b=playeccgamers.ddns.net
 7c2034170777ed68ff6f5fcb0cb109964113f3ec=551243a9d178b0ef.ddns.net
 7c244bf2b5a63cf192d58194f5a3c65b20fb011c=mc.ufcfan.org
@@ -2271,6 +2273,7 @@ fc0d69c08bc7732162da0da5f153d39444bbd3ce=gta14.ddns.net
 fc4dac75e226a52488e6fe254c1a71d34a0fa36a=*.dexland.ru
 fc62ba14ab30fc24eccbf6c73ddd5169cdac5f78=dcxyz6.ddns.net
 fc674f50dfc5ec153700fd54d3faf92d29199f1a=i1xwv21q55w0tz.ddns.net
+fc752efc29e88d71e8cb42f4654921ca8eaa56b2=*.pvpwars.net
 fccef388e0081adc28127a82954139381eff5b7e=phan003.ddns.net
 fd0dc853d30f0bff59e680fb3d8702b8ec977b84=64f7e97630235e49.ddns.net
 fd3066961d28d3f02d3aee38ea9c335d1a8d24af=29da3b67d68f701f.ddns.net
