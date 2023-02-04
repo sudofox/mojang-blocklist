@@ -2312,5 +2312,4 @@ db5db7172338ba0761e284051a82893eeb4f8650=*.drugrun.net
 8c331ef98a156751dd1a6d8f9175d8e4d4cbacc1=*.sarmacraft.com
 16a85a07572cdfc4cb5caff542f952d2a9ed9038=*.juicecube.ru
 da6eb0424b500b57d23f716f3d916ed440dae1b9=*.minecub.net
-13f5242d0a7d5fa9821cc19c35325cb9caf7de0e=*.holypvp.net
 60adb7d501c365981e6b2025b6fba84a577b6e9d=*.hcserver.com
