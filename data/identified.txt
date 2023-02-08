@@ -513,6 +513,7 @@
 3798b7937937920ba6c4d945b2dcb7f2f6e8c4b0=842d43c39905c9c6.ddns.net
 37e6a2776ae3f7a364ddca16cf853db69fb9802e=osyto5bk.ddns.net
 37ec33aab58cb63502f660d6e1aa23023707e3fc=keupy1tny61lgiy0.ddns.net
+3806601617c5a766f44c61836deafaf208b730cc=*.mineshards.com
 3810a522398c8be7423d7d28459b3be0d38968e6=cp9mnac.ddns.net
 38113fca5e610d42bf33d68f464f60f6193f2625=*.eulasucks.faith
 3844041a6debdfe0ac3f0dfe209b692664390476=39d6qy6v.ddns.net
@@ -1927,6 +1928,7 @@ d4e1a3eda56e24a096cfb6dfb7ae72a583399c6d=dragonsurvival.pl
 d4f706dbf3ee377a0f0512b48cfaafa76d4bde04=t442biuv4w.ddns.net
 d52a3a4356bc07964defc204a2a225b783af073c=planetsb9.ddns.net
 d54db115d781524c35508c1bbbea9fef38a05cd8=*.sarmacraft.info
+d55e763d16db2c7c2fd146ce7d28d29645865052=*.mineshards.net
 d5a83dd09266f53186c35384635039bc0d079652=m0dchgxewv.bounceme.net
 d5aca972e5dad2516d16f795f940f3bd5321ebc3=yoitstessabrooks.ddns.net
 d5af165bc3cdadbdd5c99fe47a35d397ffe77ef4=mcsl.VexedMC.com
