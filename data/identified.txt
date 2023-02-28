@@ -316,6 +316,7 @@
 222ab8a2602e498651e42d750f89416f6cf3fd11=kbucw0khr5.ddns.net
 227d18c2d31450ced40234b04a24820e1c880aa2=*.invasionz.fr
 22b7defba3532c4d70dd895e96fe648842fe2b36=gtamc5.ddns.net
+22ece94ed2248da50d6e697f1f873b3683a66c92=*.intcraft.gay
 22f1363063a6047f83dac3fbae8dff65ba75aee4=mrtpwchegwyv6cqd.ddns.net
 22f91847fa467ffd2c5f36af262163347cba0239=*.hyeccishere.pw
 22f92e02522056ee54af1a454d103d81f4b8e12a=phan001.ddns.net
