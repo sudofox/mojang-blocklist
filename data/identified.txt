@@ -1768,6 +1768,7 @@ c251f6b3e8583aad412e555245d090d67cffb360=*.theboismc.ml
 c2547aee74cf817846b6af0bf928f00fbcb93250=anonproxy018.ddns.net
 c28cea963256277e80786be2a18284a88d8a713d=e6c93ce826bf8180.ddns.net
 c2c0b1d6c36923ca5687e3fa3071d91ebadea894=f49a5ab50ebee989.ddns.net
+c305dd2a35934eb3d98a5216796b0e8bdcb54e98=*.nodes.soy
 c321b9d0f0e82aee3b8c5dd2ab78c449a8f0a279=*.mveula.club
 c32cfe5f5104aa8602e39dc1184a7f3cffa9063f=*.brandonlovescock.trade
 c335d6ef7fb1c440c5e4a36b3732fbae90566760=chocowhite21.ddns.net
