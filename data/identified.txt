@@ -837,6 +837,7 @@
 5a02920644878ed9425b836dd5325159c9fe07d0=*.gtamc.net
 5a225ee9cd652a8681fe5f6ad381c77a580cb8f2=saljkdnh32hed32198ed832hd23d.ddns.net
 5a532b11e6528984d3073622228edc35f45af579=opmcprison.ddns.net
+5a57135a92a0b147e3ef68906083501b4f72cc69=*.intcup.xyz
 5add0fff33afaad0b8adccb9998de1e4cd64696c=*.mc.stardix.com
 5b015b0f45e2b2cf9d29bd1c3079cb1a84c3a3f9=mojang5.ddns.net
 5b2f90f0fb2381e928a4cee67982d0c7009cddf8=opm8019.ddns.net
