@@ -228,6 +228,7 @@
 18d97388786ddacad99cdee6af0e696f6baeb750=t0sa101c.ddns.net
 18df6cf6b7b2b4dd2e4c73104e8f220d11ce30fd=mc.dextrality.xyz
 18fc63f2ad0aa63a9bb67dadab8774358693dbd8=swswswswswswswswswswswsww.ddns.net
+1913daf1e4e21061930dd4c729392ad76e6e912f=*.astropvp.net
 19422172eb1175d53a9852c3734f323183ef8fc1=allahakbartks9.mc-srv.com
 19496af28f798311b19fbc4710ddd04117ed070f=*.shaded.gg
 194cd8798d9bd165b95c1e609cf5382b876b3c5d=*.runecraft.mcserver.us
