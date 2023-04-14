@@ -1878,6 +1878,7 @@ cc7f09ec3a9618be3883774c9dd60ee3d11fce04=6895edb559be8147.ddns.net
 cc8e1ae93571d144bf4b37369cb8466093d6db5a=*.thearchon.net
 ccccae6afca5e06864c9c3caef2515a4fef20b4b=shadowsb10.ddns.net
 cd13a054dc82d2876d623404a6c47d4e422e203a=fckeula21.ddns.net
+cd72fe34153c71d513a816f9f512ac6e2879c3c7=*.plasmamc.net
 cd74a053217f9b6937f97589f3f8146470068d05=*.brandonkidnappedmarina.club
 cd782136942ed2a37a8b7a7b1958c2879e54a00e=shadowsb18.ddns.net
 cd829d1837ded3567c160c19ecbecde8ffeb3196=b91723y23421m2.ddns.net
