@@ -2308,7 +2308,7 @@ c305dd2a35934eb3d98a5216796b0e8bdcb54e98=*.nodes.soy
 1a65aebd1ce502ad9b5e91569a685b59d6a9b3ba=*.cloudsurvival.net
 5a57135a92a0b147e3ef68906083501b4f72cc69=*.intcup.xyz
 fdab0238f3a3ecb2af340d9c758f1cef964b7268=int1940.xyz
-64436ffee3a81f97848b230bdefe83fdc35fc677
+64436ffee3a81f97848b230bdefe83fdc35fc677=*.borderrealms.net
 91f0f91bb736451a70b1d5fa293477fdab3e5aee
 b8c98ef25b3561ef0cb0df246a018f10dc60e440=*.crankedpvp.org
 7a0cc8bdbb502102e67e6c2af1e95194cc733e9c=intcraft.nodes.soy
