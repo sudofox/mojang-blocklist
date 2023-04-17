@@ -240,6 +240,7 @@
 19c98b21519c69da4a7648f429181e4e67e77f54=f83b1c2dc4b6f4db.ddns.net
 19d75e8433ac7d47876fffd831ae0073371eee66=*.brandonlovescock.top
 1a007ca9ce16581ff4e0a53cb433e3820ae8dcea=2746501849.ddns.net
+1a009ffd0b3ce2bc1ba1c5f6391d55b6824fd9f6=*.unicacity.de
 1a15745c85d1385a1f5a634bee3b359d2080cb98=106b9e5b32944047.ddns.net
 1a1e3d92e5ac8cd215d6afa5a68a77c31df9ba90=*.nomorenightmares.info
 1a3e3a570f2905133898ad99766b3b8d0f7ca2f8=*.play.tropicalkingdom.nl
@@ -1367,6 +1368,7 @@
 9366f93e81a540485aaff3e5667976cbd8c84d80=*.meep.party
 936dbace9de52d7ba779b754a734e690c713bd49=*.cosmicpvp.com
 93734ee540747056db738ff8111ad85e73b87491=testing21121
+938e14ea583f2431de08e3268b6ca9bcf173eaa8=*.ghostly.live
 9390b716ac16250ced6c8b97e8a8048526fd266d=c7d5d4dc8fcb3262.ddns.net
 93b2233fba299ab60239dc6a302644331c5ea58d=*.brandontakethelosskid.host
 93be72d225b9cffb1cc2159624e7a1ec6d26c1f5=COOLXKIDS
@@ -1444,6 +1446,7 @@
 9bfebf093c84877c5d3a15d013a47253b682eba3=donotban1.ddns.net
 9bff14bfc28940f2fb370fc2e31a941b7c493201=*.comeatmemojang.online
 9c0806e5ffaccb45121e57e4ce88c7bc76e057f1=*.goatpvp.com
+9c1903d405de8cf6ca1225f0f54d1ef0d65ecf29=*.drownedsmp.xyz
 9c22587e674e03d7b762549b95e8ecdf772a2db0=4opa.ddns.net
 9c361e97079fd6324271637a468f5fde517b4811=*.guardianskies.com
 9c58242cdcc3a2ef33b6a962aa42cb5e20d7e5f8=*.mineserwer.pl
@@ -1667,6 +1670,7 @@ b7a8206b3566ad8c13d05e6691cd42af2f1503b4=xabmvoehhfbegmvpiir.ddns.net
 b7bdccd65d8d8cbd4e19f910b91d462a74b7e093=fyikskq.ddns.net
 b7d3382e357ab52afb537dd2ede46152f9f0c671=beepboop.3dxtras.com
 b7f4f4bc5a961c0144c33719bd1fb1f3939e576e=6d2ac8ea51c95651.ddns.net
+b7f8f5ca273285de7a4aa31a6e0a753a322036bb=*.likemc.pl
 b7fa0230579ad122c602514b7aaa13e6a8d97425=*.Wildprison.net
 b810d624e5d1e8345122b9ee8038b80c6b911392=1ed9414991411f7d.ddns.net
 b842eca5f5d84db4379f81e9caedca5122036cde=*.rededrake.com
