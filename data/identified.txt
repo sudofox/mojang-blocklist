@@ -1235,6 +1235,7 @@
 85cd94e732f35c0fe1910a174e3344a3d337b09b=rcg1ghss.ddns.net
 85e5023046ea91ee496ad37928076d53ff428f36=87d704dfe9a97297.ddns.net
 861413af9c93d4a9fa26e88ea24dc22167740d78=oder.farted.net
+8652807ee209af77c49b2f8b8302ba4fea6faeb9=*.skywars.com
 867500c546515b3f35130550bcbc7ae20707d3a3=d54bf5c25d33efe9.ddns.net
 868de8ef4ffe71411b87b4ae4a2e73ca1bd1850c=3opm.ddns.net
 8696e11ad84cf5d89cbe7fa49a633b3197d7a1a3=anarcc.ddns.net
@@ -2015,6 +2016,7 @@ dc3082307b5c12acc193cc70fb67a0fbc987d487=qwcbjb3dr9.ddns.net
 dc34fde30f83542e3edd8d49be8b435d969ffe00=ivsbgcqpyk1whkcp.twilightparadox.com
 dc3b35ea9004ef1e0c01e33c77b2c7597bb0dd43=*.vibez.host
 dc4c5ef3d12dd5fea53e6849fce22f25e5cededd=e981523a466d8c2a.ddns.net
+dc8a6ffae80bc39c121fb21a455e903bf0eb2b7f=*.mineverse.com
 dc8ac3170f2f93d1f6193f34987ddb28f75ae687=survivalsb11.ddns.net
 dca4b0026dbcb1eb9b20b738fcdb462e591a1382=dns-test-3
 dca69e7b05155fe52066fabd723915201d1a2552=3opa.ddns.net
