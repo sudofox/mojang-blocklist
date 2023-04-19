@@ -2320,4 +2320,5 @@ a6780ba3d697f76328a8ec8d6cf21d4610045faa=mc.chromacage.com
 b7f8f5ca273285de7a4aa31a6e0a753a322036bb=*.likemc.pl
 1a009ffd0b3ce2bc1ba1c5f6391d55b6824fd9f6=*.unicacity.de
 9c1903d405de8cf6ca1225f0f54d1ef0d65ecf29=*.drownedsmp.xyz
-ece394ed39324afcd74c6c77cecaa35ba00d34a1
+ece394ed39324afcd74c6c77cecaa35ba00d34a1=*.nokbox.net
+53194bab5446f5a11fee74445436aab8a3031d50

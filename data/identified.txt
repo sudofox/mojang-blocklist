@@ -2168,6 +2168,7 @@ ec5a182ae97ded625d2a497aa43c18d6c1a608f3=qpwtaa0e1pyx.ddns.net
 ecafe92c6d27201f0acb08b7ef963ac998378d96=*.desiredcraft.net
 eccdf20a6e1f2dfb0bb195b63d75ed5bf073b4c0=*.wyvernnetwork.com
 ecd890aaa28e548952c015deb913db0328e06bbd=fckeula3.ddns.net
+ece394ed39324afcd74c6c77cecaa35ba00d34a1=*.nokbox.net
 ecf7390304d38a939aa3f887c066db8d63b89f8c=b163d76b99409006.ddns.net
 ed31545ec3f68927faa1024f24f934e7bee17210=ecocitycraft40.ddns.net
 ed345122528e3c23c45b1a805257d87b9759d5cc=rtgylqpa.ddns.net
