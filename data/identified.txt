@@ -875,6 +875,7 @@
 5d9516c44cb076dc93a13ac9f92d19ca72570613=*.hippiess.bid
 5da46bb89f69df172fb516ceafde8d4010ad8440=981237uhewqyuin1h2uw81.ddns.net
 5e15ef9b23f4ff43bd82831ba19b44a71ae6793b=monkas.ddns.net
+5e484711b7e30057821a7739fefc5adbc9c5f8a3=*.exodusmc.org
 5e4d4f168a8a452331bb59b6691a82ea9127168b=d10c7ace130aafd0.ddns.net
 5ea06543413a8659426bdbb78d3adc288c2a8983=dcxyz12.ddns.net
 5ebc591993ed201f8ae551515e12a7ddbbdac9fe=i47tjkfnp3ofml.ddns.net
