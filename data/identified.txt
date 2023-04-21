@@ -44,6 +44,7 @@
 05086ac235ce7b62e0bc6a3146be45a7da905047=29d7g239fdg343d34.ddns.net
 0549409d39c9c09c98f71e90f8ad2cee3f408a10=xqmo8qx453.ddns.net
 055dada1f0e7042fe7efe61da9daefa8451372f0=ecocitycraft72.ddns.net
+0572a50439a6414becc22776eba52ee3d559c5ce=*.revania.net
 057b3cd8c1bca6184884a1a5bb58b6b848e43fdb=testing21112
 05988f29916479ced95f055240123bf47a6b5cfc=gc.australia.ai
 05a337287f05b753e5a3d19dbd903cedee46fd9f=gvhl6zxsas.ddns.net
