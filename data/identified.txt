@@ -262,6 +262,7 @@
 1b3b73535ddd6925cd6358d42115764e3145b376=mojangpls.ddns.net
 1b3ec61411ae8edb052937340ae5cda2389367a9=dodivhoihjiokvfjfb.mooo.com
 1b516fa7b5e9fccac1a0b26df39a03436a3fd006=hypickel.ddns.net
+1b6ef7e8f891f82aed234e81892355b4b9b1ef00=*.astrono.net
 1b758e0a8a62433bae3a574cbca41ddfdcad87e1=97fcf8c846827a6e.ddns.net
 1b7bbb8d9b74a61f4f534bdfb23ffe27500f215a=5249f8453f8f5065.ddns.net
 1b8ff117f24bef7f026ba105339f7b32879276b3=gdrn6hevm7uy6e.ddns.net
@@ -1278,6 +1279,7 @@
 888567b7193ffc0e896df0446cc4d8731728ea47=ecocitycraft43.ddns.net
 88a10650da12f3433eebe25f9b8ab61f2a5ae6d5=phan002.ddns.net
 88a540edef06ea3e337710be16ae8f53c5cfe4f8=isleptwithjeffbezos.ddns.net
+88bdc691cff687ee5ed58caeca6d19b714f54275=*.play-mineland.online
 88f155cf583c930ffed0e3e69ebc3a186ea8cbb7=*.fucktheeula.com
 8920d54c8d9c6f87c2f6bc0199565b5627467957=91350dd3579b2f9b.ddns.net
 892bc865d51f0fc97ef6ed09857dc492fb4b874a=9e036316e5fd565a.ddns.net
@@ -1288,6 +1290,7 @@
 89e7e28143099b9599f5107a997c3a8d4df19675=wearedemkeksb.ddns.net
 89e8029fea55ba7284bc5f57dd0728d77d664858=phan011.ddns.net
 8a0d45fcd231a8b33c62f3cadf8b20945e6d203b=ca4e2273f4a489a0.ddns.net
+8a211002b2c10cb4d821bf45a61f12e598fa0a47=*.germanrp.de
 8a321f8555f172c7813db69cb4810086b925df8f=chocowhite22.ddns.net
 8a42eace4e2071df86c80fdde779251d1d8be7ce=*.sharkmc.se
 8a47c3c2eb5eb92b5570f10486165d22775fbcc0=ivsbgcqpyk1whkcp.ignorelist.com
