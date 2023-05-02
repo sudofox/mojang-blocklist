@@ -1501,6 +1501,7 @@ a0486c27111819cd88d874da0135bbaccefd6de5=*.mojangstop.info
 a04aa3dacb2e15b459f52f9dbabb2708b45066f7=hbfjjdndjnbridndko.ddns.net
 a04c85f852b23e96f414e3e8ec1cfa1cf70f84a6=*.play.universocraft.com
 a08fd848356e2f4fa308c00f04dc97766ff185d7=loadbalancer33.ddns.net
+a0a43da0066ebb3642bf98a149f654950c29c977=*.germanminer.de
 a0bceb640c3eebcd512a894c20f696bbbbe86a9b=*.velocity-mc.com
 a0e31ba335b0e24cb3d53497b34346f5e9fbf42d=82f2929bb4a9ab01.ddns.net
 a0e7a8b36096b1a46d52192a75744d32ff8b4705=mvmvmvmvmvmvmwmmbmvmvmw.ddns.net
