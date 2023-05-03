@@ -800,6 +800,7 @@
 542538887767ed7c8ed6d41d61264f22ad39cf36=53da143f3626ad42.ddns.net
 542a4fca65bfd6b8e164ab25e94b10e8b5501ba6=odercraft.uk.ms
 545cc6a136863e02d73b5330f83f74fe707b8915=5867370c3dc4d77c.ddns.net
+54651dfc84f86c3edc2163dbbe37f80948c6dd82=*.taskmine.ru
 547fa1a152fc8b5f2ffaaacd35b29b011572dab2=phan007.ddns.net
 5487a588965f927656295a9d6c860c5260bf0b1a=*.minebrawl.org
 549e4381e49efb5b10ae8c1141bdd128edad5762=*.wildnetwork.net
@@ -1918,6 +1919,7 @@ cd829d1837ded3567c160c19ecbecde8ffeb3196=b91723y23421m2.ddns.net
 cdb4a62a463d12643a7c9feb721f9e15b7dbb960=*.mojangenforcementblowsdick.xyz
 cdc09d42f72ca114817ca1c6696178aedc57e7b2=250419adb710dcc0.ddns.net
 cdd26f874ff357c8e9fd5fc69ccace858099f21b=*.hazelmc.com
+cde61931adfd27a47ed6862b46a36da15ceda817=193.70.114.43
 cdf5108556c00e6e0c42e1a52516d1b4317bbc1c=*.planetsb.net
 ce340f68eafaea60115f310401416dde906de488=oovmimgoosxrofsvtix.ddns.net
 ce68aceb8045570bb5fafeabcaa8b9634b52c965=ab20f4d7a8ecca41.ddns.net
