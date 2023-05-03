@@ -1676,6 +1676,7 @@ b56150b971195a035a5289078eb12cd9b3c063ac=mjanggey321.ddns.net
 b58b2d8d31d9892234f39beaac0408486589d272=*..mc-complex.com
 b5cbed6b96e4349899078bb6efba60e58da88f8a=minecraftserversss.freedynamicdns.net
 b5d5957076ecc75ae766f25963a943adca2efcd3=eulaprank.ddns.net
+b5d760d8f73039350c7a16426ad886054b461339=*.wildwoodsmp.com
 b5f3f5421278b6841f7127fdede1a4ddab444b89=imsellinglikeagodchurch.ddns.net
 b640042137396e885265406d5d032638649897b4=*.purple.wtf
 b6526de5268671d7c68fc78c17ac38c59bc161ec=978416c96475c724.ddns.net
