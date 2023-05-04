@@ -329,6 +329,7 @@
 22f92e02522056ee54af1a454d103d81f4b8e12a=phan001.ddns.net
 22fd6206ac5043b2f360e990a4ac69275d559964=89f512f2ff843f25.ddns.net
 234640de4732d2ae61185d8d8f61e167862e0e85=opa1.ddns.net
+234ff7187da5f4be58518cb21e423a65d0b66ba1=*.goto-mineland.online
 236fe519405acd929d17c2bcbe29cc67d99d99cd=opa7516.ddns.net
 2385c17c242e6fc5de060b7bb7d63b6c27316aae=66619df0fab82e6d.ddns.net
 23a6319fea7b17033ec7aae581622116285090d6=2pbfw6o6k3awpjenqvhww4h7y.ddns.net
@@ -722,6 +723,7 @@
 4c3a92b7c86082635b1b94e314d06f246317294f=98sd4as948das.ddns.net
 4c598f5ff68af742b0493c38f02a28a4fe601faf=opm6128.ddns.net
 4ccad9f3ef8acc0f0fa95641c65c8c011b346881=dotplex.ddns.net
+4cd2f703451996b8bc0bbe89f8193050297da951=*.zenpvp.net
 4ce8bfaa2eab20cad88653b8afa1de5e785bfc9c=onlinesince2011.ddns.net
 4ce96aed237d2ad52d06f5f9c7573808bdfced70=shadowsb12.ddns.net
 4d114ad2f544465fe8a5e42a0751256efe752692=c51chan8bdzlssp.ddns.net
@@ -887,6 +889,7 @@
 5da46bb89f69df172fb516ceafde8d4010ad8440=981237uhewqyuin1h2uw81.ddns.net
 5dcb000978ce02d48c16df03ff198d510f02c853=*.minemen.club
 5e15ef9b23f4ff43bd82831ba19b44a71ae6793b=monkas.ddns.net
+5e345f17ac66e78dbbc54b6149549a9afc90715a=randomkitz.minehut.gg
 5e484711b7e30057821a7739fefc5adbc9c5f8a3=*.exodusmc.org
 5e4d4f168a8a452331bb59b6691a82ea9127168b=d10c7ace130aafd0.ddns.net
 5ea06543413a8659426bdbb78d3adc288c2a8983=dcxyz12.ddns.net
@@ -1157,6 +1160,7 @@
 7a0cc8bdbb502102e67e6c2af1e95194cc733e9c=intcraft.nodes.soy
 7a297df66482a2b0b1f5c41cd8fd41d3676a1c02=gdfgdffsertreeeeeee.ddns.net
 7a329e3f836f10e1cf6b31f1f2b7f374e9490e8d=y2g738u94ij2uye78.ddns.net
+7a6a12df95af153f10ef043d790e2f5264449b98=*.randomkits.net
 7a748661f100f768e851f5a04200722c4bda03e3=ybyute2fbrhgb8fm.ddns.net
 7a7bacb9615bede4e0815f36817b564f27b524c5=sbxyzdontban01.ddns.net
 7a8bca31d61771d78dc8dfdeb215d054cefd3783=m482mz9hvz.ddns.net
