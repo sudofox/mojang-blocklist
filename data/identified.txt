@@ -668,6 +668,7 @@
 46d6776173911688f43de78f2d7244e19612ab1a=*.freetrialbilling.club
 474a6f28264a418ad0e8839005ca4cc0faefff45=*.mineraze.us
 476076bc87163201da7fa8ede199f551d81fe18a=*.thugcrewmojang.club
+47684a4e5eb0d74b2fb2c052e9e9f298a6dc4878=*.pokecubed.com
 476b301d0111dbb9acb15f0b150d02b1511c9b21=testing2222
 47972b2d4274fad80fd478fd1cfdcf63d35beac7=*.evermine.it
 479b718a139a40f44cde730349b2f541e58690f1=shadowsb16.ddns.net
@@ -1237,6 +1238,7 @@
 82db1322c6a5104f2500e26e20daf447820806f7=blockifusmell.ddns.net
 830a8570ea3a3fce3693972cbca4b8cacd0d16e0=r23r23rqeqwe.ddns.net
 8311a2ab3622ebac530e41a3965d53bae29cbbc6=*.mojanglikespp.download
+832a124affb75e59a7cff677fb0fe0f2dcc8568a=*.fruitscraft.com
 832d8279d485ad3e0d5a2219da75a1a5c3bdff11=shadowsb11.ddns.net
 83386e2d48eb398cd5a937486298b864620769ff=90.90.250.184
 83436d1d44a430b156b3ad48f1ec3bd2cbdbc702=*.join-mineland.net
