@@ -1235,6 +1235,7 @@
 824cb827ba7cf74222f1d546aadfe0ba1e63c14f=*.360spinning.com
 825ed6ee34ac515c851bf37c03e81499e6063c2b=wfwerfwww.servebeer.com
 829800d6a84c0d095a757bd217d96f1ea32dbfce=o8x005pgvz.ddns.net
+82ad769b81a1a09edce274bb6a69642047a0fc74=*.stealcadia.com
 82db1322c6a5104f2500e26e20daf447820806f7=blockifusmell.ddns.net
 830a8570ea3a3fce3693972cbca4b8cacd0d16e0=r23r23rqeqwe.ddns.net
 8311a2ab3622ebac530e41a3965d53bae29cbbc6=*.mojanglikespp.download
