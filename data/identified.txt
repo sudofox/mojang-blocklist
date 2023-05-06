@@ -1907,6 +1907,7 @@ cb01c0a34221f05062a8de1d9bb89c752546d534=new_server
 cb1820a28cbee205cec0a9e763ab4d9f867f5cd6=2fe690bf546d4f4e.ddns.net
 cb51be0c26affb49807ac5452d87ca7f12dd8e41=opa3.ddns.net
 cb5d50cb42deb41b4c5571f49e1816c31370f1d1=280d4d034hd340d.ddns.net
+cb805d9954bdf2c9807f354272f82674b3d532d3=*.supercraft.es
 cb87d945f24699f9cf7fa360f7fd4c917e7c01ec=*.meeplife.faith
 cba33aa6e4c949e52af6462cd812e68e0ae38cae=*.hungergames-mc.fr
 cbbfec02bbc601ff4b2682c8620fe97c14ed99db=7bfc1575e97533b6.ddns.net
