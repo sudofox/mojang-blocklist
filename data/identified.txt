@@ -821,6 +821,7 @@
 567763a2d2fec45507a3c29d98c0ca672803e2b8=chocowhite18-ddns-net-was-a-real-server-lol.ddns.net
 567a2669149591061437a58c4194bdd7324b9a0c=e1a1b87e7f158c8a.ddns.net
 567d80c36e84c5d2a8731babb338c293584f5a51=fadedsb21.ddns.net
+56899b90d6b40bca3d18d6657f4531b5c5732c41=135.125.64.174
 56c567dd1ecaebda96b661d99413d34e989830cb=dns-test-13
 56c7a4ccff309d6eb3c5737fe9509c3555e7f5fa=minefc.18hdo.com
 56d0e0391aee562e6c0bf229b43ce3f66a3880ff=830943b63f86bb43.ddns.net
@@ -1597,6 +1598,7 @@ a9c2175dc6300505fc9f94f08d773ce3d50d62a6=mc.brasilia.me
 a9e138d296db926e164087ae354ce380aba426a9=hagncjho.ddns.net
 a9f34cede4fb1c3bb2059ce3b75ada216f273310=*.mc-maze.com
 aa1978f24d2241ba003c3c70e31169634015a00f=*.evolvecraft.com
+aa1b5ec1b3a67fb5b7befb5622d26d487105a145=*.play-gamermine.online
 aa3962e1528a04b004295795d2a629400ec7490e=*.brandonlovescock.tech
 aa445f8f9810d808a0228b5c5286f33141c877e2=if-youre-blocked-fucktheeula-com-lol.ddns.net
 aa5531d1deacb4c78add5d19fb29beb84b9a118b=cxinthechatboys.ddns.net
