@@ -729,6 +729,7 @@
 4cd2f703451996b8bc0bbe89f8193050297da951=*.zenpvp.net
 4ce8bfaa2eab20cad88653b8afa1de5e785bfc9c=onlinesince2011.ddns.net
 4ce96aed237d2ad52d06f5f9c7573808bdfced70=shadowsb12.ddns.net
+4cfd4d81308b2bbefeaedf94a6efece0ebb25b86=*.fablesmp.com
 4d114ad2f544465fe8a5e42a0751256efe752692=c51chan8bdzlssp.ddns.net
 4d16ead89476ede644755a23cfcfb5a1621585cd=playcandycraft12.ddns.net
 4d4d104dc1faeb66eb80f4e5550779c9785973d6=planetsb50.ddns.net
