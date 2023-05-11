@@ -1,3 +1,4 @@
+00221bf67efc147e85b6ecfa35c89e260fc9b4ad=*.desecratemc.com
 0051f56173a26e103a77777bfc6b24bef7724870=4vmxkahfuk.ddns.net
 0062c9663a3c47529b8b10eea9574423b05e3711=ecocitycraft27.ddns.net
 0097a2f9a3a32a6fa194f503662e225fabf705d5=fadedsb2.ddns.net
@@ -435,6 +436,7 @@
 2e1174b5ddb24760be576ecf083599b9060dac83=*.luckyprison.club
 2e25913f9d216fc956d5e04d4489392a1e913985=xu9ryf2vzs.ddns.net
 2e32cb7de1dea8f93d2ae4c5da4bd59f76c0e2c9=*.blockgamemoney.press
+2e3fb5f4a60a4ebb3605338fc9af329ff57513f6=*.mc-ro.ro
 2e419543042d054dc058a55970ef12736ddbe061=ecocitycraft86.ddns.net
 2e4ba872557dc21136bb734d284a7bad694d3c3a=*.crymc.com
 2e693abefc2c7f5571119d3e7ed46c88e9af5332=icarya5.ddns.net
