@@ -2352,7 +2352,7 @@ f56238355bf8aa9f00b53bdc0989cc5f9aab0884=*.minecraft-romania.ro
 2e3fb5f4a60a4ebb3605338fc9af329ff57513f6=*.mc-ro.ro
 00221bf67efc147e85b6ecfa35c89e260fc9b4ad=*.desecratemc.com
 4cfd4d81308b2bbefeaedf94a6efece0ebb25b86=*.fablesmp.com
-59a8bfa3c44fb2c9cc44f3fbabb468427eba78de
+59a8bfa3c44fb2c9cc44f3fbabb468427eba78de=*.voidsurvival.net
 5b8881763ee163004838e972620eaf95849f3d5c=test.ddns.net
 7aba4a3b717e5710a41e268052074922c9f11909
 9ca93950cf6f3ef964a9014e8c0a9079c195d4d7=*.playcraft.ro
