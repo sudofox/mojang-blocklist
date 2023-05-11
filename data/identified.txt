@@ -357,6 +357,7 @@
 25c7d1d27638e2109c33ab9471fb6fe03310ad2a=13f92aaa713ba7e4.ddns.net
 25ff03239282f6e7f69e3f27df29f97e0b43773f=em00qoku3w63bb1o.ddns.net
 2600808206640b3c65d18c6e1d798c19ecbf7859=nigminec.ddns.net
+26150fa6be253b792cd2c576253622307f8f2585=*.hawks-romania.ro
 26483db3b6d9470ba6c538aa182b085b1a6e0418=legacy.clmc.com.br
 26792804d52ce8ee10be9965d9e10c1dbb2074e5=*.epicpvp.eu
 26851b840ee2c9b16c1b9a0f872146c05a36dffb=*.brandonpenetrated.me
@@ -868,6 +869,7 @@
 5b487786b10fc8e1f87aee64e237b1c9394df9e2=dns-test133
 5b622492ab6026563746b67adb50d3f99999cd3d=b350a34cbe899c59.ddns.net
 5b77310cb359115cba94d83c9516a5e0e6598320=mojangstopplz.ddns.net
+5b8881763ee163004838e972620eaf95849f3d5c=test.ddns.net
 5b932e1dfbb410c9e533bdee37acdf001d8d7bff=y28l2qemwj.ddns.net
 5b9485e33206e4779934a535b469e7e0372df76e=jesusdidnothingwrong.myftp.biz
 5b9f75687e6ce4029789d1fd59b659e1631ab14d=*.purpleore.net
@@ -1154,6 +1156,7 @@
 78e0ff013628375fb943646d6ed2fd0bd4cc9350=b2fde9287983cd39.ddns.net
 78f15f80fdf0bbf6f8987e153f4a2b57a96e29b1=ugmelbvv.ddns.net
 78fc9fe2a4fd0e06980e759ef47a771a8f1671ee=*.meep.site
+7923e8e6b4eb6df4be046be862390d83fe0088a0=*.minecraftromania.ro
 793d437978f4cf5d32a8f4ba332f83bf6a5724b2=*.prisonfun.com
 7972cdfae04b30d6bcd25452c09eeb9c425b2bff=d54cbdd65eb94e39.ddns.net
 7975b84527a1f477e691794f3e122a4658a63247=modding-api-makes-it-easier-to-follow-eula-and-add-features.ignorelist.com
@@ -1484,6 +1487,7 @@
 9c361e97079fd6324271637a468f5fde517b4811=*.guardianskies.com
 9c58242cdcc3a2ef33b6a962aa42cb5e20d7e5f8=*.mineserwer.pl
 9c5da28e6d8fe70d8c507ad32379257193de76ff=lolmojangsosalty2.ddns.net
+9ca93950cf6f3ef964a9014e8c0a9079c195d4d7=*.playcraft.ro
 9ce77f8e9b0e63bd239da8afa5ac21872c2d9f99=510110c35366cff0.ddns.net
 9cff34fb85abc4efc0f8323806fba741d6fb8f02=*.icarya.net
 9d4b729ea6bac1ac92341872ec53594b67c81f1f=34f256efw561f89fsd894d5fas5.ddns.net
