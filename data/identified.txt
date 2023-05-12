@@ -355,6 +355,7 @@
 25bd8f8643003edf1bd73004fb3ab8c8fc7a8b08=ecocitycraft46.ddns.net
 25c32c370554058c96fbd935f07e2fa97c312021=jakepaulissmarterthanyou.ddns.net
 25c7d1d27638e2109c33ab9471fb6fe03310ad2a=13f92aaa713ba7e4.ddns.net
+25f7ecd94930d69720c0a3e27881337993d1a9af=*.firstsky.fr
 25ff03239282f6e7f69e3f27df29f97e0b43773f=em00qoku3w63bb1o.ddns.net
 2600808206640b3c65d18c6e1d798c19ecbf7859=nigminec.ddns.net
 26150fa6be253b792cd2c576253622307f8f2585=*.hawks-romania.ro
@@ -734,6 +735,7 @@
 4d114ad2f544465fe8a5e42a0751256efe752692=c51chan8bdzlssp.ddns.net
 4d16ead89476ede644755a23cfcfb5a1621585cd=playcandycraft12.ddns.net
 4d4d104dc1faeb66eb80f4e5550779c9785973d6=planetsb50.ddns.net
+4d4dc1bde3a1a84c226b43c87bebc0381cf46278=*.firstsky.net
 4d51e0c955e18c98f68c152a163ed460cf6b9fee=*.meeplabs.party
 4d534950c73d75ec541c6dbc1c8dfeadb7da12b9=a8901cef1bf187b8.ddns.net
 4d8e8733906cb84e58350ef4f9f8ee23c607f50b=stealgens.minehut.gg
@@ -1288,6 +1290,7 @@
 8789800277882d1989d384e7941b6ad3dadab430=*.moredotsmoredots.xyz
 878dd9f4c42774fc718d1068657d221505efb75a=31b343ebfce918b1.ddns.net
 87925235a1ed71d677ec4c69e0194e8daebf0d6a=playcandycraft8.ddns.net
+87aa6ef66fcf5a2d114dff897a11706656391c91=*.enderhc.pl
 87bd8063008e118235b60276695fcbc4a6a6fce7=*.youcantstopme.tech
 87dca2d59bbb223c2be3e2660d122079b040939a=*.youcantstopme.press
 87edbf477d90bf49bfbc4a4533e486cc4a979add=*.negativeoptionbilling.club
