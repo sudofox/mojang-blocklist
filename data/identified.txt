@@ -380,6 +380,7 @@
 27e8cda43307f22a95ecca325c4c141816c5d1fd=91.121.36.84
 280a404b1199f3ace4f70bee103abc33059629eb=5ivl6w0kn2q3.ddns.net
 28203ac09fe06f9acb8db8399c034d8c1c29ffaf=gtaip.ddns.net
+28368c1960c848b8d0dcd491da3c9eec82ce863a=*.mcglobe.net
 2849e7af7c13d222be4958de884673e04779963d=*.heispixxy.bid
 2867e3099b2a8ec3e4c59eea933aae057795ec1e=p4bgbpjbq2.ddns.net
 28681c7336282b93f9216b062ff3399ea6c3eec8=*.iheartfarts.club
@@ -1113,6 +1114,7 @@
 727276abd042d4d6ba9c0f8e3429db1f27acc226=h11mc.ddns.net
 72af4e64204930a2164f0615701107f1b044fdec=xkzkvos9.ddns.net
 72b26745651e3fb5f1a0e60235a597ad253be952=c94334e5234961f0.ddns.net
+72cb699e690053854f2637e235997011a14f024a=*.infusesmp.com
 733a1ca96e4879fa6560c35f4a330665df55b818=mojangiskeemstar.ddns.net
 734e6be2d6e48d2ab714456a41e2d6916482d208=blockthisifyoupedo.ddns.net
 7356db02c41b5a8e98b345cde807ce9bad30e989=asfwefweew.ddns.net
@@ -1149,6 +1151,7 @@
 77408c6b9b91136744d4547fa9abc2f3c9a1ac38=iqrwrwaoes.ddns.net
 77a5f0798243b4f66e7d666bc18246ca83a0051d=dcxyz55.ddns.net
 77aa16eef4c031282d66a4f18d307c43fd7f49ba=htdsojuwycs8kuh.ddns.net
+77affcc1f79aa599a6152e35e09cace1cdff1ff0=*.pitsandbox.io
 77b7dd70b595577d5524a1448a998b9f0527f125=*.Redestone.com
 77d7a2aa8228f4e481ab35164e4bc724907bc056=m8ww4bkrjjkty4i.ddns.net
 77e873325d32a68dc845b5ad4b8550336cd1707b=eulafc01.hopto.orgs
@@ -1459,6 +1462,7 @@
 98e52a402ef1135cc1c133cd024b3985bb379fe8=testing2_0
 98eb535bb428cf3891519697ced655fa516a2df4=*.youcantstopme.xyz
 995e17eb12d84006fbffb9056169df95f35b9e4e=a51d69fcafba574b.ddns.net
+996a22893177e0905df9e83731ffa8ccbebc950e=*.harrys.gg
 99a6e8051a2f0e77be433582e167726dc84a520f=c7e4865391e90297.ddns.net
 99a99fb56e73ab8e8ddb05c816a5382db13d9104=*.90gq.se
 99bf27feaadc6844fc49fac8d24fd70fa87b2260=*.riftmc.net
@@ -2013,6 +2017,7 @@ d4d52cc46c6b25e868fd9a6d6a932aba751f71b4=bajacantina.ddns.net
 d4da8213eea3c69bca1c109a000af275394d2b4f=d23098hdf9823hd.ddns.net
 d4e1a3eda56e24a096cfb6dfb7ae72a583399c6d=dragonsurvival.pl
 d4f706dbf3ee377a0f0512b48cfaafa76d4bde04=t442biuv4w.ddns.net
+d4f773cc00c928a9d5191fd59e5e4775128a59a2=*.arrowmc.net
 d52a3a4356bc07964defc204a2a225b783af073c=planetsb9.ddns.net
 d54db115d781524c35508c1bbbea9fef38a05cd8=*.sarmacraft.info
 d55e763d16db2c7c2fd146ce7d28d29645865052=*.mineshards.net
@@ -2344,6 +2349,7 @@ f8b7e52cc838077d33755bdea3d2830cb4a5a395=jenalanencucndnsus.ddns.net
 f8c4ac5a881c9ca276c2069084b1a9dfd784146f=047076ff9e808fec.ddns.net
 f8d481fad7bc92a5fccb9e8f44779ee94d2f0f50=phan004.ddns.net
 f8f35ddc384f242a793eccf303bd95f9e4be17d2=*.batyacraft.ru
+f908836d04570af9bd3b415a71a857d76ec29916=*.tavernmc.net
 f912307a0d86704844b447f1140300ba9be05756=*.pitforge.com
 f922ddcdf55f70462e1ea74e502643402cfd024c=rguuoqgm.ddns.net
 f92dd4abac0b6da1530b47def22f729f3c321adb=moddingapi.strangled.net
