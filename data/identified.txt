@@ -2123,6 +2123,7 @@ e057d482d33223e9cb48aed3e2d51396a19dbd26=testing26
 e05cb42048c315095ba86e188ffe2a6fb81c0347=*.flaremc.org
 e06f82e37100bc8c07ab4ff5cea5ab755b3d26d1=jufpgs5361.ddns.net
 e094f313db114c05640e20d42236b04e6405da68=fckeula23.ddns.net
+e0ef9f2a2d53035e6bcc84d1ad724b088ea3943d=*.crispypvp.com
 e0fb27e8d934debcce48348103efe34a0aaed4b8=*.hiexcel.win
 e103d60722b5eebb525f99f20bcd2eae27e7324d=*.prisonlucky.club
 e1054e3a6387c1acc1a4d457826196ef9dcb487e=jigglypuff.dnsiskinky.com
