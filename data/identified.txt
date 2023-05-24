@@ -1508,6 +1508,7 @@
 9cff34fb85abc4efc0f8323806fba741d6fb8f02=*.icarya.net
 9d4b729ea6bac1ac92341872ec53594b67c81f1f=34f256efw561f89fsd894d5fas5.ddns.net
 9d6ffa5c28a4c5397dece9e644a436cbd33c4330=*.vibez.top
+9d7027d23f69628b7770f95fe27483d528304825=*.boxpvprush.pl
 9d7bc23f369f9d25c9358f67d7be4d5dfde1d2c2=dcxyz2.ddns.net
 9dbf7ac58a7b71a038802d02e2814415b993c5f3=rmc7.allowed.org
 9dc6e04859a298f2c4398b8378c0a29797f8f028=penguin.gg
@@ -2172,6 +2173,7 @@ e3b3e463b3bf1e9a50df921b9445580ed0df3d34=opm7326.ddns.net
 e3dcd84b2053c01024e34dd0694ae9a865414f37=82d7e3fc49cabc97.ddns.net
 e40c3456fb05687b8eeb17213a47b263d566f179=*.brandonlovescock.bid
 e41ddcf7d4b37611b676701060eae90fa65f11d1=fadedsb17.ddns.net
+e4216a3c31250c78fdb6d39a8bda57dae58b7d2b=snik.chunkshield.ro
 e4496f4d9094f60c91e2214b23ccda410d9191a5=qqhx37tumu.ddns.net
 e468f5becc9cd00f2a2ce9cb6bd642ae14bdc650=ecocitycraft15.ddns.net
 e469f715930e8fefafcf6dbfe6557d2136f891ee=fudznwdtrt.ddns.net
