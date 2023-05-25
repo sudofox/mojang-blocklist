@@ -823,6 +823,7 @@
 54b5fdffd32d9371189a31bb19f3fd2170bc4f33=sad561as9d7as98d7a9d.ddns.net
 54bd81aec20722882f649090951459745c3f63bf=pblxo177za.ddns.net
 54bfb93ab338b686bc1ffaa3780f5052cdf3bfea=9j9w5m9m7b2wrsf6dv1n3296q.ddns.net
+54c807ac4dc44f5f493797407ed13ac3ed6228d8=*.firevanilla.net
 551eefd4d9b29e880c82d8c5053ea11e32a6fc04=lose20poundsin1day.ddns.net
 553cd7c14173c0f722a1ea923f2f0c71e5886736=7dkjg9icgy2s.ddns.net
 559392b844acede96a81cfa7e208baeba248dc82=*.negativeoptionmedia.club
@@ -1275,6 +1276,7 @@
 85097bbb7d10a5f4f03bd7263757c2740de23eda=opafuckyoua.ddns.net
 851e1c3fe5ed1bbf362e0f3d4bb9d497f2cc4857=bfuysz62.ddns.net
 855baeb9d6f9904848a5ed0a5c06c4dea52d9eb5=*.minecraftraid.com
+855f149b0ef7084ae06791e921e0e494c733015f=*.massivecraft.com
 859891eeb694a56c35bbabb0686a5e6ca5c28006=minea.ddns.net
 85c2adc78ace183692047f292ee8322a7ecad6e0=testing211
 85cd94e732f35c0fe1910a174e3344a3d337b09b=rcg1ghss.ddns.net
