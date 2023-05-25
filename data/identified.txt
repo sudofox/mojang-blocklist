@@ -879,6 +879,7 @@
 5b487786b10fc8e1f87aee64e237b1c9394df9e2=dns-test133
 5b622492ab6026563746b67adb50d3f99999cd3d=b350a34cbe899c59.ddns.net
 5b77310cb359115cba94d83c9516a5e0e6598320=mojangstopplz.ddns.net
+5b77ed3babaaed723f7d2a64d5f0fcd2db79fbcc=*.kingsmp.net
 5b8881763ee163004838e972620eaf95849f3d5c=test.ddns.net
 5b932e1dfbb410c9e533bdee37acdf001d8d7bff=y28l2qemwj.ddns.net
 5b9485e33206e4779934a535b469e7e0372df76e=jesusdidnothingwrong.myftp.biz
