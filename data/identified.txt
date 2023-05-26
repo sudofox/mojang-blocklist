@@ -406,6 +406,7 @@
 2adfe7ab79aa3b3c8f48c1091c69689622e325b9=sb-hub18.ddns.net
 2af613c3688533e0bf773aed50ddd5f192bdd6b6=diun324idb38wex.ddns.net
 2b1fc4b30fb53e74d072ca8c9676833d875d3021=4e5c3fdcf3c0d870.ddns.net
+2b2ccd70aff5f293e02dc529cfa9d75c29442878=*.snik-mc.ro
 2b3c129a24cf1dad3297640deab98130a8cccd5b=*.hydeme.site
 2b6eb7fdbb21c259706e1a31253f7b9ad58975da=*.meeplabs.date
 2b7eab58040f72981c430d0053e51b65e668d4f5=7394857264.ddns.net
@@ -1664,6 +1665,7 @@ ae37b92933bff63cdb40780ebe004a9a676bc3a0=keemswagme.ddns.net
 ae5aea770628eba11a7cfe61213ed0d1dd3ce121=zubat.dynns.com
 aeb8ee745a2ca9c84124d12a0ede672105b564db=*.luckyprisons7.club
 af3382bab7ef8ce5be524691718c2cb7fe1f77e0=analsexnohomo8.ddns.net
+af3c193d4b10c461e3be9a1971cd0c00dae3e91e=*.siphonmc.com
 af4dc4c650af76116eab48b26d6618537c69acee=fadedsb7.ddns.net
 aff4ca9b99b2b8776d4fc2e6f61d060c39829733=*.fajnycraft.pl
 afff443d0e2eac135e1e2f9f74b022af0f9824b2=*.join-ml.com
