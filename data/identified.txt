@@ -1046,6 +1046,7 @@
 699d6695a17c5e9226f43618407c8080d4fe7470=*.minesaga.org
 699dcef8852c088f7f9d7ff74fc5c396ce825c10=6a2c0921b4164ef0.ddns.net
 69ede936db8118bc8aa956e77019252bf0f7edc9=*.plexmine.info
+6a2048df1b2b9c1ab91aaa9c12e54044b6637e27=flexingbox.minehut.gg
 6a283c2d22b0bd9e14096452bb362c3efc366ac8=dmkapmag2bhh.ddns.net
 6a2f19557427469cbd89845f63f9fe1fd536dc1d=hymsw49gwhu8kd67.ddns.net
 6a3f23a42e1642ca8f68ce6e53dae9ee0ce7e5c0=5e2e8a123ffd24cd.ddns.net
