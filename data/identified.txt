@@ -1777,6 +1777,7 @@ bb83aeeac53cf42a16efaa89766be48aa3e6654c=lunamc-bypass-mojang1.securitytactics.c
 bb9f2a45429cf60433b34addaa291eeb8c151c7a=ecocitycraft21.ddns.net
 bbad023b3af29aed428b2765753c05fa969768b9=c720785629a7085e.ddns.net
 bbbfb5016f306fd2f2a8690d53b7443b130a4317=opanarchy4.ddns.net
+bbc7fb03ec5b7e7b1bb33211467805833e1c4d8f=*.nexuzmc.net
 bbdc76f6f6843739282dd52f8341e47e1a6e4bae=dns-test-10
 bbf5018ba50d28d76ffa96b0a194cc76a33976f8=*.pvp-warcraft.eu
 bc0648c2f8e1833b6862b2f809657141089a8af1=6a1a6e1a46f19557.ddns.net
