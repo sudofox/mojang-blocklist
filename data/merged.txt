@@ -2385,3 +2385,4 @@ e4216a3c31250c78fdb6d39a8bda57dae58b7d2b=snik.chunkshield.ro
 de2af0dbd6fef53cdce164b9b323306fff637b4b
 2c81f4f860b28ba93bb3b379d2f961169996f212=*.acentramc.com
 2b2ccd70aff5f293e02dc529cfa9d75c29442878=*.snik-mc.ro
+0875eeda3effbb4acde15a9be9576346669d6659=*.alpu-studios.de
