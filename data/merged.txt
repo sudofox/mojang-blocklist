@@ -2384,3 +2384,6 @@ e4216a3c31250c78fdb6d39a8bda57dae58b7d2b=snik.chunkshield.ro
 de2af0dbd6fef53cdce164b9b323306fff637b4b
 2b2ccd70aff5f293e02dc529cfa9d75c29442878=*.snik-mc.ro
 0875eeda3effbb4acde15a9be9576346669d6659=*.alpu-studios.de
+dc3da73b314f10de5d9299c28574af1fa6b7af08=*.mcpvp.club
+e9e422ed3b5e156c8c7f2057f09708f1e1dd22be=*.aesirmc.com
+f768d8268624434d4f99beaa3c089924660da70b=*.vipermc.net
