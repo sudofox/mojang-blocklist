@@ -1162,6 +1162,7 @@
 76f994a68a7a2170cd2d7a0f59b98ba8e2b8189d=mi8w9twn6u.ddns.net
 771fcaffdba4d1afd318bf38a807c39e0f3956c2=testing2888
 77408c6b9b91136744d4547fa9abc2f3c9a1ac38=iqrwrwaoes.ddns.net
+77637a7aac1ae8d465e0df06301206eb36325603=aesirmc.behramkendra.com
 77a5f0798243b4f66e7d666bc18246ca83a0051d=dcxyz55.ddns.net
 77aa16eef4c031282d66a4f18d307c43fd7f49ba=htdsojuwycs8kuh.ddns.net
 77affcc1f79aa599a6152e35e09cace1cdff1ff0=*.pitsandbox.io
@@ -2344,6 +2345,7 @@ f558f964b32a7f982c1a9583a43ef4cb506827d0=fckeula5.ddns.net
 f56238355bf8aa9f00b53bdc0989cc5f9aab0884=*.minecraft-romania.ro
 f5a5cba5f7d2c3cb235d485c9dd754cb481736b6=inthehood.ddns.net
 f5b11bac393ad1a806651184836534f3f4af875c=anarcb.ddns.net
+f5c0ae471ade3ab2cd479dba04e3716d14ac50ca=*.cosmicrewind.net
 f5c1fc31de82df5f1fa85999b37673a1ef0ff600=6vtmmyg3hu.ddns.net
 f5fa045c64bb45a660a25fa515850232928d8734=*.lemoncraft.net
 f631a797fb2be8e2996799a2d7d7c567564d0b9c=*.meeplife.bid
