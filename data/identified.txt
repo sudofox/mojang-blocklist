@@ -993,6 +993,7 @@
 64cd30abb4302d3c3b1dd0f9698b39018f114915=01d12rgwxguc.ddns.net
 64cff37da38c95b00fb205d42b8af8f0c23ea53c=0638a8b977933bda.ddns.net
 64d5ff6b9f0b17d4e9921bb636fc262c25ba3cff=776ded9fb0683cee.ddns.net
+64d84ecb8614fc86891d081ff62e9ce1d902133f=*.bwhub.net
 64df683b4f9fe3309239c4d3f6a6d311c90caa6b=mv3819p4.ddns.net
 64f42ca13a0e115f312ed47fe80d5cf0344347b2=*.meepcraft.club
 64f9fe23818ebb196d4f5d6e3c2e9eee3e7bcae6=8y8bdwaou.ddns.net
@@ -2379,6 +2380,7 @@ f8ac8051aeb4a88659d778e349f3ef11a578fdda=nd139d4134d141.ddns.net
 f8ada4703e099e609b07e4d0a029f5ad3b3d7f22=ecocitycraft90.ddns.net
 f8b7e52cc838077d33755bdea3d2830cb4a5a395=jenalanencucndnsus.ddns.net
 f8c4ac5a881c9ca276c2069084b1a9dfd784146f=047076ff9e808fec.ddns.net
+f8cee0917f3f9bcb8b670f41cb0ef4fd84b25ea7=*.pokehub.org
 f8d481fad7bc92a5fccb9e8f44779ee94d2f0f50=phan004.ddns.net
 f8f35ddc384f242a793eccf303bd95f9e4be17d2=*.batyacraft.ru
 f908836d04570af9bd3b415a71a857d76ec29916=*.tavernmc.net
