@@ -219,6 +219,7 @@
 17693fd36da89373726899387df6dc248ab1ad93=sbhub23.ddns.net
 17956859f64818cae07a993a8dd5b5d2d06652d4=ecocitycraft93.ddns.net
 17b0b347c505857ff7af1a7d9f101a756023b61d=raschnetwork.ddns.net
+17b9c363156c53f73222feba4da3b32878fbc0ae=*.fusionworld.it
 17ca13f0120441568b8b492bd8ed637c05a5e394=*.theminecart.com
 17ff8632f24058e1dec96b1a0c1202ccd4d5c7d2=nigmined.ddns.net
 1804d0caa212215fcd1f47c7b8cea5bc1049430d=b4e9ee1a89f5d9a9.ddns.net
@@ -2443,6 +2444,7 @@ fee4ef3a71b9fb34a1c0b6883a4100bcfa33e64e=*.meeplabs.webcam
 ff02143808277d69e8abadaa727f1ab51c79d2aa=102jw12ebi4bd394d3.ddns.net
 ff05629e50a18138b52b6e8f3001b987844131f5=*.meeplabs.space
 ff0b525c02d01f047358307795c92455176ac881=2jmuuvgkbgm8s6kw.ddns.net
+ff0e6886bdaa995e331ce3a32e0c67e8bc6848fe=*.celestymc.it
 ff134f3623c92ce4673fcac830a1a8842eb69c6d=gotpvp321.ddns.net
 ff332b62c8e270db8a322cfd84669cfefae263b7=a377be016484d04b.ddns.net
 ff64f120d9df6bf514597ea2de92b9c5c169800c=*.mojangrapedmywifeon.webcam
