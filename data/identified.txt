@@ -2148,6 +2148,7 @@ dea1014bdf0d2fc60ab47f5b9bd61fb31bce5b67=*.jasmeow.me
 def6cd8d1539e98b5fbd2647163de063541004f9=tfwcvnb8xae9ord1wssg3ieck.ddns.net
 df3c0911f9cda5ec9eec16f38f8ded1147960d89=r32vrfqwerfv.ddns.net
 df5dc0a6e440d41dfae4a1d453a01a2242c94f76=d991ee13b29c8d5e.ddns.net
+df643251f9cac0e48e2ceae7ae9560564cf0c808=*.trappedmc.com
 df6d53b583492c4ea6409df74baf8e1013272d6d=*.luckyprisons.info
 dfc87123c9c9ddd1e2eb179a2ab82afef5f945a4=198.244.148.169
 e057d482d33223e9cb48aed3e2d51396a19dbd26=testing26
