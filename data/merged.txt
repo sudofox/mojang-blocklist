@@ -2380,8 +2380,6 @@ de2af0dbd6fef53cdce164b9b323306fff637b4b=*.blocklanders.cf
 2b2ccd70aff5f293e02dc529cfa9d75c29442878=*.snik-mc.ro
 0875eeda3effbb4acde15a9be9576346669d6659=*.alpu-studios.de
 d4f773cc00c928a9d5191fd59e5e4775128a59a2=*.arrowmc.net
-77637a7aac1ae8d465e0df06301206eb36325603=aesirmc.behramkendra.com
-b8a823f607b16abdb23720e83b8d0928f901a99a
 f5c0ae471ade3ab2cd479dba04e3716d14ac50ca=*.cosmicrewind.net
 39261e934f9cb33901a862ab127e215b5f99cc7d
 330b28432fb13a05feb15fec4e5e30cbc4d53d15
@@ -2390,3 +2388,4 @@ fa5f1a693aa8c4a9d19381db9f6c602329dfce1e
 df643251f9cac0e48e2ceae7ae9560564cf0c808=*.trappedmc.com
 17b9c363156c53f73222feba4da3b32878fbc0ae=*.fusionworld.it
 ff0e6886bdaa995e331ce3a32e0c67e8bc6848fe=*.celestymc.it
+dda6edce20b64e8817cdc6d2f3cf257a0009c0f3=*.guildcraft.net
