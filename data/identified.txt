@@ -728,6 +728,7 @@
 4ae5d8e3281ea83fe4d59d5a83698f69950583b6=_minecraft._tcp.oder.us.to
 4b18caf8fbed7ccb95bb9952a6b7af567f4de819=jik1b1ft15x2.ddns.net
 4b1f885456ddc8c9132e06fc05cdcc9df6b096e8=rmc12.allowed.org
+4b295e4bca3110cd9bc479d37575e52a4c17a637=*.rainbowrealm.net
 4b444e7079d2942de2e03af00deeaa37fc5993d3=wq9d8418aw9d98a4d98as.ddns.net
 4b6c3d4b08df3c7c31d189b487ac9a07f3121e8d=51095d3e616a09b9.ddns.net
 4b834687cfc95475afbfb1ab9ff1f22a4412a59d=*.eaglemc.net
@@ -994,6 +995,7 @@
 644f2b7397de17a6560fd3b721dde4a744cd18d3=8b49dd8dac073693.ddns.net
 647597c2fe1e48933f5000acd9f674d75d6dbadb=q8u8qsbl.ddns.net
 64c56a9527ee9f2bd6a3fd3d0f2f117917e0ccaf=*.diamondsare1000each.club
+64ca9f6ec461c3f9bad8933cfb165d6ebbe7d5ec=*.celestialite.net
 64cd30abb4302d3c3b1dd0f9698b39018f114915=01d12rgwxguc.ddns.net
 64cff37da38c95b00fb205d42b8af8f0c23ea53c=0638a8b977933bda.ddns.net
 64d5ff6b9f0b17d4e9921bb636fc262c25ba3cff=776ded9fb0683cee.ddns.net
@@ -1742,6 +1744,7 @@ b6526de5268671d7c68fc78c17ac38c59bc161ec=978416c96475c724.ddns.net
 b655c14048de4ec2e737e12d91774eca152e9944=*.blockgamemoney.site
 b6727c8412e7d0bc10e31b13d0d3420566581a18=playcandycraft18.ddns.net
 b6880fda5305ef68c32e1b72fdd87e1256180f28=sbxyzdontban05.ddns.net
+b6be9d7e857ea859c08a30bf03d7373f7ebcd159=*.guildcraft.nl
 b6f918fef737bf19d789e2a3e79492a9c0b01448=h6mc.ddns.net
 b70893d4c82130fd70db63076ce712ad68b89ea2=*.mainshield.it
 b71069fe2b727000e57ffd8846d9ef6520683183=keemstariscute.ddns.net
