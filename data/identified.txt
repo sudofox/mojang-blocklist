@@ -986,6 +986,7 @@
 63c63ccfad0f579f877f171de7decf3f2a683c84=manaproxy28346.ddns.net
 63da379c110efc74b919d5dd397954fd3dcb351f=*.blockgamemoney.space
 63e4486942663de1149fda7eeee7da007f5c4d3c=gonewrong.ddns.net
+6413e7882b1e885543e8a6efab106fcba2211d9b=*.brutalprison.com
 6421f3ca680c94e7c0a11edf8248f1cb80d421ae=901cdc34606dd3fe.ddns.net
 64290d639c473196d751e84c14467b69443f4925=eeeulacompliantokk.3utilities.com
 6433b3e5bc6eae7ac46667646e9a74688da1c06d=836631bcca5870a7.ddns.net
