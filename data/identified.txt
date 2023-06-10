@@ -1120,6 +1120,7 @@
 708df0eb7e29193431bbc2124a3322a8ab8904a8=imcx8qlqiztk6exg.gtm-prox1.ddns.net
 70b79fc3437590e36b7f2e439882efffcf752ab6=*.suchtwiese.de
 70d82112c54d9899caea12f311db140f9530b484=phan008.ddns.net
+70e0cc230094576a52a430707bdb3621e2bfc0a2=*.globalrealms.net
 70f8d9b0eeeee484da9ff03cbd2ec31a2d1dec01=1d193b80488212e2.ddns.net
 70f8fec738105a38cdee6a3fdc1339bfe206d03c=fadedsb8.ddns.net
 71084cfc668a2415d4f1b73469b49ffd19647173=*.mojangenforcementblowsdick.club
