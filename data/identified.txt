@@ -855,6 +855,7 @@
 5772b19167a8121b37de241f4e25f9f38bc9984e=sb-hub19.ddns.net
 57736adba04d0b9f02709fa24ad61975fc946ea1=d239dh34dg3ejbdf.ddns.net
 57ae898c1983adc818327194f7a1f4dc3cc13aae=opanarchy.ddns.net
+57c989187f20c628a58a8be315611f0ca5b9f389=blocksmc.com
 57e3b435f6543a852f80c98d6db48a8bd76f98b9=dcxyz130.ddns.net
 57edab00c7bea03dad4ed21bac7101edeb6003d4=4c2e95f9080af5f0.ddns.net
 5822e1b1ab4f91ab037b7737dc3df91ee96ffbd8=6526ac26519369c7.ddns.net
@@ -889,6 +890,7 @@
 5b622492ab6026563746b67adb50d3f99999cd3d=b350a34cbe899c59.ddns.net
 5b77310cb359115cba94d83c9516a5e0e6598320=mojangstopplz.ddns.net
 5b77ed3babaaed723f7d2a64d5f0fcd2db79fbcc=*.kingsmp.net
+5b81ed15aa7e693bed1ec3e0446b81090e16909e=*.lonksmc.com
 5b8881763ee163004838e972620eaf95849f3d5c=test.ddns.net
 5b932e1dfbb410c9e533bdee37acdf001d8d7bff=y28l2qemwj.ddns.net
 5b9485e33206e4779934a535b469e7e0372df76e=jesusdidnothingwrong.myftp.biz
