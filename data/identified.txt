@@ -1780,6 +1780,7 @@ ba2a959810ed42b040fe6aa3874b7f01b99b71b1=TripleKMAF.minehut.gg
 ba36792ce229cbbacab021ef6c7ad5edec827cc0=*.opjails.com
 ba3d1c7778781a6691ee8821e70db7b1c8ae3ad4=344526b4y.ddns.net
 ba9d5a0539dd6fe3ac743cc5c138894ee4029229=1d1af854fa727c41.ddns.net
+baac2531c096b58c1baff3355f76c882a74e696e=*.oreo.gg
 bab1cdbb0c4df9fac48df82eecbfa9ab4b1a40a5=swswswswss5.ddns.net
 bac0f3e38acfd81e46d215a6760609ae5f6b490a=a1cda05de9cc5c42.ddns.net
 bac58830bbdaa86c6fe382b981ee38530c621d8a=1ccf34374a97719e.ddns.net
