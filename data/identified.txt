@@ -731,6 +731,7 @@
 4b18caf8fbed7ccb95bb9952a6b7af567f4de819=jik1b1ft15x2.ddns.net
 4b1f885456ddc8c9132e06fc05cdcc9df6b096e8=rmc12.allowed.org
 4b295e4bca3110cd9bc479d37575e52a4c17a637=*.rainbowrealm.net
+4b2f1bde87407372f6d3cf4aea781718e962eb06=*.hypers.fun
 4b444e7079d2942de2e03af00deeaa37fc5993d3=wq9d8418aw9d98a4d98as.ddns.net
 4b6c3d4b08df3c7c31d189b487ac9a07f3121e8d=51095d3e616a09b9.ddns.net
 4b834687cfc95475afbfb1ab9ff1f22a4412a59d=*.eaglemc.net
@@ -2342,6 +2343,7 @@ f236ecfb58ca3b7aabfecdec4d28fc0f0f78ad7e=9d308d340d3h4d.ddns.net
 f2bcbcc2b24c43ee96c738b01b48d1e6d3f076c5=b24a4b5de76e3a0c.ddns.net
 f2cdf3b7159d65d5ea1e36b378f0b17338b15a4e=gdgjwgw4lwzu8dhaou.ddnsking.com
 f2f8b51b6f4b0c35909aed1e2337d53ba5a89bc6=22tbfi5n5lj05o3y.ddns.net
+f3162b8ddbd3095c572c202efebeedfd1397fef2=*.minecraftexperience.it
 f317faee34af83246f9cbadb3d9120d845c58528=mkonjibhuvgy.ddns.net
 f32f824d41aaed334aef248fbe3a0f8ecf4ac1a0=*.meep.in
 f32fae09a02b3b0a4b433cb43d4a99d1332db6bf=*.muxcraftgold.party
