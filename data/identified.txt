@@ -1620,6 +1620,7 @@ a69fc9879993b7de608ca2de4f5449152feda0f7=fepopj06ff.ddns.net
 a6baf7d3ddfeae0ecb6c82f72771ab13f214ee5b=*.minecartmc.com
 a6c066aa8ca35f288d0f2eb15891e7199220a4d0=kpcgsdtfyj.ddns.net
 a6df96081e8418e2e974ed289763c81c9897ebc6=opafuckyoue.ddns.net
+a6f6e4f66d50dbd2e33747ad894f23552f6365c9=*.rlycraft.live
 a71be8cf63f63b0fefc489f68ea8300ab487661f=dns-test-78
 a76e2d691834c068ef3e031872060dd223bd5126=mvmvcom.ddns.net
 a774408b467a77b2bfcc2c7de91a4acb4c17c9d2=2f6dd35853607725.ddns.net
