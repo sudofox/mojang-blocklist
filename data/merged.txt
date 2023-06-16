@@ -2398,3 +2398,4 @@ d4821f0b104543bf9bf61706baedb9521fe5c28c
 f40a3e0f9c61e69b23ad74795a0b994b02d50a75=*.unblockedrewind.net
 55f2e662b8c5aff57c98d4e5c1a54fd7e9fbc211=*.clearmc.pl
 a6f6e4f66d50dbd2e33747ad894f23552f6365c9=*.rlycraft.live
+4811d96a2e6e8cf56a8bcdf9ac4887e8e0caf845=*.royallegacy.net
