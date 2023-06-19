@@ -2161,6 +2161,7 @@ de22ce4c01d22d0448dd2a21b5ef9ddc781996e7=99156905bb64065a.ddns.net
 de2af0dbd6fef53cdce164b9b323306fff637b4b=*.blocklanders.cf
 de2bf9e82662dfbbc0983dee12a8a6a1cc646d6a=82.124.146.214
 de3f083b976067ba8c1b76bf44839e7c289faff6=*.mc-drugs.com
+de71fa363f8aaf82b54a0565c35b26c40ed391cd=*.donutsmp.net
 de7e08c0f3fdcc0fceda135dc042727146900e64=*.bendersmc.co
 de9328bad5604a262ac2233f0336eabebb234ba9=n0cr8aoa.ddns.net
 dea1014bdf0d2fc60ab47f5b9bd61fb31bce5b67=*.jasmeow.me
