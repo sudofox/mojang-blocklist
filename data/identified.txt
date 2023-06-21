@@ -1561,6 +1561,7 @@
 9fc7a86625f56af467754dfefd0489cad76dbdd2=ecocitycraft22.ddns.net
 9fe345f9df9232c2bdc1150adad911ca7a7305a4=833c118f03d06efb.ddns.net
 9fee94acd1df7481f2a333116f93b4494ba077d2=os170216.ddns.net
+9ff2a8fb903d1394a13aa3ab44be91ceaa4f59b9=*.addstarmc.com
 a01ebb828847c1f823f10aa6b9071ffc2fc0f381=ecocitycraft17.ddns.net
 a020bddff85c3306fd29c5ebb507d74a60e45abc=romanbackwood.ddns.net
 a0486c27111819cd88d874da0135bbaccefd6de5=*.mojangstop.info
