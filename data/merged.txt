@@ -2390,6 +2390,7 @@ f40a3e0f9c61e69b23ad74795a0b994b02d50a75=*.unblockedrewind.net
 a6f6e4f66d50dbd2e33747ad894f23552f6365c9=*.rlycraft.live
 d3245a18ecaa92db7ea7cb32fc66cd2bcbe5b1f2=*.ro11en.com
 49ae64d67cfabf0021e9dbf0b05cf57e31b50c83=*.commonpvp.net
+17b9c363156c53f73222feba4da3b32878fbc0ae=*.fusionworld.it
 9ff2a8fb903d1394a13aa3ab44be91ceaa4f59b9=*.addstarmc.com
 39fdec1194d94212b871a28b2aa04a73cd40fce1
 3f6752c3d6d46064d9d70124daa0956c91223e93
