@@ -2308,6 +2308,7 @@ ed345122528e3c23c45b1a805257d87b9759d5cc=rtgylqpa.ddns.net
 ed3e38b47b5883c8f31e0cafe4c0202a6b57425e=sb-hub13.ddns.net
 ed983d27457b7440e111267838b276e7ef36e2f3=gbwld5d1fp.ddns.net
 edacd78db7ae5e9be43949ed6080f109141c7adb=*.serenesurvival.net
+edae432163491205129f69657e85ae4638f4cdbc=*.minelegends.gg
 edbf4415137622747da67535f84abc0a1f32c4a1=jtwomieuyjghpqduouw.ddns.net
 edbf82911934cd133d03afa648be8771c6e0db2a=sbxyzdontban06.ddns.net
 edc8cf2e0fbb2f6f3b7c4558392ef8fc18ce39b5=*.minecraftsadposting.com
