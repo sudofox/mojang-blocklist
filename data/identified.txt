@@ -1225,6 +1225,7 @@
 7af8f2ac2830df53fe2b0f82a1c3e72c98340635=fuckeula.birdriver.org
 7b38ef8be1a00f255a8a96647ea1fa59adde3465=34cbffa0063dd61b.ddns.net
 7b55827705f57174112050a140477d7465aca38a=ar33jjj.ddns.net
+7b64eed5fdd9921e2c78b58b917eb93ae8cffc19=*.reatbox.eu
 7b7c1c66825638270385fbed7056a7013e41ec85=*.stealfun.net
 7b85b2cfca813097157404c09e1dcb610490fd50=fckeula2.ddns.net
 7b9b1079ab9d00302356ab80df563216622901ff=mc.freedynamicdns.net
@@ -1658,6 +1659,7 @@ a85a14b75e4fffe9a3e4536ca66e233ce54e3dde=yesicanrap.ddns.net
 a870eae8c14d4e5e62002b3e73ceb550cfa2e7cf=8274957jdbdieb82737.ddns.net
 a881deafe178df5a642c6e989a1cbfd3accc0dcb=*.cunnycraft.quest
 a89eb5ffb1893bbd605fff113d169e056768cd20=playcandycraft25.ddns.net
+a8badf3467bbde7ac6f32774102b4878d98eb62c=*.add-ml.ru
 a8c87bb8187d81ca486464cfba91104eb10ae44e=8oxl2dmq.ddns.net
 a8f1714e5a36d824df8b3ed4b38af3681cdf6a60=*.candycraft.org
 a911657189000c504ade9e1cccac56c842ccc124=*.brandonwhenyouridemeplzbeon.top
