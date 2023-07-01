@@ -14,6 +14,7 @@
 01869351aebf47fcc14a984781a262825c207f34=nigmine.ddns.net
 01d267f56dadae87c1f73a7eb8b2b58e431bc93a=kawaiikeemstar.ddns.net
 01ec84ef87d0a74c691ed29707cb3ef0da949214=masterbaitonline.ddns.net
+020badbaa6236a21530e958e5d1d75a3d25d28e6=*.voltyum.net
 02125d25bb975f0edd9d5e87e15941b6024c90bb=rbxftwwerwer.ddns.net
 026d6a568bb57627ac64b6627d6a84622d5ed3ad=*.firstorangepresident.info
 027d77c6ca83d9b56a936e4132ee839f9b355960=*.pixelclub.top
@@ -542,6 +543,7 @@
 36e35a025b4e456791d602e11fae7c22a4581f10=df1233f5423f98f7a657sdasd.ddns.net
 36e5f8144d1e6b73246925508353ec10cb3ad248=13nt7x1ibu070y27pznweb04s.ddns.net
 36ee05233d502058ef50f55bb48a1ed63b9a3336=ihbabz791.ddns.net
+36f15c1e8957de159cc97dfb962225ef81ef9994=*.hycraft.us
 372e25144e90e305f811cc236e9e1b6742c359be=planetsb7.ddns.net
 37439688f54e4f67ed362da536cd05145a07a304=*.crubix.me
 377cd74d1666f4716fb8f40d55bacaa8207908e1=dontbanmeplz.ddns.net
@@ -847,6 +849,7 @@
 54c807ac4dc44f5f493797407ed13ac3ed6228d8=*.firevanilla.net
 551eefd4d9b29e880c82d8c5053ea11e32a6fc04=lose20poundsin1day.ddns.net
 553cd7c14173c0f722a1ea923f2f0c71e5886736=7dkjg9icgy2s.ddns.net
+55821ea6d92b566dfd2cf437c65cc4e576b786d0=*.nokbox.org
 559392b844acede96a81cfa7e208baeba248dc82=*.negativeoptionmedia.club
 55f2e662b8c5aff57c98d4e5c1a54fd7e9fbc211=*.clearmc.pl
 55f424d7a885c79a9c508babb971a26c6a9e08df=xjv7k6ktdx.ddns.net
@@ -2345,6 +2348,7 @@ eeb901af6d3ffb94ee03f41b54c7cd715a070544=141.94.138.22
 eed41a1fd78e25359d45039979c1de2a6d8658b8=*.slabcraft.net
 eef3804f07cbdc5d8b57bad1b3770a27ff84160e=3a2d4794813d346c.ddns.net
 eef838bd17f6fea986892624eba62949686eaa56=*.dankprison.com
+ef02f7cb8d8bc0b10acad17bfa66d17583bbaaef=*.sevencraft.org
 ef5d9f994508fb70609fe6d670a37589ad4f185f=*.miguelmeep.us
 ef5e9511abffa1678e79cfd2c657d2a821f30145=*.squishycraft.com
 ef5f83817381102e6a9403b3dd96b972fc60a10a=p435xavud4.ddns.net
