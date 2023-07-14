@@ -1681,6 +1681,7 @@ a8f1714e5a36d824df8b3ed4b38af3681cdf6a60=*.candycraft.org
 a911657189000c504ade9e1cccac56c842ccc124=*.brandonwhenyouridemeplzbeon.top
 a914b9528f3e7e783bb97d1e99ee0dfc098d5a0a=06ebd438e44c6f62.ddns.net
 a91ebb9f0ab396d62970a7db6b007f4c1d7d3ab2=*.wifetilt.com
+a92d2fb6966822e5776e8beca959c270521d5d1d=*.astrocraft.org
 a93b1dea7ba4283528c1ee05f72968f7bafa3c1a=c020804eda089ca9.ddns.net
 a970a056d85410514d11eebc571c494a66e8c228=ee46215c9c566bd7.ddns.net
 a972e7e1d31af2e3b717b9fc4aa8761c54b3b723=0akdhgoq.ddns.net
