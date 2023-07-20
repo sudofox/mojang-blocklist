@@ -2364,7 +2364,6 @@ de2af0dbd6fef53cdce164b9b323306fff637b4b=*.blocklanders.cf
 2b2ccd70aff5f293e02dc529cfa9d75c29442878=*.snik-mc.ro
 0875eeda3effbb4acde15a9be9576346669d6659=*.alpu-studios.de
 d4f773cc00c928a9d5191fd59e5e4775128a59a2=*.arrowmc.net
-f5c0ae471ade3ab2cd479dba04e3716d14ac50ca=*.cosmicrewind.net
 39261e934f9cb33901a862ab127e215b5f99cc7d
 bddcffe162ffbad75a4db47a763fa70000ad7168
 7fef85692b34131298a8d6e4ba59e36afb0caf82
@@ -2408,4 +2407,4 @@ ada36daceaf9dfa42bd7233e7f8e13dda85febc8
 7b64eed5fdd9921e2c78b58b917eb93ae8cffc19=*.reatbox.eu
 b79beff815acf0b483931312375ed07d7f8bcbe5=*.cunnycraft.com
 e2fb59e0e5214dc038b0fb42f6c7f2da06f1e893=blocklanders.olympusdzn.com
-a92d2fb6966822e5776e8beca959c270521d5d1d=*.astrocraft.org
+1be555e0bdd0c2293edd2c3f420cb7364db16617
