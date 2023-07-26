@@ -1244,6 +1244,7 @@
 7b9b1079ab9d00302356ab80df563216622901ff=mc.freedynamicdns.net
 7bb25d87c7496c92c30eceb028b0bbe918f9c0ce=681bc3bbb90c3c2a.ddns.net
 7bbe513dcc8d07e35a74f470dc3a99b0a9b7703e=zzsadfasdfeaaq.ddns.net
+7bc349f26aa9ab4441ded917b0adb68ef0ec7428=*.guster.ro
 7c118c948c8c8a09f06274392634111c00effc84=pasdasdas222.ddns.net
 7c12601d231f71922a968bbc04b3e9da19322e84=*.originrealms.com
 7c18fd441af13cb11f620f822da536e3fcf3f62b=playeccgamers.ddns.net
