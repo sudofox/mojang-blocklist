@@ -1089,6 +1089,7 @@
 6a2f19557427469cbd89845f63f9fe1fd536dc1d=hymsw49gwhu8kd67.ddns.net
 6a3f23a42e1642ca8f68ce6e53dae9ee0ce7e5c0=5e2e8a123ffd24cd.ddns.net
 6a450b30ce600b5b7094cc51e19e3ffe9b857fe2=ns3029576.ip-149-202-223.eu
+6a7d78e51fb3e3e487add0e1c3fee5d9048fb5e7=*.justanearth.com
 6a88f64b36ed3140a12aad773fe93ccc3689d048=chocowhite16.ddns.net
 6ac04d090467ba760f6d41d579033b0cfb75b0ea=*.meeplife.stream
 6ac69234e18873978affc95fc4851b3290f769a4=*.risencloud.com
@@ -2173,6 +2174,7 @@ db731ab51d7333dd726b3e551e443cd44b418f06=136.244.77.244
 dbc0f948252c1bb16dbf81fe5f4c0c1d7109607d=*.enchantedmc.net
 dbd18f3d8fcb64866d5e9355658571a2a1478bf3=kufe5roahn.ddns.net
 dbe5319f20d2c6dc1eca21c98d472c1517ad295c=204a10f85a1ed20b.ddns.net
+dc09664fcf8bf4ec77c4466c448058d1a267dfc7=sex.block-host.org
 dc1d6f0f37602145c2c53ecd970b4668f679e031=*.raschnetwork.com
 dc2479f0ed98e80680134c588c359e812fe279e1=ecocitycraft94.ddns.net
 dc2c735b3e6aba51ece294d7de21b947379aac4d=fadedsb12.ddns.net
