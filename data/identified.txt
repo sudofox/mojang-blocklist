@@ -1934,6 +1934,7 @@ c232f5ec20b67eb6d7603818b1883fe5dbb3714a=11ggopa.ddns.net
 c23529b103ecaabf278e99aaf37f91b0f0fe1de4=*.play.sagapvp.org
 c23afb2358b58087468930efbca9360b0a931691=*.vanic.gg
 c23d416b65e6afeacedc2c3ca5538d8a678be0cb=*.youcantstopme.space
+c2415cb24a87fe9405d2d9ee58b7590e0d7f8aba=*.justablockedserver.com
 c251f6b3e8583aad412e555245d090d67cffb360=*.theboismc.ml
 c2547aee74cf817846b6af0bf928f00fbcb93250=anonproxy018.ddns.net
 c28cea963256277e80786be2a18284a88d8a713d=e6c93ce826bf8180.ddns.net
