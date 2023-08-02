@@ -1263,6 +1263,7 @@
 7d01ddb568ea2b274a2a6cb072a27b174840e1f9=mined.ddns.net
 7d63f027844bd06e8582faeacc42ef8ffe1472fa=misterx.hopto.org
 7d7194b9806ac072727e77c45f4a5d055913b9d0=*.muxcraftgold.win
+7d8067db96b06cfc176603aef30f18e7872fa224=*.highskiesmc.net
 7d827b343936ccdc66c4e2105a831c2aed648b0c=*.apexpvp.co
 7d862fb7cb3df5b20829a4a3859950d39550811f=nobanthis.ddns.net
 7da9b4c486f5fc04b8da8cd9474c846b3adff3de=mojang6.ddns.net
