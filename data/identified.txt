@@ -515,6 +515,7 @@
 33ccc43591c0273b4c58f1d141ed6d1b8341aefe=636ad8a0ab16a541.ddns.net
 33d1c0ffe21f37063492f92405fdf9bbf0091658=*.minecub.es
 33e09e07f50269af1d75467a16716e3b4634e291=*.meeplabs.review
+33e1012f81e618b8edf4275de62f6eb577d7b9da=*.batyacraft-join.online
 33f0f8fecb086198040860c4bfae6bf9f27ffe4e=*.blockgamemoney.tech
 33ff2a03cbba3ad9e7df62e3bd550f5a552a0940=*.shadowsb.com
 34034cdebc8f5d3d64d08ddcbe7be928a93def93=25xguzqxv7.ddns.net
@@ -1604,6 +1605,7 @@
 9fe345f9df9232c2bdc1150adad911ca7a7305a4=833c118f03d06efb.ddns.net
 9fee94acd1df7481f2a333116f93b4494ba077d2=os170216.ddns.net
 9ff2a8fb903d1394a13aa3ab44be91ceaa4f59b9=*.addstarmc.com
+9ffee0d4c90579fa20ed521e632d82445d8704d6=*.join-mineland.online
 a01ebb828847c1f823f10aa6b9071ffc2fc0f381=ecocitycraft17.ddns.net
 a020bddff85c3306fd29c5ebb507d74a60e45abc=romanbackwood.ddns.net
 a0486c27111819cd88d874da0135bbaccefd6de5=*.mojangstop.info
