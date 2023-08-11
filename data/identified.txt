@@ -2121,6 +2121,7 @@ d4da8213eea3c69bca1c109a000af275394d2b4f=d23098hdf9823hd.ddns.net
 d4e1a3eda56e24a096cfb6dfb7ae72a583399c6d=dragonsurvival.pl
 d4f706dbf3ee377a0f0512b48cfaafa76d4bde04=t442biuv4w.ddns.net
 d4f773cc00c928a9d5191fd59e5e4775128a59a2=*.arrowmc.net
+d51c0faa28c5531b44632307bc169f007ceaa98d=*.cosmicrewind.xyz
 d52a3a4356bc07964defc204a2a225b783af073c=planetsb9.ddns.net
 d54db115d781524c35508c1bbbea9fef38a05cd8=*.sarmacraft.info
 d55e763d16db2c7c2fd146ce7d28d29645865052=*.mineshards.net
