@@ -2431,3 +2431,6 @@ a93731f28cc6c67c66fe12d20b199c88efa2f5ca
 f65ad968b9160a8b4c6c020852766002762f46fb
 33e1012f81e618b8edf4275de62f6eb577d7b9da=*.batyacraft-join.online
 9ffee0d4c90579fa20ed521e632d82445d8704d6=*.join-mineland.online
+2f9cdb50f1a6ba6ea3316d7c30da1bd6b270c366=*.alphacraft.ru
+f51d687ddeeff88dc5aad0f9530f52c82939caa6=clic-services-bretagne.fr
+1568925c387d45f14e161e0c4f7bb497b2776e22=mirjam.fr
