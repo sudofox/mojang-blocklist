@@ -510,6 +510,7 @@
 33697acbf2096add9e4312de6b286a990d2d312a=ca02dfe269ad769d.ddns.net
 336e718ffbc705e76b4a72884172c6b95216b57c=canyouwildcardipsplease.gotdns.ch
 33839f4006d6044a3a6675c593fada6a690bb64d=*.diacraft.de
+3383d0bb9d903c269d9c43170424d514dc69620d=*.inkmc.pl
 33840075e6399f5ad2708cdaf5bc1ce5f3885ab3=survivalsb20.ddns.net
 3390b6f70be28621ec47033e62a56c82a83e030a=*.iloveexpellinggas.party
 33bcc9c6f1e61bb00d549eb093d5d54d3f8ff8ee=kuv7narzn6.ddns.net
