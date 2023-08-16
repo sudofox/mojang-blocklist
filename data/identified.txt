@@ -626,6 +626,7 @@
 3decc8a3eba1fe3237f01f7fe1a8ff864fd1f6dd=playecocitycraft.ddns.net
 3e1224e118509a8fefb616e6525b2e5d0eeca3df=gtamcip.ddns.net
 3e560742576af9413fca72e70f75d7ddc9416020=*.insanefactions.org
+3e683cd528cbf3b13a3d2b9533cf10ed18f902fb=135.148.30.77
 3e872ab34ff9b7b1f922c8cd160cfd1473c02af0=*.play.galaxiesmc.net
 3e8c45dd18fbe7bac89f5a7082d59bfc6607da88=odercraft.info.gf
 3ef6230a4003f5721f653eae4a0071d8428f1f05=h21mc.ddns.net
