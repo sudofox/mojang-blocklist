@@ -1321,6 +1321,7 @@
 825ed6ee34ac515c851bf37c03e81499e6063c2b=wfwerfwww.servebeer.com
 829800d6a84c0d095a757bd217d96f1ea32dbfce=o8x005pgvz.ddns.net
 82ad769b81a1a09edce274bb6a69642047a0fc74=*.stealcadia.com
+82d22701f608c7e505b012790bdfb3af7c25954a=*.wavecraft.net
 82db1322c6a5104f2500e26e20daf447820806f7=blockifusmell.ddns.net
 830a8570ea3a3fce3693972cbca4b8cacd0d16e0=r23r23rqeqwe.ddns.net
 8311a2ab3622ebac530e41a3965d53bae29cbbc6=*.mojanglikespp.download
@@ -1461,6 +1462,7 @@
 903c07529f237bd310c0dff3f78ffec320a8606a=*.mojangblows.us
 906a4ea84a14ea62913332b598828ea9c5c484f8=*.meeplabs.science
 907c0ec48d4e9ec3ec200b6ea4bfd678dc012dc4=11jjopm.ddns.net
+90ad02ffc7849b2a009a7eb749a9b5d26632bd30=149.202.88.187
 90bdb917cbb53a4ca9abd4615e877e8b8e153456=gxl8s4qorb.ddns.net
 90d5bb27c9bd3faf53aee9d62025082f00486b7c=ecocitycraft12.ddns.net
 90dbbeeba0a600cc9c4f602f39c6982ce972023c=*.brandoniskeemstar.host
