@@ -668,6 +668,7 @@
 41f747ddbdbbe6c969c62dad4690a6f0eaeb9294=rmc9.allowed.org
 41fc538fe011d35d32b0658f42a9efbc664fd5af=craftplay.pl
 4215059bacd102cce993a9b8ed26a0c736a9858c=*.minecraft2018.com
+424f5e8631faf2c5e197a62260ee15f14932f66b=*.miraclemc.us
 424ffd793c40153a9fe123a12898a7c4a1e914d0=icarya4.ddns.net
 4264beff3de52d729bda7c0f41bcae38e037c63d=Mc.VoxCraft.us
 42aff92bd9d984c004f7d0f962792705a6ed3ead=8310c2f4d146b04e.ddns.net
