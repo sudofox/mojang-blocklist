@@ -749,6 +749,7 @@
 4a1b3b860ba0b441fa722bbcba97a614f6af9bb8=justgiveinandblockddnsbitches.ddns.net
 4a2efa639efbe91aa2898a819b55e41c160d90fa=mvmvmvmvmvvvvvmvmvmvm3.ddns.net
 4a36c232a4be563a75f497143b96c1b8a81c3063=b2c499c885c3e931.ddns.net
+4a44fd7628af9b1a96f6e190fdde967a4c8fca01=*.hypenetwork.fr
 4a4a35627f4a15be9493a35ddc1132b9eac2048f=*.hillsrforkids.tech
 4a5069d1235ee4af78922d62bd917428e163d6e5=minerazedns1.ddns.net
 4ab905ee7ba72714189c8c5a6fbd73e5266957a8=*.youre-literally-broke-microsoft-slaves-lol.space
