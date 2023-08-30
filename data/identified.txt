@@ -1250,6 +1250,7 @@
 7ab645ef6d6c8eb8ea0ced0499bf95140fb4636f=gc.ko.tl
 7ac8d50589a77c3b7e1e855bc8e58dcaaef68d66=survivalsb12.ddns.net
 7af8f2ac2830df53fe2b0f82a1c3e72c98340635=fuckeula.birdriver.org
+7b09853e3932a3060a61cee1ea88aa92326f4452=legominecraft.ddns.net
 7b38ef8be1a00f255a8a96647ea1fa59adde3465=34cbffa0063dd61b.ddns.net
 7b55827705f57174112050a140477d7465aca38a=ar33jjj.ddns.net
 7b64eed5fdd9921e2c78b58b917eb93ae8cffc19=*.reatbox.eu
