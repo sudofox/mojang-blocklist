@@ -2406,3 +2406,4 @@ b27561f61ba4bb7bf74cf33df3f49901e5782e41
 f141ef47f2795d3ae3b39c9412d47042ddbae2e5=venstone.ezua.com
 d7aaeee640a82d97b182d237c46e6fe4c6d55fe3=*.groupezk.fr
 9cde4a8e76ca9185aa5181af2bffa2360709f21b=*.fapcraft.net
+8881d64ed8408aa15f48dcd394231df276d6f7ad=*.horizonpvp.net
