@@ -2032,6 +2032,7 @@ c958ca23c8fe4623376134cfe246917e7092d63a=vejif4he4qb4zn.ddns.net
 c962840d567f5b10f2a6c4d6fcdb333b0e9b7f25=oder.fr.to
 c97d9e3911e56dc9afadd543ce3e6c07e8c2662c=ecocitycraft47.ddns.net
 c995e8dd352a25ba80164b1575f58cf19de6b7cd=dfffffffffegergdf.ddns.net
+c9c630166331a9cdb76d2313bb10d19cbcf40509=*.sunaris.fr
 c9d0a97efdfd5106721d799bea22ab41bc31307e=sbxyzdontban07.ddns.net
 c9d15e44a0967a65c4fb5ecec4d5a0a96330a3e9=*.meepcraft.org
 c9d4d0a32753d80d6aee4ee8fdb69f646fd84765=ecocitycraft98.ddns.net
