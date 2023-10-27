@@ -283,6 +283,7 @@
 1b6ef7e8f891f82aed234e81892355b4b9b1ef00=*.astrono.net
 1b758e0a8a62433bae3a574cbca41ddfdcad87e1=97fcf8c846827a6e.ddns.net
 1b7bbb8d9b74a61f4f534bdfb23ffe27500f215a=5249f8453f8f5065.ddns.net
+1b8061cbd426488e0e1bfd5792400ccee4a5d5a6=minefc.18hdo.coms
 1b8ff117f24bef7f026ba105339f7b32879276b3=gdrn6hevm7uy6e.ddns.net
 1b9508cc6bcbcbad2b45fd7c101c1786c38b0d85=z5b54ldm6s7lg7wa.ddns.net
 1b9df88e14a88252b7705474cfc87db4b3995a1d=survivalsb8.ddns.net
