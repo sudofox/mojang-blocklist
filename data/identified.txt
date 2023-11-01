@@ -738,6 +738,7 @@
 48d33174b85cb0592ebd2feddbeab42fd51a6a0f=c3832cf81f277c80.ddns.net
 48e1002548ab4cccbc3538493bfd22fda8766555=*.minebrawl.net
 48f04e89d20b15de115503f22fedfe2cb2d1ab12=brandonisan.unusualperson.com
+4927ef726eba840a057a0ff1bcc30b9543c27dcf=*.muxcraft.eu
 492aaf9a9facaff8438f865be9e7b8d84470470e=na5719wn.ddns.net
 4949ca8cabc1ce705c8d070f048aa3f64a19b8bb=cb796421ea6d1152.ddns.net
 498a4275c88c33b7100adf896160725b138ce976=*.monman11.com
