@@ -1625,6 +1625,7 @@
 9fe345f9df9232c2bdc1150adad911ca7a7305a4=833c118f03d06efb.ddns.net
 9fee94acd1df7481f2a333116f93b4494ba077d2=os170216.ddns.net
 9ff2a8fb903d1394a13aa3ab44be91ceaa4f59b9=*.addstarmc.com
+9ffed6a47b8f2094c9205a1cc187c53eaf98a80f=*.universocraft.com
 9ffee0d4c90579fa20ed521e632d82445d8704d6=*.join-mineland.online
 a01ebb828847c1f823f10aa6b9071ffc2fc0f381=ecocitycraft17.ddns.net
 a020bddff85c3306fd29c5ebb507d74a60e45abc=romanbackwood.ddns.net

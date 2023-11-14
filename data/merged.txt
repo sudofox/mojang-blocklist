@@ -2313,3 +2313,4 @@ cbd67c519faad9f7a85f3dd6d0ca03b1b5c03113=*.akani.net
 158d786b6bf365e6e1d0b730582193e1f0d8bb80=*.moonsama.com
 cb7c1d9acddcc76eae3245c13b433fa6d43f9d89=*.neoxacraft.net
 0529a51e6b70b14992080619fddd7d54409b18d5
+9ffed6a47b8f2094c9205a1cc187c53eaf98a80f=*.universocraft.com
