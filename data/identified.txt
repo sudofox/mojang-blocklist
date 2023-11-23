@@ -668,6 +668,7 @@
 41994889c9c6afaa8bebe3f20d552548d250fc3a=*.blockgamemoney.top
 41a1c44ab6cc04c36c1daebf720c8ceb00e762e9=*.sololegends.net
 41b3ad24c8544775e823492627b450168f2ff024=f2fbf427067bffae.ddns.net
+41be92b0a849860cb88a2f43470e7e548183477c=*.pika-network.net
 41c337b679ae2b9f952474868fd05afc11f5446b=e5d319e339b44903.ddns.net
 41eda8f4e542311498406a86ed577f0d1ee7307c=*.brandonsenpaimybodyisready.space
 41f72ce17c916eeb569d9f9f7cc00fc204e6a5ea=awsd951wa9d48sad.ddns.net
