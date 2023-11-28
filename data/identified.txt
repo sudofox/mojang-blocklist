@@ -140,6 +140,7 @@
 0dc513a8ea2bd98c6cc8bdd0e096065a53733adf=litbit.ddns.net
 0de8f9d15861c7ec853d23620723ace59c854944=_minecraft._tcp.oder.epicgamer.org
 0df592bdd8ae5332241c262a4ad3b4b3b6dd8c0f=4ddde3fda41fdce2.ddns.net
+0e1a22becc9b6c2742eef1126cea76f13f9e3df4=*.jartex.fun
 0e48382d5bcd321a2815b1f028cdedc964f30d91=*.meepcraft.info
 0e6dc4297984b6ff99d30f5d0fce702cb4d776eb=3f243b4952fe0124.ddns.net
 0ec1ad2bf80aaa8b8b64f897613a65318d1d69d8=*.mineland.net
@@ -2072,6 +2073,7 @@ cc5aafa4f451ab3fcdaabb62045593b1460a86c0=1875e57b6ea90519.ddns.net
 cc6121c13921083cc6371968f9a3b580946fc9ec=*.reevemc.com
 cc7f09ec3a9618be3883774c9dd60ee3d11fce04=6895edb559be8147.ddns.net
 cc8e1ae93571d144bf4b37369cb8466093d6db5a=*.thearchon.net
+cc8ee31b3bd8b3ef30bcfb5ee433477f49c700a9=*.jartexnetwork.net
 ccccae6afca5e06864c9c3caef2515a4fef20b4b=shadowsb10.ddns.net
 cd13a054dc82d2876d623404a6c47d4e422e203a=fckeula21.ddns.net
 cd72fe34153c71d513a816f9f512ac6e2879c3c7=*.plasmamc.net
