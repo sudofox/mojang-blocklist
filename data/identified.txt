@@ -1150,6 +1150,7 @@
 6e622a8733b05abf6dda7005f43bbcbd6bd8e4f0=87f875ce485c0e50.ddns.net
 6e7ec343c2d77ccdefbc39764acb302f98331132=dhsdhwvpxg.ddns.net
 6e8142d33488813ca874e85153f30f24a50db87e=*.groupezk.com
+6e8cfe02e24cbd2364ac5674679275b7ac143cb6=*.myinstacraft.com
 6eab802ba8b6a3ece1bafc652b5d4a9515865977=dcxyz.ddns.net
 6ec9a32a8ab3b406ee82bd0d7e2154ea6ce6e2e8=6e63e058be4b4276.ddns.net
 6edfb52e1a0b384bfa105133413ec63b97047611=ecocitycraft45.ddns.net
