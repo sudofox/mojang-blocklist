@@ -1752,6 +1752,7 @@ ac7e715494da3b381bd37e87419c44e7d506f01b=fadedsb16.ddns.net
 acb689fb926dfe7379959ebe35583830ed76c8ea=*.kwadratowamasakra.pl
 accc4ad31828b7a2ae866538a13068bbb64b612c=*.mojangblows.tech
 aceb52cb0ac1f83d2821763146ee83e45d061155=odqpahpn.ddns.net
+aceef1022a29eb141c2add6a8abbc6788d954638=*.mineblast.org
 ad22888def498092829b06ff6183b075de48d829=1mmxy6cf.ddns.net
 ad2df281b89bb7926bf20ed4d509383e0adc6b3b=*.sunnysurvival.com
 ad6ca396868be4f0b6e049c0767adfd1b077dbba=*.meepcraft.co
