@@ -2317,5 +2317,5 @@ cc8ee31b3bd8b3ef30bcfb5ee433477f49c700a9=*.jartexnetwork.net
 1bba4f7ad6fb337c5f5d3e7289ad29da6d7947bd
 b0c73b49be2fa7f2ea9a85edd81bafe383420bba=*.rosetycoon.com
 882e1f8efca7a8a6800180e1222de7d1cabfc83c=rose.minehut.gg
-081f59fe6e74f986c505644107ac3dbd24abe8d3
+081f59fe6e74f986c505644107ac3dbd24abe8d3=*.skyofskill.fr
 5ccad035682cc886cd4dee8c250179977a810f32=*.curve.rip

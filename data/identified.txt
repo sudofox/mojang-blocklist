@@ -78,6 +78,7 @@
 07e009266cc51cd36a4c2b6943ac284c0f0cbd7f=tsh6.ddns.net
 07e96130b816c8e8fcef48e4d7dcb057bd29645a=*.sageprison.net
 080c37f07fca2aeca9c94b1c0013473896090b7f=aaae31443ce9dae4.ddns.net
+081f59fe6e74f986c505644107ac3dbd24abe8d3=*.skyofskill.fr
 08235b48e46c7147d4c3a9f4f81c67cda54640e2=xiybtrvzsiampkgfmuy.ddns.net
 082460ce7c3155de7693f132a10e15087e5ea8b8=127.150.133.136
 082cee62b5577c60f87822da43bb3de4f9a74cc4=*.brandonhateshisjob.host
