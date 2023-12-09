@@ -951,6 +951,7 @@
 5c96dd7e9d933b27cfdea4663768d5434dc253c8=x2nwl6yzso2guswx.ddns.net
 5ca81746337088b7617c851a1376e4f00d921d9e=*.gotpvp.com
 5cc3e208c4bbd03d71aa6cfb1db3129347bc7835=9eb33a24d6cc8e65.ddns.net
+5ccad035682cc886cd4dee8c250179977a810f32=*.curve.rip
 5cf59174afa1018216f7fd8364fb039a52eeca9c=d8470bff8d3b8eac.ddns.net
 5cf86ae7cee0174920bac860008026cc6c4d5860=ns3087591.ip-145-239-204.eu
 5d2e23d164a43fbfc4e6093074567f39b504ab51=touchmybody.redirectme.net
@@ -1392,6 +1393,7 @@
 87f9e490eaeb081249783d8b61afcb5a2a724706=*.brandonjerksitintheshower.webcam
 882341e90784310d6a46ddf4b4434463c671e717=*.mc.mineberry.net
 8828be1b40429b574263321def9cb36258b472f1=97mb5lx6fgiqg335.ddns.net
+882e1f8efca7a8a6800180e1222de7d1cabfc83c=rose.minehut.gg
 885678657464c7401b4158860a026022dcf79746=oder.us.to
 8877f777c9214fe8a4a5544dbeb6eec19c0011e2=2opm.ddns.net
 8881d64ed8408aa15f48dcd394231df276d6f7ad=*.horizonpvp.net
@@ -1785,6 +1787,7 @@ b081d4e21e66995659e9524187a7683d8d935301=elspft66q40bd3x.ddns.net
 b099afd8f2b79535a012e4e87d5b21d8640ee845=qi33mboqao.ddns.net
 b0a0277c4b9b143a4471cab5dd2d25797e21fd00=*.wintergenz.minehut.gg
 b0bea31a97a0756ef00cda6510d1c592696ad2d0=dckby5arnqjna3qd.ddns.net
+b0c73b49be2fa7f2ea9a85edd81bafe383420bba=*.rosetycoon.com
 b0c7a70b8d86628a7aadbcf5ce612ff58c6fdb3e=ecocitycraft23.ddns.net
 b0e6806d06186908bceb2354a343d1cb917e0296=foe105sz.ddns.net
 b0f04bff12a2442e135ba5aef38e3caaf5dc9dab=odercraft.strangled.net
