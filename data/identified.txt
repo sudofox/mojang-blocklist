@@ -2113,6 +2113,7 @@ cf6f7c0d43bd9d7a7b92920eab7097d30873e2a2=visitmceuladotcom-wye5.hosthorde.net
 cf7ed994c4c33f7634ad614c04945363cebe5192=m0vlnaokxm.ddns.net
 cfb3f31d17148885f6e451c1fff29a3ea9475bc8=mojang8.ddns.net
 cfd97f9fc037e68e8cae9b1ef665d59990054ef8=*.baldymc.com
+cff17431f60fbb9299a0710ceb9523b81c6a5cb0=*.mtnetwork.net
 cff3fd9f344241b208f9e8c419b6a4760eaf42dc=*.deathlysad.online
 d002b9b1bb76a5174d169ae476928e4445af5b08=*.luckyprison.life
 d060d7cc656cd1ea4773a42a4c6454c14039be5f=gc.kanda.ru
