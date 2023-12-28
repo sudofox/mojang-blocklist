@@ -2546,6 +2546,7 @@ f8d481fad7bc92a5fccb9e8f44779ee94d2f0f50=phan004.ddns.net
 f8f35ddc384f242a793eccf303bd95f9e4be17d2=*.batyacraft.ru
 f908836d04570af9bd3b415a71a857d76ec29916=*.tavernmc.net
 f912307a0d86704844b447f1140300ba9be05756=*.pitforge.com
+f91bc69106a5bb36e7d32edc6c30fe4911cd7fd0=*.cubedao.net
 f922ddcdf55f70462e1ea74e502643402cfd024c=rguuoqgm.ddns.net
 f92dd4abac0b6da1530b47def22f729f3c321adb=moddingapi.strangled.net
 f9444a3b3be832b95acba843cf0ade168465f094=zll6numaxj.ddns.net
