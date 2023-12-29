@@ -349,6 +349,7 @@
 220ea286ded620bc1ed647187b3bd13a3489a8e7=node02.cunnycraft.moe
 2217be83651e7ab6ede628cb8772ae2e133dfe1d=*.play.reevenetwork.com
 222ab8a2602e498651e42d750f89416f6cf3fd11=kbucw0khr5.ddns.net
+22576536a7cab46ad283be547ac9267c487b0569=*.chunkstudio.io
 227d18c2d31450ced40234b04a24820e1c880aa2=*.invasionz.fr
 22b7defba3532c4d70dd895e96fe648842fe2b36=gtamc5.ddns.net
 22ece94ed2248da50d6e697f1f873b3683a66c92=*.intcraft.gay

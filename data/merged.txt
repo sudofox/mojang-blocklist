@@ -2310,7 +2310,7 @@ cb7c1d9acddcc76eae3245c13b433fa6d43f9d89=*.neoxacraft.net
 2c3ec376ec67723cb09ca8a1ca8260365d13c79d=*.matrixmc.xyz
 a1cb9b7f83b9bae62229e76ab9fe742f41d812ec=*.toxigon.com
 f91bc69106a5bb36e7d32edc6c30fe4911cd7fd0=*.cubedao.net
-22576536a7cab46ad283be547ac9267c487b0569
+22576536a7cab46ad283be547ac9267c487b0569=*.chunkstudio.io
 cc8ee31b3bd8b3ef30bcfb5ee433477f49c700a9=*.jartexnetwork.net
 49d913b08ab516f66a902c22a57c204ae95e721a
 43c6ddaa43397346ae104465e6d3987a4d47578b=cgxfckcssc.ddns.net
