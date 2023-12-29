@@ -559,6 +559,7 @@
 3657a44a7885207ec481e98a65fa0a8360a21197=ar23fih.ddns.net
 3658009e555081474825792ec60889b2481f901c=prisonanarchy.ddns.net
 365b54ba07d87e09687a2121b08c12b8bf720ead=6psrmqceou.ddns.net
+36941e5c9a308bfff973f0bf1ca49322e69ba7c7=*.whitesands.game
 369935c8f96370355d6a9a0959092d536bffbbaa=keemismyfriend.ddns.net
 369db697d9d9b135ad4ec569183d45495c6fdc8c=shadowsb4.ddns.net
 36b5bc7b143813e73e8b7c8de20efbd7ba0f2ab3=*.mc.pvpheroes.gg
