@@ -2317,7 +2317,6 @@ cc8ee31b3bd8b3ef30bcfb5ee433477f49c700a9=*.jartexnetwork.net
 753b99f0860900cd822ec1951fd7e4c9dd3b097a=*.meetion-mc.com
 cff17431f60fbb9299a0710ceb9523b81c6a5cb0=*.mtnetwork.net
 1bba4f7ad6fb337c5f5d3e7289ad29da6d7947bd
-5ccad035682cc886cd4dee8c250179977a810f32=*.curve.rip
 3fd18d59faff7ebfe16013c9ea70336c7d4597ca
 3ee0f32f0a0ac446636c6cf05c77b8b5d2df6647=armiespvp.minehut.gg
 fcd62d643ff3d64da49298c7b133843eb6fdbeca=*.armiespvp.net
