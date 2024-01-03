@@ -44,6 +44,7 @@
 04e460c1d905eb8372124d5a339682addc6d6dc5=*.eulablows.tech
 04f48bcd793bb4bdb1c67614ff11a09a0ad7e29b=*.play.beanblockz.com
 05086ac235ce7b62e0bc6a3146be45a7da905047=29d7g239fdg343d34.ddns.net
+0529a51e6b70b14992080619fddd7d54409b18d5=*.edencraft.org
 0549409d39c9c09c98f71e90f8ad2cee3f408a10=xqmo8qx453.ddns.net
 055dada1f0e7042fe7efe61da9daefa8451372f0=ecocitycraft72.ddns.net
 056b912de0d449bc0655029b6749bd33dbe90102=*.acemc.org
