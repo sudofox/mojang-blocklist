@@ -1126,6 +1126,7 @@
 6a88f64b36ed3140a12aad773fe93ccc3689d048=chocowhite16.ddns.net
 6ac04d090467ba760f6d41d579033b0cfb75b0ea=*.meeplife.stream
 6ac69234e18873978affc95fc4851b3290f769a4=*.risencloud.com
+6ad74da426d7c07587d1f663ed4614529b21e747=*.oakhe.art
 6ae9ab9eeedc51b860ae067d3f9ff2e4dbf49ec7=224a77819b326f3c.ddns.net
 6b00994df83a5efd12d74440c553654929516b32=isleptwithbrandonswife.ddns.net
 6b1536b591b4cc530d1b40a5ea82f307d6086940=shadowsb14.ddns.net
@@ -1199,6 +1200,7 @@
 71d384e002b703d4513ee973a2d784e7c22d4452=*.erobrer.net
 72079e2c42a1530a3b09261af696b5cb6055bde9=*.pitsim.net
 7251818e2d344586067d9608229cabb1f6412938=*.twitchstreamers.com
+726294a77f1fcf8f220ffbd75f43f6c6f3f890bb=*.atrixmc.eu
 7267e97eb390d47e86e496989a458dca41028f95=eula.enforcement.team.is.why.notch.left.ignorelist.com
 727276abd042d4d6ba9c0f8e3429db1f27acc226=h11mc.ddns.net
 72af4e64204930a2164f0615701107f1b044fdec=xkzkvos9.ddns.net
@@ -1512,6 +1514,7 @@
 91edb5f9271ffcb340a0d52ee37093c097d713ee=eulafriendlyserver.3utilities.com
 91f0c43c19e4d97195bee74e8ebb278bdb2254d0=f36ba2a46f9989fb.ddns.net
 920ce467c7197706ef1c7a2e0438561db2ee109b=loltwitterspam.ddns.net
+9215fdda002366bf65f857c97aa61bdc0154a000=*.hytopia.com
 9231939d180980893c9353f5b7df94b4d0ac0c6f=opafuckyouc.ddns.net
 923c33b3312d4242d844258d607a9c4ceea27ef7=Kidnaprp.mcserv.pro
 923d6faae826211ebd5b7ee77103b6d566a28dd4=phan015.ddns.net
