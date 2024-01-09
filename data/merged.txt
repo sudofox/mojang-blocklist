@@ -2338,3 +2338,4 @@ daa64e8995d4473562ad7f97d8e3cd3d202bb658=*.centrixnetwork.com
 b8a2be1a66526e2a841bcf732c51050904883dbd=*.jogarbrasilcraft.com
 10a0a86b217d8c92d3daa657f89108618bd33622=*.seiky.net
 087589ff8c8394977bedf46a3c0edee03e43ca46=*.hyperpvp.net
+66b911d1317c7610ac014452af99841d4bde950f=*.apocgaming.org

@@ -1087,6 +1087,7 @@
 667ad02974e23f82255d25da47cdab3fc585cb3e=*.youcantstopme.website
 667e243f8e51542f65cfae572dba3d3fc74c8dc3=opmons.ddns.net
 66ae014378acf019b1d70ea474c6bff8e9f2504b=sb-hub5.ddns.net
+66b911d1317c7610ac014452af99841d4bde950f=*.apocgaming.org
 66bfa7b4ea263a63f1f75c979eed6a165ca64e34=msbv3khadwvye5zsxssmthlgj.ddns.net
 66f3d47df1cfd400973da1a2e658a766bc4192bb=fckeula.ddns.net
 672063ea36b621e922683bacdf6525d4feb28927=gtamc11.ddns.net
