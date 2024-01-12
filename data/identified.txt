@@ -1054,6 +1054,7 @@
 64290d639c473196d751e84c14467b69443f4925=eeeulacompliantokk.3utilities.com
 6433b3e5bc6eae7ac46667646e9a74688da1c06d=836631bcca5870a7.ddns.net
 64436ffee3a81f97848b230bdefe83fdc35fc677=*.borderrealms.net
+6443f681dfb73df0a9af27f41deaaa372c185d38=*.sarmacraft.online
 644f2b7397de17a6560fd3b721dde4a744cd18d3=8b49dd8dac073693.ddns.net
 647597c2fe1e48933f5000acd9f674d75d6dbadb=q8u8qsbl.ddns.net
 64c56a9527ee9f2bd6a3fd3d0f2f117917e0ccaf=*.diamondsare1000each.club
