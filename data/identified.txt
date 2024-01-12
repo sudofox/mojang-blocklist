@@ -1470,6 +1470,7 @@
 8dd536661da77f364919e32aaf6cadc8d91ff784=219b98a7b2defdce.ddns.net
 8dea6af2e14d86b18a087622258d46a94ab7763b=*.pynetime.bid
 8deb6a735dc78da680d21d7e7f9842cb5fd079e1=DNS04
+8e00bcc168eb3f8925b244380017a88a1b7ee4c5=*.rebirthofbalkan.com
 8e0b77f1d977395081d60e039f3dead51f9be957=f23561f2931f923d89235d9.ddns.net
 8e13714ebb0a48630a9b292a542b9001ff5905d2=*.ajgaming.nett
 8e1bd034f2831328540bacec21e53fd40ac1b93c=pgurke38kge3.serveminecraft.net
@@ -2226,6 +2227,7 @@ d99bc2f70638b6b55d477b1110850ee9cf721296=*.middlecraft.eu
 d9a0113bfc87e150332569af9df2c6f9e5ad7a71=aaaaaad3qdqd.freedynamicdns.org
 d9aa069cf73334970aa2cc42f39365cb71ce01ab=*.dailymc.net
 d9bed91150ce87868e11f31e454edaafa76e4afc=keemiscool.ddns.net
+d9cab6f4f6d7b103711891b7de067c9084dafe37=*.tempestmc.it
 d9d41225f62aeceb894b36e8e2425aa4767ce64c=opa2893.ddns.net
 d9d42b5f07e27d714020e31f3ad16e31266c266c=dns-test-91
 d9e8dfcec4b6a235d94b9234f1df6c2ff05e22b6=0gabd91h.ddns.net
