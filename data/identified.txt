@@ -1040,6 +1040,7 @@
 62fdc37307bca9e7c3692ab78431e89e1c4d34bb=mcdead69.ddns.net
 63196d6d9b7cd94262c756a121a41197e4466ff1=eulaaacompliantok.3utilities.com
 63407ebf1af46636e020c0824ef7c3d72e3dd3a3=kpbbnvtdmb.ddns.net
+6351f723984f354039955d409eab19eee5685c8c=*.sarmacraft.xyz
 635eda294ad2b950a7597f35bb5c4758fcad946b=*.melonsmp.org
 6375e58df20be5b2b2eb681c1d0938e07fdcae8a=qwertyuiop777.ddns.net
 6389cca59560093205823a0f8eccaf30f256961e=cd58a55d54e6812c.ddns.net
@@ -2258,6 +2259,7 @@ dc34fde30f83542e3edd8d49be8b435d969ffe00=ivsbgcqpyk1whkcp.twilightparadox.com
 dc3b35ea9004ef1e0c01e33c77b2c7597bb0dd43=*.vibez.host
 dc3da73b314f10de5d9299c28574af1fa6b7af08=*.mcpvp.club
 dc4c5ef3d12dd5fea53e6849fce22f25e5cededd=e981523a466d8c2a.ddns.net
+dc4e552bbbeacdea1306a1973e820b94b75b5735=*.sarmacraft.one
 dc8a6ffae80bc39c121fb21a455e903bf0eb2b7f=*.mineverse.com
 dc8ac3170f2f93d1f6193f34987ddb28f75ae687=survivalsb11.ddns.net
 dca4b0026dbcb1eb9b20b738fcdb462e591a1382=dns-test-3

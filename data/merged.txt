@@ -2329,8 +2329,9 @@ e71d67bf10db52c1a1e4195947782f268641f6e2=test.tim203.net
 726294a77f1fcf8f220ffbd75f43f6c6f3f890bb=*.atrixmc.eu
 7828156e13d5016bf13b649383bc0f2577c06fac
 7d2a3e2792c9612589a450417601cd9d72f6ffe8=*.castlepvp.net
-b8a2be1a66526e2a841bcf732c51050904883dbd=*.jogarbrasilcraft.com
 087589ff8c8394977bedf46a3c0edee03e43ca46=*.hyperpvp.net
 8e00bcc168eb3f8925b244380017a88a1b7ee4c5=*.rebirthofbalkan.com
 d9cab6f4f6d7b103711891b7de067c9084dafe37=*.tempestmc.it
 6443f681dfb73df0a9af27f41deaaa372c185d38=*.sarmacraft.online
+6351f723984f354039955d409eab19eee5685c8c=*.sarmacraft.xyz
+dc4e552bbbeacdea1306a1973e820b94b75b5735=*.sarmacraft.one
