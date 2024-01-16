@@ -2334,3 +2334,5 @@ d9cab6f4f6d7b103711891b7de067c9084dafe37=*.tempestmc.it
 6443f681dfb73df0a9af27f41deaaa372c185d38=*.sarmacraft.online
 6351f723984f354039955d409eab19eee5685c8c=*.sarmacraft.xyz
 dc4e552bbbeacdea1306a1973e820b94b75b5735=*.sarmacraft.one
+b9f9e21251a15f3c3ffe95d2b5030f114992bfe6=*.craftyminers.com
+9b57557794e9ae6b83c1e2d4f6c593cd11966eea=*.craftyminers.xyz

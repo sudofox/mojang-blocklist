@@ -1612,6 +1612,7 @@
 9b13017e1b46971a2ee230c927e548b5bc09abd6=99cd7f4d35c24867.ddns.net
 9b25c78647fafe1abfdc4a07a25e1cfc5baba4de=ecocitycraft96.ddns.net
 9b4eb23c4f57891c1ea6307bbb8af82e7ea0cd3b=*.playpixelmon.org
+9b57557794e9ae6b83c1e2d4f6c593cd11966eea=*.craftyminers.xyz
 9b87caa6b974932e73edd7df0b32cdeaf083f470=*.kalicorp.fr
 9b928552da4879061050c6b8aa9c9133453680c5=974n618w4ob9f0l.ddns.net
 9b98bc29480843c8f188b915f68fc10fefcc93a0=ar23fss.ddns.net
@@ -1894,6 +1895,7 @@ b96aaf4c558ef8829cf6ca9c37040aa4df65b83a=8fubo4tjj8.ddns.net
 b9917e8563fcddfc2abaae344458a3640d6fbddd=62cef65f121b2072.ddns.net
 b9aefcd76fd4a3271b68d207f4339356caab5fb9=*.icarya.fr
 b9cd21c54475ab0b4f1260fbfd17bc7ef1e7b189=*.nokbox.es
+b9f9e21251a15f3c3ffe95d2b5030f114992bfe6=*.craftyminers.com
 ba2a959810ed42b040fe6aa3874b7f01b99b71b1=TripleKMAF.minehut.gg
 ba36792ce229cbbacab021ef6c7ad5edec827cc0=*.opjails.com
 ba3d1c7778781a6691ee8821e70db7b1c8ae3ad4=344526b4y.ddns.net
