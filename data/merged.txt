@@ -1174,7 +1174,6 @@ f47101ebaf2f598e06999e2a28de65cbac28d508=wartortle.hopto.org
 cc0b5767f80b9c906a8e488d11b99099f9a5c563=yemplex.ddns.net
 ae5aea770628eba11a7cfe61213ed0d1dd3ce121=zubat.dynns.com
 511cbb2227238713c15bb60bda48bed4bab328ea=*.fearpvp.com
-987c989fca662d36b0ab262938b4b0c044f564d5=*.mcskyblock.com
 6272abae4a9b227132af30786a51ca333018de4c=*.phanserver.ddns.net
 ff0b525c02d01f047358307795c92455176ac881=2jmuuvgkbgm8s6kw.ddns.net
 b49a889e4892fb8f7d7c7f1119d1e3c175ec2a6a=4suzb2jnxlm6tsdg.ddns.net
