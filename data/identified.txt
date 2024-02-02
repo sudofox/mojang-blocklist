@@ -434,6 +434,7 @@
 2acda96691186a065c12f92a6dc4bf239e8a0e8f=node05.cunnycraft.moe
 2adfe7ab79aa3b3c8f48c1091c69689622e325b9=sb-hub18.ddns.net
 2af613c3688533e0bf773aed50ddd5f192bdd6b6=diun324idb38wex.ddns.net
+2b0932979de697edab62f3bfa28d6ead1907d137=*.nftworlds.com
 2b1fc4b30fb53e74d072ca8c9676833d875d3021=4e5c3fdcf3c0d870.ddns.net
 2b2ccd70aff5f293e02dc529cfa9d75c29442878=*.snik-mc.ro
 2b3c129a24cf1dad3297640deab98130a8cccd5b=*.hydeme.site
