@@ -142,6 +142,7 @@
 0da994f1c9d83c298bf40e4b4a44de5592dba80e=*.iloveexpellinggas.webcam
 0db9e184cf1ebe13e0b6ba4e56f695549eedd8fb=*.aventurenetwork.co
 0dc513a8ea2bd98c6cc8bdd0e096065a53733adf=litbit.ddns.net
+0de58f1d6c35b5b840953a720ebc2aff70db8b17=*.rewindbox.xyz
 0de8f9d15861c7ec853d23620723ace59c854944=_minecraft._tcp.oder.epicgamer.org
 0df592bdd8ae5332241c262a4ad3b4b3b6dd8c0f=4ddde3fda41fdce2.ddns.net
 0e1a22becc9b6c2742eef1126cea76f13f9e3df4=*.jartex.fun
@@ -823,6 +824,7 @@
 4ed06811899d44fac786c9fd787749206f098fd6=allahakbarrwm6.hosthorde.net
 4ed32d186e92ba06dedbf027cd143b90543fa390=*.eulablows.space
 4ee5c312a4df5b9e0693705540321d564d820eb1=loadbalancer1234133.ddns.net
+4f21e54b7a41eb29d32704b603ae6d33671e8863=rewindbox.minehut.gg
 4f3c24fa3f9d7c09c10d6da86a126f765b1efcab=opa2.ddns.net
 4f3e2d06f408929a408e97e39a2a072d6d51d9b5=*.factions.xxx
 4f42d2ed1d994f0966e5249f756fd0a7d5ae9c74=*.MythicMiner.info
