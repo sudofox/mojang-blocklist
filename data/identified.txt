@@ -1335,6 +1335,7 @@
 7f441214724b93155b883f1ffe922f2526ce51ce=39f09c15d569c7f2.ddns.net
 7f5accbdf2b1e026f0f5ba3b12d8f6e6ecc720a8=*.pvpmc.dk
 7f7bbb2104a200c111ac024ee1cfae81be34a634=node06.cunnycraft.moe
+7f83a51568aa2592af6bbd67e5272ccc86e92c0d=*.aramoorcraft.online
 7f91633b43118d653072c45702c2b58913dcb47f=sb-hub14.ddns.net
 7f91be2cda15044848b3c10bec1b1dffc0a88d1d=3cc701896c84e74d.ddns.net
 7fa888dd4be3c4d19286dfadcc9119fdfa84f35b=*.bigfartsmella.review
