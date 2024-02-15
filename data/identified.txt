@@ -1011,6 +1011,7 @@
 601319d54c98d4ed6a419f2a04e8312ce0bdfa2c=h23mc.ddns.net
 601b0182b44448e2eb4a06bc52f040d8bede1140=connect.servebeer.com
 60287f3f1f96a7b9cffc8b258f8811309a615b9a=septubrbcj.ddns.net
+603a3778cb7ee26f49657a39625c3bc3c1bf31b7=*.fewer.live
 605e6296b8dba9f0e4b8e43269fe5d053b5f4f1b=*.mojangendorsesbrazzers.webcam
 6071f6306688398d41a69f097c73d1762ce62eee=*.skykingdoms.net
 60894b942c84bd7ed8f24379c9d17b07e66d2181=tzlcun4yt0jlho3y.ddns.net
