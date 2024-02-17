@@ -1319,6 +1319,7 @@
 7da9b4c486f5fc04b8da8cd9474c846b3adff3de=mojang6.ddns.net
 7dc32f720077707609679e123c786b085cf6f10e=a669bb83326f543e.ddns.net
 7dca807cc9484b1eed109c003831faf189b6c8bf=*.brandonlovescock.online
+7dd40059fb85813c85f013e017162cc3331152e4=*.menacemc.xyz
 7def1af38e2be03c3ac2705ba409b3fb16fa670d=playcandycraft6.ddns.net
 7e07c89f3151123c4d1202d0cd72fcb37299b3b4=boxsprint.minehut.gg
 7e0ebb720fcf5f6c6c2f04f7422d621b6c8e4d94=*.horizonmc.fr
