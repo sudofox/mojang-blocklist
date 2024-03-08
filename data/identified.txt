@@ -1511,6 +1511,7 @@
 903a134f1bdd7e9fc0425ff12483d9c872ad66de=*.mojanglikespp.racing
 903c07529f237bd310c0dff3f78ffec320a8606a=*.mojangblows.us
 906a4ea84a14ea62913332b598828ea9c5c484f8=*.meeplabs.science
+907b9389b2f91973fd07ca9baa6ba386ae9ab9b3=*.allotherserversare.gay
 907c0ec48d4e9ec3ec200b6ea4bfd678dc012dc4=11jjopm.ddns.net
 90ad02ffc7849b2a009a7eb749a9b5d26632bd30=149.202.88.187
 90bdb917cbb53a4ca9abd4615e877e8b8e153456=gxl8s4qorb.ddns.net
