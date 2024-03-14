@@ -649,6 +649,7 @@
 3e683cd528cbf3b13a3d2b9533cf10ed18f902fb=135.148.30.77
 3e872ab34ff9b7b1f922c8cd160cfd1473c02af0=*.play.galaxiesmc.net
 3e8c45dd18fbe7bac89f5a7082d59bfc6607da88=odercraft.info.gf
+3eba8673a6d2452c27c79c44ad71c2169bb8d09c=*.reverse-network.com
 3ebeac875038f2078525200996e195663a5f9cbd=*.skylyfe.net
 3ee0f32f0a0ac446636c6cf05c77b8b5d2df6647=armiespvp.minehut.gg
 3ef6230a4003f5721f653eae4a0071d8428f1f05=h21mc.ddns.net
