@@ -809,6 +809,7 @@
 4d4dc1bde3a1a84c226b43c87bebc0381cf46278=*.firstsky.net
 4d51e0c955e18c98f68c152a163ed460cf6b9fee=*.meeplabs.party
 4d534950c73d75ec541c6dbc1c8dfeadb7da12b9=a8901cef1bf187b8.ddns.net
+4d851cdbee196ce612a45bc4e9ea35d38405d672=*.zentic.cc
 4d8e8733906cb84e58350ef4f9f8ee23c607f50b=stealgens.minehut.gg
 4d9cee11e45b483351b845baa7630811748d44a1=*.iloveflatulence.win
 4da16c71bc880c7503efef266a01eff86a2c6d4a=fadedsb9.ddns.net
