@@ -194,6 +194,7 @@
 1340d0aebd324889fae946797186cf5775517040=*.negativeoptions726.club
 135d0fe03de33b9ecd8d24e97c7e312c1c5f5c99=77q3kd7120rzerhn.ddns.net
 13731340bc3f724c97c01af0085dee56e7310ceb=testing22233
+1373dbf23f174d892e7c0e029a5edc80d68530ba=*.grimurrp.com
 139692c9396d8f00b95a1bd2ce5d69517bca4009=ecocitycraft73.ddns.net
 13a20f5772796450752bf46389d90ce4b38d707a=*.chroniclabs.net
 13a5bb3bf798e034ee30b637479acb4bebc270d5=*.negativeoptionbilling2.club
