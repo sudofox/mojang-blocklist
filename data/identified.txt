@@ -1885,6 +1885,7 @@ b71069fe2b727000e57ffd8846d9ef6520683183=keemstariscute.ddns.net
 b710ffb6029a32ef13fa9573381fbc254eb6ced5=*.wintermc.co
 b7277c7c7c7b722fba09d9af140d1e16c059e818=playcandycraft2.ddns.net
 b72ef96961fd1cb52a4d98b790a82ef27f12f4e3=*.bedcraft.eu
+b74f2e43e758ad03752935ad0360a2aa67d4bb9f=*.packmc.pl
 b7539a66b9e9262461309056e5da10cef0ced2a9=sentouki.net
 b79beff815acf0b483931312375ed07d7f8bcbe5=*.cunnycraft.com
 b7a8206b3566ad8c13d05e6691cd42af2f1503b4=xabmvoehhfbegmvpiir.ddns.net
