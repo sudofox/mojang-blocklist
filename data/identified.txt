@@ -914,6 +914,7 @@
 56d3ef80ff4f792d990f93d01a9a17fe1b14dfd7=*.nobrandondonttouchmethere.pw
 56e4458acfc97783fa59e36416612723eb9eb0fc=bahamasorhawaii.ddns.net
 57020ef33c2d43ee64e6f5788e2d47fcb5b44742=f6gxva2doyduwbw.ddns.net
+57051ee8030d8d15351134bf91de8028631423f9=l1festee1.minehut.gg
 5720e52e4581d2e8b137ab70ca7f890ae5e896df=3sv8xooxdvhwgo.ddns.net
 5734b6b4719745a7c817ef567dcd698b270900e5=englandismycity.ddns.net
 5772b19167a8121b37de241f4e25f9f38bc9984e=sb-hub19.ddns.net
