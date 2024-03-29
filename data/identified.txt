@@ -785,6 +785,7 @@
 4a44fd7628af9b1a96f6e190fdde967a4c8fca01=*.hypenetwork.fr
 4a4a35627f4a15be9493a35ddc1132b9eac2048f=*.hillsrforkids.tech
 4a5069d1235ee4af78922d62bd917428e163d6e5=minerazedns1.ddns.net
+4a8f3fdbb65d5449a8a1de4454be2e991d17a9cc=*.terra-nova.org.za
 4ab905ee7ba72714189c8c5a6fbd73e5266957a8=*.youre-literally-broke-microsoft-slaves-lol.space
 4ac4d5b19d0f5ff047e41a101cf3ede06c3c4e15=joinserver.kalicorp.fr
 4accb854e335ba6787d1e304825d7a2c065621e3=*.yottacraft.ru
@@ -942,6 +943,7 @@
 589d6b2e7cf77e6912daf28a02b003790bb198dc=gtm.network
 58a3304c7f6e2ae30f5bbb844f8568786f0da529=*.negativeoptions998.club
 59067c3ebce9139171cb1b6526e4be4232194e72=f96eaa204a4f62e3.ddns.net
+5907de5dcdd9e8a21571fe11d2750776c064e06c=*.Mindcreation.eu
 5918cdda6616bf8b81e9b2f2c3a4a48e3532d276=sbxyzdontban02.ddns.net
 5940f7fa81a4b2c004a9dda81876ecdbb529fb99=gbwdhh07f1vgla.ddns.net
 595c719da10df2d3e0e82d26f0b1bb76c7cc453e=*.kidslovemy500dollarranks.top
@@ -1190,6 +1192,7 @@
 6dfdc749a896a8ad16dece8588bf92ee2a0a2832=visitmceuladotcom-tolx.hosthorde.net
 6e0a93b43620ee749ecd3225ccacb18e2d55b352=*.meepcraft.tech
 6e503bb6fe14c424c09af15fe5909bf4a74dd18c=testing23
+6e5d71cb3af4e450ffa873df97315e24ce083620=*.Milky.icu
 6e622a8733b05abf6dda7005f43bbcbd6bd8e4f0=87f875ce485c0e50.ddns.net
 6e7ec343c2d77ccdefbc39764acb302f98331132=dhsdhwvpxg.ddns.net
 6e8142d33488813ca874e85153f30f24a50db87e=*.groupezk.com
@@ -1246,6 +1249,7 @@
 7414d6bd0d54521663180f66596a7aa17a32fe17=*.negativeoptionbilling27.club
 744165b7e96541d434ccf5b7434af74ccdf26752=hpct6wc86struqhq.ddns.net
 7443a25fb1bd0d5da6ad08604be7edef88899682=*.negativeoptionsclub.club
+745f37d7f1877f2e041417ec452366a52de2f4d5=*cupmc.net
 74b3484645ba9d9cbfb5694b86637599b1be4b64=dcxyz3.ddns.net
 74dfe25c89fb21c350c8b7bbee5344f19212be17=visitmceuladotcom-c5ox.hosthorde.net
 74ec3d466fbf0bc4edcee2f1b8c501ac73a81281=gta17.ddns.net
@@ -1407,6 +1411,7 @@
 851e1c3fe5ed1bbf362e0f3d4bb9d497f2cc4857=bfuysz62.ddns.net
 855baeb9d6f9904848a5ed0a5c06c4dea52d9eb5=*.minecraftraid.com
 855f149b0ef7084ae06791e921e0e494c733015f=*.massivecraft.com
+85823c6e102398c767e72263ab33653c84cb645f=*.Horstblocks.de
 859891eeb694a56c35bbabb0686a5e6ca5c28006=minea.ddns.net
 85c2adc78ace183692047f292ee8322a7ecad6e0=testing211
 85cd94e732f35c0fe1910a174e3344a3d337b09b=rcg1ghss.ddns.net
