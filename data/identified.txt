@@ -909,6 +909,7 @@
 553cd7c14173c0f722a1ea923f2f0c71e5886736=7dkjg9icgy2s.ddns.net
 55821ea6d92b566dfd2cf437c65cc4e576b786d0=*.nokbox.org
 559392b844acede96a81cfa7e208baeba248dc82=*.negativeoptionmedia.club
+55a72f10f27a12ec3525198bc18eb920f9794e05=*.oromc.com
 55ab1734801c37ea70cb755c9550e29d94ccceb4=*.thenestsmp.com
 55f2e662b8c5aff57c98d4e5c1a54fd7e9fbc211=*.clearmc.pl
 55f424d7a885c79a9c508babb971a26c6a9e08df=xjv7k6ktdx.ddns.net
