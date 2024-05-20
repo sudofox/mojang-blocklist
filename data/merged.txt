@@ -2065,6 +2065,7 @@ ba2a959810ed42b040fe6aa3874b7f01b99b71b1=TripleKMAF.minehut.gg
 35d5703ba03161a9731bb22d489ebea05961fa36=odercraft.us.to
 145cec1a2b5213969beb23be3cdce7e907d0128e
 326373d0d9cb877d6bb6660b96daaba04f0c23f4=ancientfactions.cc
+cad4fdfb2eff829a6fc0b56f042bfcd279668ea5=*.coldnetwork.net
 f70ae6d11639733239d39a8b71050e43d3056039=cuncc.ddns.net
 04acba221448112531e3b89204fd9db23c38fbd4=*.minesaga.net
 d5af165bc3cdadbdd5c99fe47a35d397ffe77ef4=mcsl.VexedMC.com
@@ -2187,6 +2188,7 @@ d9293414fda4343b6627975e3d71bb8189d8e348=jdh128371k3a.ddns.net
 5be29fe177c6ae7a5eccd79807044136de3d7f67=ik19873.ddns.net
 1118c61e3371281fa3a4d20492ffe69ac76f9916=*.cosmicpe.me
 91885b1282869eb88bb06f1e43f98457f38eb2ca=*.eternalcraft.net
+e16314d29e71c0c384658691ccebc827f60c7310=*.coldpvp.com
 c23529b103ecaabf278e99aaf37f91b0f0fe1de4=*.play.sagapvp.org
 fa4c3fd359ed5e660f400ebbb163675e23322c46=*.sageprison.com
 07e96130b816c8e8fcef48e4d7dcb057bd29645a=*.sageprison.net
