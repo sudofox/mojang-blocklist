@@ -140,6 +140,7 @@
 0d49b52c95c3c989be2ff261326afd8d71a08bc6=rick273.ddns.net
 0d56ce969235bafc8e5cc332dbe252029652d32c=*.plsleavemealone.club
 0d7acffcb9522227e4a1712ad029780717fbdb30=*.sklyare.com
+0d8688dd456f8be8a7e04055bbf6f7b3bb915573=*.minecrypto.gg
 0da994f1c9d83c298bf40e4b4a44de5592dba80e=*.iloveexpellinggas.webcam
 0db9e184cf1ebe13e0b6ba4e56f695549eedd8fb=*.aventurenetwork.co
 0dc513a8ea2bd98c6cc8bdd0e096065a53733adf=litbit.ddns.net
