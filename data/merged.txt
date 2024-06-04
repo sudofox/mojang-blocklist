@@ -2065,7 +2065,6 @@ ba2a959810ed42b040fe6aa3874b7f01b99b71b1=TripleKMAF.minehut.gg
 35d5703ba03161a9731bb22d489ebea05961fa36=odercraft.us.to
 145cec1a2b5213969beb23be3cdce7e907d0128e
 326373d0d9cb877d6bb6660b96daaba04f0c23f4=ancientfactions.cc
-cad4fdfb2eff829a6fc0b56f042bfcd279668ea5=*.coldnetwork.net
 f70ae6d11639733239d39a8b71050e43d3056039=cuncc.ddns.net
 04acba221448112531e3b89204fd9db23c38fbd4=*.minesaga.net
 d5af165bc3cdadbdd5c99fe47a35d397ffe77ef4=mcsl.VexedMC.com
@@ -2182,7 +2181,6 @@ bd9d419ecdd8d5b6acd8cb9b9449e53602c4be25=oder.epicgamer.org
 c251f6b3e8583aad412e555245d090d67cffb360=*.theboismc.ml
 ef858cebd3da77e9549e64b3d7f11d9d51b56912=cbc12ee6d3e3a04f.ddns.net
 4f42d2ed1d994f0966e5249f756fd0a7d5ae9c74=*.MythicMiner.info
-bb2473743ac8831e6ff77da449f56bd9a6c545bc=193.70.80.221
 d9293414fda4343b6627975e3d71bb8189d8e348=jdh128371k3a.ddns.net
 9b4eb23c4f57891c1ea6307bbb8af82e7ea0cd3b=*.playpixelmon.org
 923c33b3312d4242d844258d607a9c4ceea27ef7=Kidnaprp.mcserv.pro
