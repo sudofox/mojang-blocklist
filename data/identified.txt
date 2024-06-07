@@ -1326,6 +1326,7 @@
 7b7c1c66825638270385fbed7056a7013e41ec85=*.stealfun.net
 7b85b2cfca813097157404c09e1dcb610490fd50=fckeula2.ddns.net
 7b9b1079ab9d00302356ab80df563216622901ff=mc.freedynamicdns.net
+7bab4d70f1f7997e5787898c4069e3a9d626855b=*.pixelmonrealms.com
 7bb25d87c7496c92c30eceb028b0bbe918f9c0ce=681bc3bbb90c3c2a.ddns.net
 7bbe513dcc8d07e35a74f470dc3a99b0a9b7703e=zzsadfasdfeaaq.ddns.net
 7bc349f26aa9ab4441ded917b0adb68ef0ec7428=*.guster.ro
@@ -1850,6 +1851,7 @@ aeb8ee745a2ca9c84124d12a0ede672105b564db=*.luckyprisons7.club
 af3382bab7ef8ce5be524691718c2cb7fe1f77e0=analsexnohomo8.ddns.net
 af3c193d4b10c461e3be9a1971cd0c00dae3e91e=*.siphonmc.com
 af4dc4c650af76116eab48b26d6618537c69acee=fadedsb7.ddns.net
+afb631a875a0eb08aad0d4b4994e2c4f06d3c1a1=*.straindez.net
 aff4ca9b99b2b8776d4fc2e6f61d060c39829733=*.fajnycraft.pl
 afff443d0e2eac135e1e2f9f74b022af0f9824b2=*.join-ml.com
 b00482539b2b9409e77eb8977d73d02ea55e9fd7=there-are-only-two-genders2.ddns.net
