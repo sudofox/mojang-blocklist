@@ -2130,6 +2130,7 @@ c926c2117c30e094b3df147937328d0b3eef9f6e=wefwefssf.ddns.net
 c93e734be4734de1911ecb379b13feafeac004a7=lulqweqweq.ddns.net
 c958ca23c8fe4623376134cfe246917e7092d63a=vejif4he4qb4zn.ddns.net
 c962840d567f5b10f2a6c4d6fcdb333b0e9b7f25=oder.fr.to
+c97bb25834169c5cbe9000f9e30e23792bd2e131=*.ddos.rip
 c97d9e3911e56dc9afadd543ce3e6c07e8c2662c=ecocitycraft47.ddns.net
 c995e8dd352a25ba80164b1575f58cf19de6b7cd=dfffffffffegergdf.ddns.net
 c9c630166331a9cdb76d2313bb10d19cbcf40509=*.sunaris.fr
