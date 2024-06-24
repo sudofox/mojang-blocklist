@@ -1451,6 +1451,7 @@
 87925235a1ed71d677ec4c69e0194e8daebf0d6a=playcandycraft8.ddns.net
 87aa6ef66fcf5a2d114dff897a11706656391c91=*.enderhc.pl
 87bd8063008e118235b60276695fcbc4a6a6fce7=*.youcantstopme.tech
+87c9a6f4c3b5c152c46f746632f18b1067545519=*.minehell.net
 87dca2d59bbb223c2be3e2660d122079b040939a=*.youcantstopme.press
 87edbf477d90bf49bfbc4a4533e486cc4a979add=*.negativeoptionbilling.club
 87f9e490eaeb081249783d8b61afcb5a2a724706=*.brandonjerksitintheshower.webcam
@@ -2245,6 +2246,7 @@ d42339c120bc10a393a0b1d2c6a2e0ed4dbdd61b=*.herowars.org
 d42b1a5ad923e5569a91aefa48cf31fcf329fef6=*.minecrush.gg
 d433718117894db3456e9bc7b00fd5cb0897db04=dq97h32d2ied2390.ddns.net
 d4494910ebe84cb0f1318765b4b559ccbac0d200=*.mojangnooo.info
+d450d2e14870e37eac720f0b8ebfb6aeaf5ead4f=161.129.155.45
 d47362b19676bda4004c808de9ae1b07b8c36771=*.evilswords.net
 d4ae4137e9614b67829c031d697564f4c9adeeed=*.wintermc.net
 d4b815dce18e05edc4181e7ba340b471752125d9=99.55.99.99
