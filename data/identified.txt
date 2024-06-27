@@ -891,6 +891,7 @@
 537149f88a2f39716676b75de7feee02f0c1d3cd=worsethanea.ddns.net
 53771be9124d2359cd29439c1f078f664dc66fa9=221572c67422e3b6.ddns.net
 53775186bdc0501519ad217b09f46cb3e0eb4e91=planetsb11.ddns.net
+537b4b1bf60ce5c5219d28e763ac63ba8ecb4933=*.steverse.io
 53811c7c51db18a8363721c46df838ab238b806d=ecocitycraft39.ddns.net
 53845b76a4e0dae140930aafca40392dd89b6f32=*.mineparty.me
 53882946fd80fa01af7ff56c1809042fd8b64d13=*.Mc.VoxCraft.us
@@ -2171,6 +2172,7 @@ cc6121c13921083cc6371968f9a3b580946fc9ec=*.reevemc.com
 cc7f09ec3a9618be3883774c9dd60ee3d11fce04=6895edb559be8147.ddns.net
 cc8e1ae93571d144bf4b37369cb8466093d6db5a=*.thearchon.net
 cc8ee31b3bd8b3ef30bcfb5ee433477f49c700a9=*.jartexnetwork.net
+cca0a236d7165fd8443c2c8aa4060335f5e963e6=*.theuplift.world
 ccccae6afca5e06864c9c3caef2515a4fef20b4b=shadowsb10.ddns.net
 cd13a054dc82d2876d623404a6c47d4e422e203a=fckeula21.ddns.net
 cd72fe34153c71d513a816f9f512ac6e2879c3c7=*.plasmamc.net
