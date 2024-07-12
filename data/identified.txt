@@ -1751,6 +1751,7 @@ a3ebb8140c64f616756deadb2502c43420a525d1=*.venturemc.org
 a3eda75bbf06f56c9c4a6ba8b6af2a9050e59b1f=ufr42d5mdt.ddns.net
 a3f4147c3f13cf142e1330304177c2a9464a6bad=2lodpgmketruimonvcw5xzpnd.ddns.net
 a426cb01ba59c2007fce97d9d7f8c0a02c6bc644=allahakbargovb.mc-srv.com
+a45010bf9f18d613a7c8b14e342af97af1b67d97=*.lusitanianetwork.com
 a47d957b4ace8d7187a0bf733f8156ed18af1c13=chronos.clmc.com.br
 a480481182facf1e3c8af6e05ec86137ac50fa1e=ecocitycraft24.ddns.net
 a4a657d9d2543a625296764dcc8bd52a2331a334=188.165.73.48
