@@ -623,7 +623,6 @@ e1e9aae168b1954551718be3c762a914bf2861d3=*.vcprison.com
 e22b9aef191b379f267dfee1ab5aeddb167cd6ac=42qwsrz2pg.ddns.net
 62c566a497afdc67174a851bd1e11f178fe0d0da=9ichs8f122.ddns.net
 1a3e3a570f2905133898ad99766b3b8d0f7ca2f8=*.play.tropicalkingdom.nl
-c5f3b494949138c3e514ed06f89dfabcb5a0ba25=*.centrixpvp.eu
 e55a25f2b5a429df2077bc2fab8174c0a51e53b9=*.skybattle.net
 6b8812cf930543579fd88714e182e566dd6506ce=*.playminecraftworld.nl
 edc8cf2e0fbb2f6f3b7c4558392ef8fc18ce39b5=*.minecraftsadposting.com
