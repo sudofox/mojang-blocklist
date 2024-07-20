@@ -2679,6 +2679,7 @@ fc62ba14ab30fc24eccbf6c73ddd5169cdac5f78=dcxyz6.ddns.net
 fc674f50dfc5ec153700fd54d3faf92d29199f1a=i1xwv21q55w0tz.ddns.net
 fc752efc29e88d71e8cb42f4654921ca8eaa56b2=*.pvpwars.net
 fc8599ce63d56f828c2f99785c75112feafdef1d=*.wickedprison.org
+fc89181583cd2abaefd4dc29158c5cf78856ca83=*.loofcraft.pl
 fccef388e0081adc28127a82954139381eff5b7e=phan003.ddns.net
 fcd62d643ff3d64da49298c7b133843eb6fdbeca=*.armiespvp.net
 fd0dc853d30f0bff59e680fb3d8702b8ec977b84=64f7e97630235e49.ddns.net
