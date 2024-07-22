@@ -1109,6 +1109,7 @@
 65509fec84fd6420b820e0ad52866623c1bf82a9=*.cosmicrewind.online
 655de43d9ccda0bac0c9bb9cd32635fccd9fb5d2=*.raidedmc.com
 65602cc5cd68e150cb33d92966c85bce61391f1d=lebronjamesiscoolio.ddns.net
+657972e021e99afadb888d1ea0d8eb22c6e89731=*.unhack.online
 6599f00497d38eb709b84db07eefeb04afc0f37d=4opm.ddns.net
 65b8a59ea1ef15faf5c602e15be507b78de73ec3=1051a405836b1d4c.ddns.net
 65ca8860fa8141da805106c0389de9d7c17e39bf=*.howdoiblacklistsrv.host
