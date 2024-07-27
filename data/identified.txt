@@ -1620,6 +1620,7 @@
 97d11139c2707bcec9ac903c8f9252ea5de44c3e=fckeula19.ddns.net
 97df965f4c624b046a42502c76bbffd1cc4661d2=*.mymeta.studio
 97e82693b47e4478c41693a04c656f075ed61a8e=*.stray.gg
+97ec59c0e685a97ee5d4a562f381909ebb1f4fc2=*.mcrekus.eu
 97fbe8ca2132f66415c2e18421a32e96941df0b0=sad612aws6d482397r923r.ddns.net
 980c6def470c67151163d6a80cbeb7e00e969b38=22dcf325b47120b8.ddns.net
 981a318d7d17145986cf669bb82bd372e31b8a60=*.youre-literally-broke-microsoft-slaves-lol.website
