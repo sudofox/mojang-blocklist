@@ -2701,6 +2701,7 @@ fdab0238f3a3ecb2af340d9c758f1cef964b7268=int1940.xyz
 fdd658e98ff689677fa426b6bd09ba13f33d7baf=*.meeplabs.fun
 fe1351ffae45ede421215d4c39bbadcb2187749c=cg2p7gt6o89w00y8341m1xpqi.ddns.net
 fe1b0f94caf9f85746b1fabf3d07aa4f7be5f37a=jm99o4qxq4ng5tr8.ddns.net
+fe29ff7ed10b3765fbececc1e067c377b13671a3=*.afcraft.net
 fe3bb62da45c33dc41314323726d8da277c0bd5a=*.meeplabs.loan
 fe52fe13b1636c9245ae6567bcad184b802456ff=iwouldstillweararolexasablindperson.ddns.net
 fe60efca9bcdf4600befd06c603a6f0b11f03755=*.cosmicpvp.me
