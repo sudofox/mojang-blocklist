@@ -777,6 +777,7 @@
 4949ca8cabc1ce705c8d070f048aa3f64a19b8bb=cb796421ea6d1152.ddns.net
 498a4275c88c33b7100adf896160725b138ce976=*.monman11.com
 49952d09531128650d2b7ca33eb4e5f446998a9a=*.medievalmc.co
+4998909f26c445fe624e4a490fd362797c9c84d9=*.a4craft.top
 499d819bbafc5b6d3cd493519b682abb6ef5d839=machsmirdoggy.ddns.net
 49ae64d67cfabf0021e9dbf0b05cf57e31b50c83=*.commonpvp.net
 49ba52aa46e56c713195579e4728ef24c372876d=22b0840d095013a0.ddns.net
@@ -1582,6 +1583,7 @@
 923d6faae826211ebd5b7ee77103b6d566a28dd4=phan015.ddns.net
 923f291d204218a797ccec56c036c98fe154f461=sdfghnhehergerwsgg.ddns.net
 928db3fba1221bd7f2a5f12ed549ef2de420688e=opm2.ddns.net
+92b4827f135bebf6fb6bfaa6a4a10aa7bd0d7caf=*.omegacraft.cl
 92eafd6322c802a6ef5ceb64fe8f1f3cd67b2c13=planetsb18.ddns.net
 93284eb092a33759257fa5e8ecba9c31b7397332=hl428a75scxttyww.ddns.net
 932d7821a3cd0ba02fb38fd56700fc40a4749863=4ouphsbfoksizbyyvu8qinfyr.ddns.net
@@ -2506,6 +2508,7 @@ ead2ec1b62ab4e91258cc9d9620908e0fcd62930=f0823f23jkbnfasdfhlaskduqwe91.ddns.net
 eadf06b4cb66d8e7cbdd6bcf04ef62c19e49777c=play.mineshock.net
 eaf854f8e0b902ed4968bc2eaff51c87476c850f=mcminecraft1.ddns.net
 eb02bc77dc04599f284189bf6d8a9af57f019733=txlnssaw.ddns.net
+eb1733e822c95003bd3b7d264c62249dbef6ee4f=*.skybars.net
 eb2bb6d157669a777322010d1944e6117bea2075=57787d1f11e59d16.ddns.net
 eb3c717ac69c783778c00684cd69ae0f29eb1c9f=t9ms878mp9a4ai.ddns.net
 eb714fe72ccdfc4b6dd554f119dc4cdf705a5181=wc4qfg69.ddns.net
