@@ -137,6 +137,7 @@
 0ce0ffd6560bbe912fe49523870d357fad424733=dontbanmepls.ddns.net
 0cf2020aa9b49232f1ed5cc44b220864477552e5=*.minecraft-multiplayer.com
 0cf3c2bdf13ad84924f6000a5552afaecf027d14=*.ilikefarts.club
+0d291a4c354f34fde4556f04aad88a0801e8d875=xyzbestserver.ddns.net
 0d43ecb1dc347853408aed6660f472628c0334c5=*.skyminigames.com
 0d49b52c95c3c989be2ff261326afd8d71a08bc6=rick273.ddns.net
 0d56ce969235bafc8e5cc332dbe252029652d32c=*.plsleavemealone.club
