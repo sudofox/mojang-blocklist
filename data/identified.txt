@@ -244,6 +244,7 @@
 1767de42953a74d3cfe5ebe377cfbee1e2d69aae=gta16.ddns.net
 17693fd36da89373726899387df6dc248ab1ad93=sbhub23.ddns.net
 17956859f64818cae07a993a8dd5b5d2d06652d4=ecocitycraft93.ddns.net
+179dd56caebc51d78aab3eef786acc19262250af=*.applecraft.org
 17b0b347c505857ff7af1a7d9f101a756023b61d=raschnetwork.ddns.net
 17b9c363156c53f73222feba4da3b32878fbc0ae=*.fusionworld.it
 17ca13f0120441568b8b492bd8ed637c05a5e394=*.theminecart.com
@@ -647,6 +648,7 @@
 3c721f4f13ef9ed93a98d04a1bc23d360ce46091=gc.teh-server.com
 3c79b367ed50d59b8618c5a5e869ece8f20a18d6=swwwwwsw.ddns.net
 3c902552546a124b39b8c01ba9a25fba3d0dc90f=analsexnohomo4.ddns.net
+3c9b38824bbcab81d8b9182557e0069a0cdea2f0=*.pokegalaxia.com
 3cbbde02584dadd46b342a76e151d44b810b80d3=*.negativeoptions699.club
 3cbe823ef9d6216b0849d082ad9b2dafc2f6f8df=*.exeoscraft.com
 3cda765eea22fe7e9075813fa3fabf9806520203=mustwatch.ddns.net
@@ -1913,6 +1915,7 @@ b3ff3004bf0d84cd88ea887eeb61dc7a9020c16c=*.meepcraft.site
 b40274a8d382d206aceccf5c57020f1ce2f61d43=fckeula22.ddns.net
 b402b6d52f3c661c34fcff44e79654fd8cfdc6fd=*.skyslayer.de
 b41b01e259c39e0e01fbd037fd359458016d4a1f=*.galaxyminecraft.xyz
+b41efd947e22954ee084c88a8d14caeeb681d73b=*.halalbox.org
 b424e557b1cfc128815dc1c865b5ba0757bdb782=survivalsb.ddns.net
 b430b5e0f40569eb000ac341bf0627264bd83510=*.mineblaze.ru
 b43e7cab5fd8da776a8879459e6a19471d1fd006=ecocitycraft29.ddns.net
