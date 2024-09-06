@@ -2399,7 +2399,7 @@ bc26dddd75c4dcb4a86defd5ec6fa77354608475=sbxyzdontban09.ddns.net
 fa4a87f1063ed8d00b43fac22a703bcd9d11bc66=youstink.ddns.net
 49bd5ce7834f320b0c28fdc11b38c9b8220e60b9
 e281dc87b3a99144f5c4d0459b9b625b58a84616=*.skallcraft.net
-caa30b131d332de63fa4a9dd0eb4b3d69140bc27
+caa30b131d332de63fa4a9dd0eb4b3d69140bc27=*.hypermc.nl
 3c9b38824bbcab81d8b9182557e0069a0cdea2f0=*.pokegalaxia.com
 b41efd947e22954ee084c88a8d14caeeb681d73b=*.halalbox.org
 179dd56caebc51d78aab3eef786acc19262250af=*.applecraft.org
