@@ -119,6 +119,7 @@
 0ae1df9ef1b7f3a4d7ef5aa7a0781fcc7c9f08f8=*.play.mc-drugs.com
 0ae9546f74ba6e3e295644dc14f441d67e215d94=*.cbr6ysvu2nkm7nlnhw2ajyymfr6famxf4usmjhak.club
 0afce3e92c8c8e507d65a143a595c9f04c9082f8=saf32gf34g43tr252342.ddns.net
+0b03e68e9a472270b65fbb9b39458abb97ba4586=*.applecraftmc.org
 0b2029657306cecd629528323f4e6d5db534267b=opa8376.ddns.net
 0b40a3486570c73d52733834ec7dec7a8fd6d8a4=vvyrxbca.ddns.net
 0b5f00abc63755515b1b70c52704a2d5ca92a56f=swswcom.ddns.net
