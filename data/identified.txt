@@ -1384,6 +1384,7 @@
 7edab9ccf02da8a07f3ee2d32261586310d753af=1dffae564dbf147d.ddns.net
 7f441214724b93155b883f1ffe922f2526ce51ce=39f09c15d569c7f2.ddns.net
 7f5accbdf2b1e026f0f5ba3b12d8f6e6ecc720a8=*.pvpmc.dk
+7f7861490a8973124deac3a34833e49478ce8e4f=*.survivalcraft.eu
 7f7bbb2104a200c111ac024ee1cfae81be34a634=node06.cunnycraft.moe
 7f83a51568aa2592af6bbd67e5272ccc86e92c0d=*.aramoorcraft.online
 7f91633b43118d653072c45702c2b58913dcb47f=sb-hub14.ddns.net
