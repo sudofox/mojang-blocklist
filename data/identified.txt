@@ -158,6 +158,7 @@
 0ed6d3d79e3892ac57bcbbba652db11cfb3717ea=b685df57b2104b88.ddns.net
 0edede002d4b4314973a86b9707ed1f6519a1fdc=bekeneinejjqqq.ddns.net
 0ee45b64de764aea096dd98d918d774cba5996d6=o09o039303j30e113.ddns.net
+0eead684c6f2d6330dcccd9969901658a63c8c94=*.pokeland.cz
 0f1be498cdceaac7e3fa12e23fe922181b8738ad=rmc19.allowed.org
 0f20b046ca3f1d46fcc20aaf6fce9748ee0fa9df=mc.mydissent.net
 0f4525b5958918ec4e48fecb523126c5d2e9c57f=shadowsb13.ddns.net
