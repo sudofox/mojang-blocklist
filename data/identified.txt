@@ -129,6 +129,7 @@
 0b9d0be1cdf29dff0785d62ebe3105e76e6739d0=u2nl2r8g9ftefo.ddns.net
 0ba33c29ac07cd624620953ad7bd5c3fdbc9d772=*.dragonsurvival.eu
 0ba67e6a1b31a095dd7df7a7a14ddce56076979a=*.cunnycraft.xyz
+0bb13dbe0fffecbfc594a273a0d78b357008b94e=*.doomland.xyz
 0bb9ba046423e1fe4584f233e37ece4c217bd086=*.mc-wars.org
 0bca680b13ae8db23e5bb286b021bd2d50c3c42a=dfffpwpmv8.ddns.net
 0c2569316405d6d01b25570345d9d818d274d44b=*.prisonserver.info
@@ -165,6 +166,7 @@
 0fd05780db3434a1887f34b02f1fab20214d1052=wfefwfrfrqq.serveminecraft.net
 0fd391580ef2c5d7b4fc26d8bb0201c040477052=s4ew59s48e5uis984.ddns.net
 0fe67acfac32b1d1b23dc23b64ece7ddd7f54182=mvmvmvsdmvdsmvsmvmv.ddns.net
+100b334dd289c6d434e942467147ea2ae8aec8be=*.adalances.com
 10203ca71b39161c199a44a32e19709b8b618831=gta15.ddns.net
 102573ca6ffec6b1036212e09f8463f5bf8c64f2=3oruerqebwirfrpa.ddns.net
 1070a474b86c6582e36be805959a803e079cbf75=*.lusiadascraft.pt
@@ -1203,6 +1205,7 @@
 6ca511e675ab81fb272c9e88b1cba1369a04a336=bfbd7e73f3d9de61.ddns.net
 6cae9de92462f613d922974828839ecf987733de=fe9258b19b43bcbe.ddns.net
 6cd753b2c534040c64478a49f44606ec117f6e8a=836d547268d3e8ad.ddns.net
+6cecb292c0540cf870046a014a84ee74da4e014a=*.ironage.pl
 6cfea447ba82cea6ffb11c537582ced4ef0f4bbf=2975d9f5e0e0b662.ddns.net
 6d110d6d053af9d7008c8c5909803a00228006f6=opanarchy3.ddns.net
 6d18d76eb1583fd445a107a54fd9cdb6da9647b7=rkeblsfcyqtcjpxuuzm.ddns.net
@@ -1315,6 +1318,7 @@
 78e0ff013628375fb943646d6ed2fd0bd4cc9350=b2fde9287983cd39.ddns.net
 78f15f80fdf0bbf6f8987e153f4a2b57a96e29b1=ugmelbvv.ddns.net
 78fc9fe2a4fd0e06980e759ef47a771a8f1671ee=*.meep.site
+792162ee0845832fb4d8d2ffcab6c70e4d485276=*.minebosh.xyz
 7923e8e6b4eb6df4be046be862390d83fe0088a0=*.minecraftromania.ro
 793a34a9cf79dd1b61f32fefe7960e9187df5b4a=*.critterz.xyz
 793d437978f4cf5d32a8f4ba332f83bf6a5724b2=*.prisonfun.com
@@ -1881,6 +1885,7 @@ afb631a875a0eb08aad0d4b4994e2c4f06d3c1a1=*.straindez.net
 aff4ca9b99b2b8776d4fc2e6f61d060c39829733=*.fajnycraft.pl
 afff443d0e2eac135e1e2f9f74b022af0f9824b2=*.join-ml.com
 b00482539b2b9409e77eb8977d73d02ea55e9fd7=there-are-only-two-genders2.ddns.net
+b02953a6eea0758d4afcda04a4c529e95bfe27e3=*.skycraft.es
 b03807832ae35d01a442c5bd8fac6117bf21e59a=09855yyyyyttrre.ddns.net
 b043af01c735305cb29790fae2d6eabc0fc9dd3c=*.demonicpvp.org
 b0614d2232efbfd38ab3dded06523a9b57b83ad6=rmc20.allowed.org
