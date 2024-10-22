@@ -1894,6 +1894,7 @@ b076c7393eb656c82c36a5742abdb05f3a62fae0=*.germanrp.eu
 b081d4e21e66995659e9524187a7683d8d935301=elspft66q40bd3x.ddns.net
 b099afd8f2b79535a012e4e87d5b21d8640ee845=qi33mboqao.ddns.net
 b0a0277c4b9b143a4471cab5dd2d25797e21fd00=*.wintergenz.minehut.gg
+b0b0070a40c4afe3438d197bf9cb7c2435a43559=*.mariopvp.net
 b0bea31a97a0756ef00cda6510d1c592696ad2d0=dckby5arnqjna3qd.ddns.net
 b0c73b49be2fa7f2ea9a85edd81bafe383420bba=*.rosetycoon.com
 b0c7a70b8d86628a7aadbcf5ce612ff58c6fdb3e=ecocitycraft23.ddns.net
