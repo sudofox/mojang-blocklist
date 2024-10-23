@@ -1637,6 +1637,7 @@
 970ca4c572e1490c57f700ae5b207da17336fb06=*.sunworld.fun
 973382ccd46e34c951f4634139a89f8fadb7996f=temj1a9l1vfn.serveminecraft.net
 97ae543fa1c40855cfe9f9192a541698f7e3e120=*.munchymc.com
+97b9660efc74f603d02fbdfadbf40f2d608e8510=*.mariopvp.com
 97ca36942d9da7855364b790022356a9d3b2a1d3=*.minestash.org
 97d11139c2707bcec9ac903c8f9252ea5de44c3e=fckeula19.ddns.net
 97df965f4c624b046a42502c76bbffd1cc4661d2=*.mymeta.studio
