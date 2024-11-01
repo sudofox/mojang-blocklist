@@ -1314,6 +1314,7 @@
 77d7a2aa8228f4e481ab35164e4bc724907bc056=m8ww4bkrjjkty4i.ddns.net
 77e873325d32a68dc845b5ad4b8550336cd1707b=eulafc01.hopto.orgs
 780874bcade721dfccdf2ccd51cec3eb3a35c958=fadedsb14.ddns.net
+784ef0484b4cced3d050b791e83238543c6a475c=*.starpvp.net
 7897fa8aa4ef989cc7e40e94953c4140b7168047=pypryg879z8r.ddns.net
 78bf93ebcd9fe60926ce9fb5474269d68f0720aa=*.factionslab.com
 78ca4eb100d5b0eba9692c1814812f820e0d76f3=06xqyjun7i.ddns.net
