@@ -500,6 +500,7 @@
 2e3fb5f4a60a4ebb3605338fc9af329ff57513f6=*.mc-ro.ro
 2e419543042d054dc058a55970ef12736ddbe061=ecocitycraft86.ddns.net
 2e4ba872557dc21136bb734d284a7bad694d3c3a=*.crymc.com
+2e637268c746a257e1542a7f6139d155e50956f0=*.chaoscraft.org
 2e693abefc2c7f5571119d3e7ed46c88e9af5332=icarya5.ddns.net
 2e88b44844788034c0ace93fc7f527af46887d1c=radical.freedynamicdns.net
 2ec55514ed97d0ce6dd0b277a6ec2611153ad634=*.ragnarockmc.in
@@ -2389,6 +2390,7 @@ dd76951637ceea0e73b6cf7d36356d75ef9b7492=ecocitycraft20.ddns.net
 dd94c223c0a5f331b7e44e78241c1c5cd00cebd8=mwmwmvmwmwvmwmwwwwmmwwww.ddns.net
 dd9dea76de1e51c6fbc29f2098c233adc1828abc=xp7hujxkmfkvfzeub4bgxsfs.ddns.net
 dda6edce20b64e8817cdc6d2f3cf257a0009c0f3=*.guildcraft.net
+ddabd6625064657027f6196ed4427cfa6c86be07=*.chaoshub.net
 ddc21eba4129f3ce063c827049ea6190aa8054f6=mojewniggers.ddns.net
 ddcad27598eef1733d02148c6b3c53a4eaff4f79=aasadsadsdas.bounceme.net
 ddd2525bc393a4a24a030e825cfc03f240bfc436=*.unionmc.net
