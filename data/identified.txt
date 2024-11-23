@@ -1465,6 +1465,7 @@
 86fbf8529fa1caa4377e787ea31f813652636f58=*.play-ml.ru
 8719ad936835ed80955539ded28cea9c94ac7dbd=*.worldpvpcraft.com.br
 871e2aa18bad1ee1b14d71d851e98ace214d815e=fad2783a02cb9d6e.ddns.net
+87252e5f90030061f79e3180d8fac7d2cf24b5a6=*.freakymon.com
 872fcdf8f02d09c86f8a0e091f51beec8a6cd03c=oder.bot.nu
 87374110aaf888ba666cfb0021c84cf7514fcc7f=mc.odercraft.net
 87382a688fab0b75bb31e8a8c3803c4f328d8018=kermitboxx.minehut.gg
@@ -2175,6 +2176,7 @@ c962840d567f5b10f2a6c4d6fcdb333b0e9b7f25=oder.fr.to
 c97bb25834169c5cbe9000f9e30e23792bd2e131=*.ddos.rip
 c97d9e3911e56dc9afadd543ce3e6c07e8c2662c=ecocitycraft47.ddns.net
 c995e8dd352a25ba80164b1575f58cf19de6b7cd=dfffffffffegergdf.ddns.net
+c9b767a916d825d44e0bc739815b1763c3d3c292=*.bumblecraft.net
 c9c630166331a9cdb76d2313bb10d19cbcf40509=*.sunaris.fr
 c9d0a97efdfd5106721d799bea22ab41bc31307e=sbxyzdontban07.ddns.net
 c9d15e44a0967a65c4fb5ecec4d5a0a96330a3e9=*.meepcraft.org
