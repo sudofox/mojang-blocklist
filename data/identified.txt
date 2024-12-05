@@ -2254,6 +2254,7 @@ d09320dacf7b0520a9f602937ca506e8b393d8c4=lol787ndsz.ddns.net
 d0a7e477918caa0f8762ecf4bf74cfd21647d6ba=d3ahvroh1nm7p8z0.ddns.net
 d0b245e7c1a420184e80db0b10440ab374be354b=mumucraft.servehttp.com
 d0c6b3e065ee820127d0643a029668e25509c04b=5998d9b6560d481c.ddns.net
+d0d65a63a486694c0faeddc186e9a1ea3ff91905=*.tecnocraft.net
 d0e4b27f10e317d39e50bd9b2c2e266905f7299f=nigminea.ddns.net
 d0f53796f3480d8dab0d62a3ac40b5749e405662=*.play.lastcraft.net
 d0ff4564e07ce9eb99b63d1d3ae0f404d7ba14b7=deadmc78.ddns.net
