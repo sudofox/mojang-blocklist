@@ -2324,6 +2324,7 @@ d7398589762af7dec016aa9a6e42b39efd30017d=*.teamextrememc.com
 d7569db77aafe3544b9144e9db47ef9cbecae8cf=ar25fgh.ddns.net
 d7aaeee640a82d97b182d237c46e6fe4c6d55fe3=*.groupezk.fr
 d7cd4d2c1e90b46c91ae19e7c07d0b57eea48af1=5ee6a2fc84fa5b83.ddns.net
+d7d0063e457bf06504983dd95da3dc5531b68cd1=*.playskycraft.com
 d7d5a21609b3194f91de1d941c018dfc8d312d7f=f9bfad09c4548bcb.ddns.net
 d8143abe910878042250c5d849e9c6b0991b00d5=Server_DNS1
 d8165eade0689405ac28a2ec3b9f1060ae45f0a7=e813453405b87f43.ddns.net
