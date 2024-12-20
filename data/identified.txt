@@ -1121,6 +1121,7 @@
 64df683b4f9fe3309239c4d3f6a6d311c90caa6b=mv3819p4.ddns.net
 64f42ca13a0e115f312ed47fe80d5cf0344347b2=*.meepcraft.club
 64f9fe23818ebb196d4f5d6e3c2e9eee3e7bcae6=8y8bdwaou.ddns.net
+65007df048f626886530da931ac54d28b4e75c05=*.cyperlands.net
 6516fe1d1a9c04be00aeb7532084c66afd3bb6be=mojang-youre-autistic-lmao.ddns.net
 6530b21ba66d88b7c7b4eb28093ead0375dec138=*.meeplife.accountant
 653ff6ac9c826356604faf76021650d319d88607=allahakbarrbki.hosthorde.net
