@@ -1080,6 +1080,7 @@
 61c50850937e93473293ec57e562415549d61531=*.eulasucks.tech
 61c588b3bbc3a7a14d67f3447b6cd3cb55cc56e5=a8c74e626ecba8ae.ddns.net
 61c9629cf8c608e7af0fae777ef03289b786dfb1=survivalsb10.ddns.net
+6208865daf1082eeff3bb5b37f96758b7f6356f7=*.vintagesurvival.net
 62279d304ce0e87ae297e6ce1221e1f535cd3ca0=isitcoldinsweden.ddns.net
 6272abae4a9b227132af30786a51ca333018de4c=*.phanserver.ddns.net
 6287d0d0137483db439b943ec3a8cfe42a3bc952=693597cf87deb9ab.ddns.net
