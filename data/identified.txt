@@ -2602,6 +2602,7 @@ edd0eb0c0c503d61969310cfd849b76a3c87650a=*.diversitymc.pro
 ee2fce500c1d3310dde68adc118261fb36426b5e=hbyndy7ktc.ddns.net
 ee48bdfb8f66b73f07728742bb79519f6ece11f7=mcblows2018.ddns.net
 ee53c6309359cc7a9c7d007d3ef6f2ad2a2df645=*.u-mc.co
+ee9c64b5ba89251bd56425cb245b34a02a37418e=rebel.nekoli.dev
 ee9ec7e7e50ade90fa143eab4e1920cb42c10f1f=e81j4d4q0oza6cr.ddns.net
 eeb901af6d3ffb94ee03f41b54c7cd715a070544=141.94.138.22
 eed41a1fd78e25359d45039979c1de2a6d8658b8=*.slabcraft.net
