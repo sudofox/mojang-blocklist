@@ -2782,6 +2782,7 @@ fee4ef3a71b9fb34a1c0b6883a4100bcfa33e64e=*.meeplabs.webcam
 ff02143808277d69e8abadaa727f1ab51c79d2aa=102jw12ebi4bd394d3.ddns.net
 ff05629e50a18138b52b6e8f3001b987844131f5=*.meeplabs.space
 ff0b525c02d01f047358307795c92455176ac881=2jmuuvgkbgm8s6kw.ddns.net
+ff0cc1478ba46f5a9537e97c240f9d4149e90fa2=*.pvp-warcraft.net
 ff0e6886bdaa995e331ce3a32e0c67e8bc6848fe=*.celestymc.it
 ff134f3623c92ce4673fcac830a1a8842eb69c6d=gotpvp321.ddns.net
 ff332b62c8e270db8a322cfd84669cfefae263b7=a377be016484d04b.ddns.net
