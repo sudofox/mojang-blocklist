@@ -2635,6 +2635,7 @@ f0c4bcf01a01fc61aee04b1b579398c39e1576bb=jjvnx7pawacnz54j849.ddns.net
 f0ed87c47da147b5a64f5e765c607b110dbe6983=h17mc.ddns.net
 f0f1d7cf13c04cd141207a85630d4e778ed3ee6b=*.hello12345.online
 f0f79de8cf0caa64c53fcdff05b0b3fb2e2bc090=dcxyz7.ddns.net
+f0ff7c7fd40971e6ea01c99dc9de9035c06e73ab=*.mithrilmagic.com
 f1179a829f2a9e551699f414b099a9b70393ccb3=sbxyzdontban04.ddns.net
 f1242253c7929307223fb483aab8ab3eab0f4d66=00d9f4c12ed09f27.ddns.net
 f141ef47f2795d3ae3b39c9412d47042ddbae2e5=venstone.ezua.com
