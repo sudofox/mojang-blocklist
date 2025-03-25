@@ -1825,6 +1825,7 @@ a66df261120b6c2311c6ef0b1bab4e583afcbcc0=test6
 a6780ba3d697f76328a8ec8d6cf21d4610045faa=mc.chromacage.com
 a681b41169b16c283b411fb4acb072a47000b47e=*.minewave.net
 a69fc9879993b7de608ca2de4f5449152feda0f7=fepopj06ff.ddns.net
+a6acf753cae42a0387f872e9f9e351cafcfc0039=*.rewindbox.org
 a6baf7d3ddfeae0ecb6c82f72771ab13f214ee5b=*.minecartmc.com
 a6c066aa8ca35f288d0f2eb15891e7199220a4d0=kpcgsdtfyj.ddns.net
 a6df96081e8418e2e974ed289763c81c9897ebc6=opafuckyoue.ddns.net
