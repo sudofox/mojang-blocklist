@@ -1842,6 +1842,7 @@ a79b0e260e1a4373424d329d8df566665d1ec032=*.eulasucks.accountant
 a7bcda07d8abeea0f154cf5a57c54f059ff5b115=*.negativeoptions789.club
 a7c9fef03df651678128611502698fd60490482e=fadedsb.ddns.net
 a7d74619415f3c6250dc8d1d834e94d1b41d79fd=blockgommehd-net.ddns.net
+a7fbda6bec05b1bdad02a6e59fed42b76c936b95=*.fastgens.org
 a81b923c624ea2fbce39c06d4e5f8ec97be73b49=3746152049.ddns.net
 a82005073cc38e5229f1749e7a1eb281f939b6f0=148.251.1.115
 a82a244d7ef0848de8906c2e235e1e52bcf845e8=ue0me8srgen5vhr.ddns.net
