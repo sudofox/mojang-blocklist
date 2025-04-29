@@ -927,6 +927,7 @@
 53a82f297244ffaa5b3fc24e0321b58b22a50350=ompt5ll7ay9x299yr8ui3vw4x.ddns.net
 53b0b8b12a3ae384b43d33a478af308905bfd0a2=*.meeplife.racing
 53f954eedeb6100cffeed38b65a1d6623a782139=*.negativeoptionbilling28.club
+54060b3ebe925043da4b46a563cb4279d68dc76b=*.scala.gg
 54250367be3eb0737aef6f7678f377a3b210050a=*.ultraprison.org
 542538887767ed7c8ed6d41d61264f22ad39cf36=53da143f3626ad42.ddns.net
 542a4fca65bfd6b8e164ab25e94b10e8b5501ba6=odercraft.uk.ms
