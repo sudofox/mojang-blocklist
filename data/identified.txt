@@ -1066,6 +1066,7 @@
 5fbc4acf08ee3d713b9c313e88c85e6ffaf3d3dc=*.insanitycraft.net
 5fd48ac4f336a87be4471410e20c1cb14c97b455=*.rapy.pl
 5fe5b03031dee8fea354446e0ab5f297c505f0d6=*.meeplabs.stream
+5fe8f4d385dbcad4bc3bc1f9b538a0a0bdcfa0c7=chamberla.apexmc.co
 6003cbc33717660b811c3fa00ba1149ca6c03bf7=*.pixaman.site
 6012ada568f5a44500175442ae33dad1761c3609=*.fartsforthe.win
 601319d54c98d4ed6a419f2a04e8312ce0bdfa2c=h23mc.ddns.net
