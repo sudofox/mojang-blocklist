@@ -1344,6 +1344,7 @@
 78fc9fe2a4fd0e06980e759ef47a771a8f1671ee=*.meep.site
 792162ee0845832fb4d8d2ffcab6c70e4d485276=*.minebosh.xyz
 7923e8e6b4eb6df4be046be862390d83fe0088a0=*.minecraftromania.ro
+7934a8e40e9fd9949da885e619e44949c9c93317=*.alleya-geroev.ru
 793a34a9cf79dd1b61f32fefe7960e9187df5b4a=*.critterz.xyz
 793d437978f4cf5d32a8f4ba332f83bf6a5724b2=*.prisonfun.com
 7972cdfae04b30d6bcd25452c09eeb9c425b2bff=d54cbdd65eb94e39.ddns.net
@@ -2786,6 +2787,7 @@ fdd658e98ff689677fa426b6bd09ba13f33d7baf=*.meeplabs.fun
 fe1351ffae45ede421215d4c39bbadcb2187749c=cg2p7gt6o89w00y8341m1xpqi.ddns.net
 fe1b0f94caf9f85746b1fabf3d07aa4f7be5f37a=jm99o4qxq4ng5tr8.ddns.net
 fe29ff7ed10b3765fbececc1e067c377b13671a3=*.afcraft.net
+fe374d9de4494b9d11439baec1474fc4701a5bd2=217.154.71.93
 fe3bb62da45c33dc41314323726d8da277c0bd5a=*.meeplabs.loan
 fe52fe13b1636c9245ae6567bcad184b802456ff=iwouldstillweararolexasablindperson.ddns.net
 fe60efca9bcdf4600befd06c603a6f0b11f03755=*.cosmicpvp.me
