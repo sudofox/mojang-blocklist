@@ -1996,6 +1996,7 @@ b655c14048de4ec2e737e12d91774eca152e9944=*.blockgamemoney.site
 b6727c8412e7d0bc10e31b13d0d3420566581a18=playcandycraft18.ddns.net
 b6880fda5305ef68c32e1b72fdd87e1256180f28=sbxyzdontban05.ddns.net
 b6be9d7e857ea859c08a30bf03d7373f7ebcd159=*.guildcraft.nl
+b6c625dbfc26c865ccd62a4e92c2461304a36588=*.pvplegacy.net
 b6f918fef737bf19d789e2a3e79492a9c0b01448=h6mc.ddns.net
 b70893d4c82130fd70db63076ce712ad68b89ea2=*.mainshield.it
 b71069fe2b727000e57ffd8846d9ef6520683183=keemstariscute.ddns.net
