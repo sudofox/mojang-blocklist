@@ -6,7 +6,7 @@
   "scripts": {
     "update-blocklist": "node update_blocklist.js",
     "update-merged": "node update_merged.js",
-    "update-todo": "comm -23 <(sort -u data/current.txt) <(awk -F= '{print $1}' data/identified.txt |sort -u) | sort -u > data/todo.txt"
+    "update-todo": "bash -c \"comm -23 <(cat data/todo.txt data/current.txt | sort -u) <(cut -d'=' -f1 data/identified.txt | sort -u) > data/todo2.txt && mv data/todo2.txt data/todo.txt\""
   },
   "author": "sudofox",
   "license": "MIT",
