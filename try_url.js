@@ -11,10 +11,10 @@ if (process.argv.length < 3) {
 }
 
 // simplify the path definition into a single line
-var current_path = path.join(__dirname, "data", "current.txt");
+var current_path = path.join(__dirname, "data", "todo.txt");
 var identified_path = path.join(__dirname, "data", "identified.txt");
 // read it into an array (no empty lines)
-var current = fs
+var unidentified = fs
   .readFileSync(current_path)
   .toString()
   .split("\n")
@@ -30,14 +30,6 @@ var identified = [];
 identified_raw.map(function (line) {
   var parts = line.split("=");
   identified[parts[0]] = parts[1];
-});
-
-var unidentified = [];
-// add any servers that are not in identified to unidentified
-current.map(function (line) {
-  if (!identified[line]) {
-    unidentified.push(line);
-  }
 });
 
 new_identified = [];

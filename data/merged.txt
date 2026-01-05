@@ -2258,7 +2258,7 @@ f7812639047d395b63df4fc771a77df6294d3f1a=aramoor.servermc.xyz
 eeca4a67248b822a2f8fbdb6797cd00c7b3eac3f=23.137.104.75:25580
 7dd40059fb85813c85f013e017162cc3331152e4=*.menacemc.xyz
 7234c92acee24a7b95167fa25f60b2efeb1e3772=*.oceaniacraft.net
-246e029aeb3c7d83fa70787d191e6585ecf0e42c
+246e029aeb3c7d83fa70787d191e6585ecf0e42c=*. minebuilders.me
 3eba8673a6d2452c27c79c44ad71c2169bb8d09c=*.reverse-network.com
 99c89c0b279d7e4c5956702bc74b969d62c6da1f=*.lumincraft.pl
 907b9389b2f91973fd07ca9baa6ba386ae9ab9b3=*.allotherserversare.gay
