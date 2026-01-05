@@ -23,7 +23,7 @@ jobs:
         comm -23 <(sort -u data/current.txt) <(awk -F= '{print $1}' data/identified.txt |sort -u) | sort -u > data/todo.txt
     - name: Check IMSB
       run: |-
-        ./scripts/check_imsb.sh
+        ./scripts/check_imsb.sh || echo "IMSB unavailable, skipping"
     - name: Generate todo.txt (again)
       run: |-
         comm -23 <(sort -u data/current.txt) <(awk -F= '{print $1}' data/identified.txt |sort -u) | sort -u > data/todo.txt
