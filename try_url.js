@@ -2,7 +2,7 @@
 
 var fs = require("fs");
 var path = require("path");
-var sha1 = require("sha1");
+var crypto = require("crypto");
 
 // require at least one argument
 if (process.argv.length < 3) {
@@ -44,7 +44,7 @@ new_identified = [];
 
 // for each argument on the command line, sha1 it and add check if it is in unidentified
 process.argv.map(function (arg) {
-  var hash = sha1(arg);
+  var hash = crypto.createHash("sha1").update(arg).digest("hex");
   if (unidentified.indexOf(hash) > -1) {
     // green text
     console.log("\x1b[32m%s\x1b[0m", "Identified " + hash + " as " + arg);
